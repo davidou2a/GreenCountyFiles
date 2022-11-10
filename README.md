@@ -44,22 +44,22 @@ Thanks.
 ## QUESTIONS / ANSWERS
 
 "**Can I repack, reupload, modify the .pbo files,  of  your mod/map?**"
-*No! it's strictly prohibited. We actively search any repacks and DMCA his author*.
+>No! it's strictly prohibited. We actively search any repacks and DMCA his author.
 
 "**Can I add this mod/map to a Steam collection?**"
-*Yes, absolutely*.
+>Yes, absolutely.
 
 "**Can I add this mod/map as a dependency on one of my items in the Steam Workshop?**"
-*Yes, if you make only a dependency*.
+>Yes, if you make only a dependency.
 
 "**Can i use this mod/map on a monetized server?**"
-*Only official monetized servers [here](https://www.bohemia.net/monetization/approved/dayz)  can use this mod/map in a monetized environment*.
+>Only official monetized servers [here](https://www.bohemia.net/monetization/approved/dayz)  can use this mod/map in a monetized environment.
 
 "**My server allow donations can i use this mod/map?**"
-*You can use this mod/map, only if you take donations without any counterparts, if you use private slots with paid system or something like that you will simply blacklisted and will be not able to use our mod/map*.
+>You can use this mod/map, only if you take donations without any counterparts, if you use private slots with paid system or something like that you will simply blacklisted and will be not able to use our mod/map.
 
 "**this mod/map is compatible with X?**"
-*We try to keep as much compatibility as possible with third party mods, but we can't guarantee compatibility with all existing mods and we can't make compatibility fixes for all mods that would have problems with it*.
+>We try to keep as much compatibility as possible with third party mods, but we can't guarantee compatibility with all existing mods and we can't make compatibility fixes for all mods that would have problems with it.
 
 ## COPYRIGHTS
 
