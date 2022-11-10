@@ -29,8 +29,8 @@ A central river runs laterally through the map much like the Livonia River. Nume
 ## MISSION/CE FILES
 
 You can find all files you need for hosting on your server on my own Github there : 
-[https://github.com/davidou2a/GreenCountyFiles](https://github.com/davidou2a/GreenCountyFiles)
-**NOT RELEASED FOR NOW** (*Work In Progress*)
+
+[https://github.com/davidou2a/GreenCountyFiles](https://github.com/davidou2a/GreenCountyFiles) : **NOT RELEASED FOR NOW** (*Work In Progress*)
 
 ## CONTACT / DONATE
 
