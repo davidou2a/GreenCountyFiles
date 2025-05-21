@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playerspawnpoints>
+	<fresh>
+		<spawn_params>
+			<min_dist_infected>30.0</min_dist_infected>
+			<max_dist_infected>70.0</max_dist_infected>
+			<min_dist_player>25.0</min_dist_player>
+			<max_dist_player>70.0</max_dist_player>
+			<min_dist_static>0.5</min_dist_static>
+			<max_dist_static>2.0</max_dist_static>
+		</spawn_params>
+
+		<generator_params>
+			<grid_density>8</grid_density>
+			<grid_width>40.0</grid_width>
+			<grid_height>40.0</grid_height>
+			<min_dist_static>0.5</min_dist_static>
+			<max_dist_static>2.0</max_dist_static>
+			<min_steepness>-45</min_steepness>
+			<max_steepness>45</max_steepness>
+		</generator_params>
+
+		<generator_posbubbles>
+			<!-- Sawmill -->
+			<pos x="693.965" z="8005.06" />
+			<pos x="780.749" z="7837.18" />
+			<pos x="622.848" z="7715.48" />
+			<pos x="832.036" z="7968.37" />
+			<pos x="947.545" z="7646.31" />
+			<pos x="801.174" z="7209.11" />
+			<!-- /Sawmill -->
+			<!-- Munford -->
+			<pos x="243.971" z="6490.07" />
+			<pos x="567.72" z="6198.91" />
+			<!-- /Munford -->
+			<!-- Edesville -->
+			<pos x="867.621" z="5828.4" />
+			<pos x="1011.19" z="5502.54" />
+			<!-- /Edesville -->
+			<!-- Lynbrook -->
+			<pos x="143.388" z="5336.99" />
+			<pos x="699.537" z="4903.4" />
+			<!-- Lynbrook -->
+			<!-- Auberry -->
+			<pos x="115.115" z="4002.5" />
+			<pos x="587.895" z="4178.92" />
+			<pos x="906.283" z="4494.81" />
+			<pos x="877.121" z="4571.83" />
+			<pos x="727.364" z="4150.83" />
+			<pos x="951.551" z="4386.71" />
+			<pos x="1149.18" z="4350.43" />
+			<!-- /Auberry -->
+			<!-- Bedford -->
+			<pos x="119.745" z="3692.75" />
+			<pos x="626.343" z="3932.91" />
+			<pos x="664.537" z="3474.51" />
+			<pos x="427.722" z="3610.33" />
+			<pos x="860.545" z="3707.87" />
+			<pos x="405.577" z="3960.44" />
+			<!-- /Bedford -->
+			<!-- Medieval Hill -->
+			<pos x="1260.46" z="4102.18" />
+			<pos x="1416.41" z="4252.29" />
+			<!-- /Medieval Hill -->
+			<!-- Old Field -->
+			<pos x="1092.9" z="3564.31" />
+			<pos x="1104.97" z="3349.6" />
+			<pos x="1326.92" z="3619.8" />
+			<pos x="1436.44" z="3501.18" />
+			<pos x="1603.73" z="3336.79" />
+			<pos x="1177.93" z="3313.44" />
+			<pos x="2064.64" z="3907.63" />
+			<pos x="662.025" z="3380.04" />
+			<!-- /Old Field -->
+			<!-- Johnson Resort -->
+			<pos x="592.423" z="3208.46" />
+			<pos x="806.953" z="2860.29" />
+			<pos x="803.006" z="2662.88" />
+			<!-- /Johnson Resort -->
+			<!-- South Random -->
+			<pos x="767.032" z="2000.87" />
+			<pos x="56.2296" z="1005.05" />
+			<pos x="293.276" z="892.589" />
+			<pos x="287.485" z="1430.46" />
+			<pos x="989.022" z="903.158" />
+			<pos x="835.79" z="928.101" />
+			<!-- /South Random -->
+		</generator_posbubbles>
+	</fresh>
+
+	<hop>
+		<generator_posbubbles>
+			<!-- Sawmill -->
+			<pos x="693.965" z="8005.06" />
+			<pos x="780.749" z="7837.18" />
+			<pos x="622.848" z="7715.48" />
+			<pos x="832.036" z="7968.37" />
+			<pos x="947.545" z="7646.31" />
+			<pos x="801.174" z="7209.11" />
+			<!-- /Sawmill -->
+			<!-- Munford -->
+			<pos x="243.971" z="6490.07" />
+			<pos x="567.72" z="6198.91" />
+			<!-- /Munford -->
+			<!-- Edesville -->
+			<pos x="867.621" z="5828.4" />
+			<pos x="1011.19" z="5502.54" />
+			<!-- /Edesville -->
+			<!-- Lynbrook -->
+			<pos x="143.388" z="5336.99" />
+			<pos x="699.537" z="4903.4" />
+			<!-- Lynbrook -->
+			<!-- Auberry -->
+			<pos x="115.115" z="4002.5" />
+			<pos x="587.895" z="4178.92" />
+			<pos x="906.283" z="4494.81" />
+			<pos x="877.121" z="4571.83" />
+			<pos x="727.364" z="4150.83" />
+			<pos x="951.551" z="4386.71" />
+			<pos x="1149.18" z="4350.43" />
+			<!-- /Auberry -->
+			<!-- Bedford -->
+			<pos x="119.745" z="3692.75" />
+			<pos x="626.343" z="3932.91" />
+			<pos x="664.537" z="3474.51" />
+			<pos x="427.722" z="3610.33" />
+			<pos x="860.545" z="3707.87" />
+			<pos x="405.577" z="3960.44" />
+			<!-- /Bedford -->
+			<!-- Medieval Hill -->
+			<pos x="1260.46" z="4102.18" />
+			<pos x="1416.41" z="4252.29" />
+			<!-- /Medieval Hill -->
+			<!-- Old Field -->
+			<pos x="1092.9" z="3564.31" />
+			<pos x="1104.97" z="3349.6" />
+			<pos x="1326.92" z="3619.8" />
+			<pos x="1436.44" z="3501.18" />
+			<pos x="1603.73" z="3336.79" />
+			<pos x="1177.93" z="3313.44" />
+			<pos x="2064.64" z="3907.63" />
+			<pos x="662.025" z="3380.04" />
+			<!-- /Old Field -->
+			<!-- Johnson Resort -->
+			<pos x="592.423" z="3208.46" />
+			<pos x="806.953" z="2860.29" />
+			<pos x="803.006" z="2662.88" />
+			<!-- /Johnson Resort -->
+			<!-- South Random -->
+			<pos x="767.032" z="2000.87" />
+			<pos x="56.2296" z="1005.05" />
+			<pos x="293.276" z="892.589" />
+			<pos x="287.485" z="1430.46" />
+			<pos x="989.022" z="903.158" />
+			<pos x="835.79" z="928.101" />
+			<!-- /South Random -->
+		</generator_posbubbles>
+	</hop>
+
+	<travel>
+		<generator_posbubbles>
+			<!-- Sawmill -->
+			<pos x="693.965" z="8005.06" />
+			<pos x="780.749" z="7837.18" />
+			<pos x="622.848" z="7715.48" />
+			<pos x="832.036" z="7968.37" />
+			<pos x="947.545" z="7646.31" />
+			<pos x="801.174" z="7209.11" />
+			<!-- /Sawmill -->
+			<!-- Munford -->
+			<pos x="243.971" z="6490.07" />
+			<pos x="567.72" z="6198.91" />
+			<!-- /Munford -->
+			<!-- Edesville -->
+			<pos x="867.621" z="5828.4" />
+			<pos x="1011.19" z="5502.54" />
+			<!-- /Edesville -->
+			<!-- Lynbrook -->
+			<pos x="143.388" z="5336.99" />
+			<pos x="699.537" z="4903.4" />
+			<!-- Lynbrook -->
+			<!-- Auberry -->
+			<pos x="115.115" z="4002.5" />
+			<pos x="587.895" z="4178.92" />
+			<pos x="906.283" z="4494.81" />
+			<pos x="877.121" z="4571.83" />
+			<pos x="727.364" z="4150.83" />
+			<pos x="951.551" z="4386.71" />
+			<pos x="1149.18" z="4350.43" />
+			<!-- /Auberry -->
+			<!-- Bedford -->
+			<pos x="119.745" z="3692.75" />
+			<pos x="626.343" z="3932.91" />
+			<pos x="664.537" z="3474.51" />
+			<pos x="427.722" z="3610.33" />
+			<pos x="860.545" z="3707.87" />
+			<pos x="405.577" z="3960.44" />
+			<!-- /Bedford -->
+			<!-- Medieval Hill -->
+			<pos x="1260.46" z="4102.18" />
+			<pos x="1416.41" z="4252.29" />
+			<!-- /Medieval Hill -->
+			<!-- Old Field -->
+			<pos x="1092.9" z="3564.31" />
+			<pos x="1104.97" z="3349.6" />
+			<pos x="1326.92" z="3619.8" />
+			<pos x="1436.44" z="3501.18" />
+			<pos x="1603.73" z="3336.79" />
+			<pos x="1177.93" z="3313.44" />
+			<pos x="2064.64" z="3907.63" />
+			<pos x="662.025" z="3380.04" />
+			<!-- /Old Field -->
+			<!-- Johnson Resort -->
+			<pos x="592.423" z="3208.46" />
+			<pos x="806.953" z="2860.29" />
+			<pos x="803.006" z="2662.88" />
+			<!-- /Johnson Resort -->
+			<!-- South Random -->
+			<pos x="767.032" z="2000.87" />
+			<pos x="56.2296" z="1005.05" />
+			<pos x="293.276" z="892.589" />
+			<pos x="287.485" z="1430.46" />
+			<pos x="989.022" z="903.158" />
+			<pos x="835.79" z="928.101" />
+			<!-- /South Random -->
+		</generator_posbubbles>
+	</travel>
+</playerspawnpoints>
