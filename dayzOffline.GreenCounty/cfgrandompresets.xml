@@ -569,7 +569,7 @@
 			<item name="Mag_CZ75_15Rnd" chance="0.076" />
 			<item name="Mag_IJ70_8Rnd" chance="0.076" />
 			<item name="Mag_SVD_10Rnd" chance="0.076" />
-			<item name="Mag_P1_8Rnd" chance="0.076" />
+			<item name="Mag_CZ75_15Rnd" chance="0.076" />
 			<item name="Mag_CZ550_10rnd" chance="0.076" />
 			<item name="Mag_SSG82_5rnd" chance="0.076" />
 		</cargo>

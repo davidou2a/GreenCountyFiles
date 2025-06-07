@@ -24,4 +24,13 @@
 	<type name="Scout_Livonia"></type>
 	<type name="Scout_Chernarus"></type>
 	<type name="PunchedCard"></type>
+	<type name="P1"></type>
+	<type name="Mag_P1_8Rnd"></type>
+	<type name="Longhorn"></type>
+	<type name="Deagle_Gold"></type>
+	<type name="CZ61"></type>
+	<type name="Mag_CZ61_20Rnd"></type>
+	<type name="Derringer_Black"></type>
+	<type name="Derringer_Grey"></type>
+	<type name="Derringer_Pink"></type>
 </ignore>
