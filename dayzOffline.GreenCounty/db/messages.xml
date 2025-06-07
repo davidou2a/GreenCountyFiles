@@ -1,18 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <messages>
-
-    <message>
-        <repeat>15</repeat>
-        <text>Thanks to playing Green County Playtest !</text>
-    </message>
-    <message>
-        <repeat>15</repeat>
-        <text>Check our Wiki : https://greencounty-dayz.alwaysdata.net</text>
-    </message>
-    <message>
-        <repeat>15</repeat>
-        <text>Join our Discord : https://discord.gg/BPFNJcXQaK</text>
-    </message>
 <!--
 See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
 

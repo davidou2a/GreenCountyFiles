@@ -1045,7 +1045,7 @@
         </children>
     </event>
     <event name="StaticTrailers">
-        <nominal>10</nominal>
+        <nominal>5</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>1800</lifetime>

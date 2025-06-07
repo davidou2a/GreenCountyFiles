@@ -1,1 +1,2 @@
-The file "db\types.xml" is the one who have used on the 15/05/2025 Official Playtest and set for a ~50 Players server.
+The file "db\playtest_types.xml" is the one who have used on the 15/05/2025 Official Playtest and set for a ~50 Players server.
+If you want use it just rename "db\playtest_types.xml" in "db\types.xml"
