@@ -4051,19 +4051,19 @@
     <usage name="Police" />
   </type>
   <type name="CZ75">
-    <nominal>0</nominal>
+    <nominal>30</nominal>
     <lifetime>28800</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>25</min>
     <quantmin>30</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
-    <usage name="Police" />
-    <usage name="Village" />
     <value name="Tier1" />
     <value name="Tier2" />
+    <usage name="Farm" />
+    <usage name="Village" />
   </type>
   <type name="CableReel">
     <nominal>45</nominal>
@@ -8308,10 +8308,10 @@
     <category name="containers" />
   </type>
   <type name="Glock19">
-    <nominal>19</nominal>
+    <nominal>15</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>15</min>
+    <min>10</min>
     <quantmin>30</quantmin>
     <quantmax>80</quantmax>
     <cost>100</cost>
@@ -8319,7 +8319,7 @@
     <category name="weapons" />
     <tag name="shelves" />
     <usage name="Police" />
-    <usage name="Village" />
+    <usage name="Prison" />
   </type>
   <type name="GlowPlug">
     <nominal>8</nominal>
@@ -12544,19 +12544,19 @@
     <usage name="Police" />
   </type>
   <type name="Mag_CZ75_15Rnd">
-    <nominal>0</nominal>
+    <nominal>45</nominal>
     <lifetime>28800</lifetime>
     <restock>0</restock>
-    <min>0</min>
+    <min>40</min>
     <quantmin>10</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
-    <usage name="Police" />
-    <usage name="Village" />
     <value name="Tier1" />
     <value name="Tier2" />
+    <usage name="Farm" />
+    <usage name="Village" />
   </type>
   <type name="Mag_Deagle_9rnd">
     <nominal>22</nominal>
@@ -12612,17 +12612,17 @@
     <value name="Tier3" />
   </type>
   <type name="Mag_Glock_15Rnd">
-    <nominal>34</nominal>
+    <nominal>30</nominal>
     <lifetime>7200</lifetime>
     <restock>0</restock>
-    <min>26</min>
+    <min>20</min>
     <quantmin>10</quantmin>
     <quantmax>100</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
     <category name="weapons" />
     <usage name="Police" />
-    <usage name="Village" />
+    <usage name="Prison" />
   </type>
   <type name="Mag_IJ70_8Rnd">
     <nominal>30</nominal>
