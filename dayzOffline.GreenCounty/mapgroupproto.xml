@@ -31,7 +31,7 @@
 	</group>
 	<group name="Land_GC_Wreck_Sedan90_Police" lootmax="7">
 		<usage name="Police" />
-		<container name="lootshelves">
+		<container name="lootSeats">
 			<category name="tools" />
 			<category name="clothes" />
 			<category name="weapons" />
@@ -48,7 +48,7 @@
 	</group>
 	<group name="Land_GC_Wreck_Sedan90_Police_DE" lootmax="7">
 		<usage name="Police" />
-		<container name="lootshelves">
+		<container name="lootSeats">
 			<category name="tools" />
 			<category name="clothes" />
 			<category name="weapons" />
@@ -299,7 +299,6 @@
 		</container>
 	</group>
 	<group name="Land_GC_Wreck_Ambulance_Medic_DE" lootmax="10">
-		<usage name="Medic" />
 		<usage name="Medic" />
 		<container name="lootGround">
 			<category name="clothes" />
