@@ -756,7 +756,7 @@
         <limit>child</limit>
         <active>1</active>
         <children>
-            <child lootmax="6" lootmin="5" max="6" min="3" type="Land_GC_Wreck_Sedan90_Ruined_Police_DE"/>
+            <child lootmax="7" lootmin="5" max="6" min="3" type="Land_GC_Wreck_Sedan90_Ruined_Police_DE"/>
         </children>
     </event>
     <event name="StaticPoliceSituation">

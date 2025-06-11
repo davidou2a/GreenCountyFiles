@@ -1,5 +1,132 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <map>
+    <group name="QuercusRobur_stumpB" pos="9792.201172 265.266083 6589.847168" a="101.999969" />
+    <group name="QuercusRobur_fallenB" pos="9783.289063 271.077698 6657.703125" a="-34.000008" />
+    <group name="QuercusRobur_fallenB" pos="9779.036133 253.044098 6865.645020" a="-111.999992" />
+    <group name="QuercusRobur_stump" pos="9773.319336 251.611816 6850.981934" a="73.999992" />
+    <group name="QuercusRobur_fallenC" pos="9767.529297 250.104111 6871.896973" a="71.000000" />
+    <group name="QuercusRobur_stump" pos="9767.789063 235.838959 7381.144043" a="-133.000000" />
+    <group name="QuercusRobur_fallenB" pos="9787.944336 222.291229 7668.056152" a="-146.000000" />
+    <group name="QuercusRobur_fallenB" pos="9784.581055 222.376968 7654.976074" a="129.999985" />
+    <group name="QuercusRobur_fallenB" pos="9780.384766 240.952805 8226.156250" a="-95.999992" />
+    <group name="QuercusRobur_fallenB" pos="9761.789063 238.893265 8290.554688" a="149.000015" />
+    <group name="QuercusRobur_fallenC" pos="9785.682617 239.835693 8354.626953" a="-70.000000" />
+    <group name="QuercusRobur_stump" pos="9772.869141 235.153961 8360.084961" a="49.000000" />
+    <group name="QuercusRobur_fallenB" pos="9781.964844 228.978943 8444.929688" a="-46.000004" />
+    <group name="QuercusRobur_stump" pos="9772.642578 223.655655 8476.355469" a="114.999985" />
+    <group name="QuercusRobur_fallenC" pos="9799.686523 232.056625 8462.624023" a="31.000000" />
+    <group name="QuercusRobur_stumpB" pos="9771.639648 221.086868 8488.619141" a="-142.999985" />
+    <group name="QuercusRobur_fallenB" pos="9765.526367 217.631836 8719.428711" a="84.000000" />
+    <group name="QuercusRobur_fallenC" pos="9794.711914 218.803360 8680.279297" a="-8.000006" />
+    <group name="PathD_6ko" pos="9760.360352 225.080002 8829.317383" a="154.999908" />
+    <group name="QuercusRobur_fallenB" pos="9764.991211 238.934265 8880.533203" a="17.999998" />
+    <group name="PiceaAbies_fallend" pos="9771.704102 261.695038 9073.790039" a="172.999985" />
+    <group name="PiceaAbies_stumpc" pos="9769.346680 262.838593 9085.570313" a="17.999996" />
+    <group name="PiceaAbies_fallend" pos="9778.833008 261.636719 9124.997070" a="142.999985" />
+    <group name="PiceaAbies_stumpc" pos="9777.289063 262.015747 9158.693359" a="-75.999992" />
+    <group name="PiceaAbies_fallene" pos="9771.695313 263.052826 9162.639648" a="147.000000" />
+    <group name="QuercusRobur_fallenC" pos="9796.723633 260.309387 9167.727539" a="-122.000000" />
+    <group name="QuercusRobur_fallenC" pos="9775.506836 268.689850 9272.090820" a="-138.000000" />
+    <group name="QuercusRobur_stump" pos="9768.057617 299.492981 9657.614258" a="-47.000000" />
+    <group name="PiceaAbies_stumpd" pos="9799.011719 302.323456 9719.481445" a="117.999992" />
+    <group name="QuercusRobur_fallenC" pos="9786.916016 301.778290 9689.215820" a="-122.000000" />
+    <group name="PiceaAbies_fallene" pos="9786.891602 303.640839 9737.904297" a="178.999969" />
+    <group name="PiceaAbies_fallend" pos="9765.437500 304.785034 9737.600586" a="-141.181381" />
+    <group name="PiceaAbies_fallend" pos="9766.312500 304.795929 9742.971680" a="-93.202576" />
+    <group name="PiceaAbies_stumpd" pos="9772.062500 303.903351 9759.306641" a="-135.094788" />
+    <group name="PiceaAbies_stumpd" pos="9775.484375 304.123840 9742.735352" a="119.125610" />
+    <group name="PiceaAbies_stumpd" pos="9769.312500 304.161560 9758.737305" a="49.371311" />
+    <group name="PiceaAbies_stumpd" pos="9769.296875 304.503906 9735.689453" a="134.001526" />
+    <group name="PiceaAbies_stumpd" pos="9768.390625 304.606049 9741.644531" a="7.852709" />
+    <group name="PiceaAbies_stumpd" pos="9772.609375 303.366302 9764.629883" a="-42.641972" />
+    <group name="PiceaAbies_stumpd" pos="9774.000000 300.449066 9786.983398" a="-13.054877" />
+    <group name="PiceaAbies_stumpd" pos="9776.609375 301.699890 9774.376953" a="-0.530107" />
+    <group name="PiceaAbies_stumpd" pos="9761.796875 301.639435 9792.575195" a="-177.305542" />
+    <group name="PiceaAbies_fallene" pos="9771.671875 298.299438 9820.979492" a="-6.012475" />
+    <group name="PiceaAbies_stumpd" pos="9771.515625 297.786224 9822.132813" a="-25.447884" />
+    <group name="PiceaAbies_stumpd" pos="9777.890625 296.789886 9807.235352" a="7.468208" />
+    <group name="PiceaAbies_fallene" pos="9766.671875 301.338135 9874.500977" a="2.315439" />
+    <group name="PiceaAbies_stumpd" pos="9779.421875 296.336914 9853.016602" a="136.649338" />
+    <group name="PiceaAbies_stumpd" pos="9797.578125 292.256287 9879.271484" a="-81.424942" />
+    <group name="PiceaAbies_stumpd" pos="9776.765625 297.443451 9859.114258" a="-89.280434" />
+    <group name="PiceaAbies_stumpd" pos="9762.890625 300.853851 9861.499023" a="-144.642181" />
+    <group name="PiceaAbies_stumpd" pos="9789.796875 293.769287 9863.995117" a="75.464676" />
+    <group name="PiceaAbies_stumpd" pos="9770.687500 298.787903 9854.564453" a="-36.434544" />
+    <group name="PiceaAbies_stumpd" pos="9767.250000 301.876770 9886.791016" a="-117.746841" />
+    <group name="PiceaAbies_stumpd" pos="9777.281250 301.970886 9911.656250" a="-39.477844" />
+    <group name="PiceaAbies_stumpd" pos="9762.234375 304.568634 9908.354492" a="-40.334801" />
+    <group name="PiceaAbies_stumpd" pos="9766.109375 301.667999 9882.462891" a="68.224419" />
+    <group name="PiceaAbies_fallene" pos="9778.406250 303.645386 9953.376953" a="14.631484" />
+    <group name="PiceaAbies_stumpd" pos="9795.328125 298.528229 9932.761719" a="159.611481" />
+    <group name="PiceaAbies_stumpd" pos="9761.593750 306.041809 9954.719727" a="-144.905823" />
+    <group name="PiceaAbies_stumpd" pos="9792.000000 298.777649 9921.513672" a="-69.910889" />
+    <group name="PiceaAbies_stumpd" pos="9771.375000 304.486267 9940.312500" a="69.971291" />
+    <group name="PiceaAbies_stumpd" pos="9769.031250 304.901825 9953.945313" a="130.870331" />
+    <group name="PiceaAbies_fallene" pos="9770.875000 303.928772 9982.112305" a="64.038528" />
+    <group name="PiceaAbies_stumpd" pos="9760.734375 304.161072 9993.407227" a="-138.852203" />
+    <group name="PiceaAbies_stumpd" pos="9763.703125 303.101624 9998.936523" a="37.835323" />
+    <group name="PiceaAbies_stumpd" pos="9770.796875 303.291229 9985.745117" a="176.223282" />
+    <group name="PiceaAbies_stumpd" pos="9770.781250 303.760254 9978.573242" a="144.911331" />
+    <group name="PiceaAbies_stumpd" pos="9777.843750 296.114868 10025.823242" a="-112.813797" />
+    <group name="PiceaAbies_stumpd" pos="9760.937500 296.133728 10039.140625" a="-8.407528" />
+    <group name="PiceaAbies_stumpd" pos="9779.859375 299.133240 10009.441406" a="-17.493526" />
+    <group name="PiceaAbies_stumpd" pos="9781.531250 297.173767 10018.351563" a="-122.712799" />
+    <group name="PiceaAbies_stumpd" pos="9767.671875 300.213287 10014.354492" a="168.807312" />
+    <group name="PiceaAbies_fallene" pos="9796.156250 284.071930 10072.694336" a="75.970047" />
+    <group name="PiceaAbies_fallend" pos="9796.437500 284.762573 10065.490234" a="166.379288" />
+    <group name="PiceaAbies_stumpd" pos="9760.750000 289.665924 10075.521484" a="-95.432892" />
+    <group name="PiceaAbies_stumpd" pos="9762.203125 289.875183 10071.224609" a="-20.569784" />
+    <group name="PiceaAbies_stumpd" pos="9790.218750 284.222412 10073.026367" a="-161.770386" />
+    <group name="PiceaAbies_stumpd" pos="9778.234375 287.668182 10063.184570" a="-73.261810" />
+    <group name="PiceaAbies_stumpd" pos="9778.140625 285.818634 10076.674805" a="-152.102112" />
+    <group name="PiceaAbies_fallene" pos="9761.093750 287.532288 10100.402344" a="-65.340439" />
+    <group name="PiceaAbies_fallend" pos="9761.968750 286.330627 10110.796875" a="-112.594070" />
+    <group name="PiceaAbies_fallend" pos="9799.437500 278.977478 10102.140625" a="-74.909813" />
+    <group name="PiceaAbies_stumpd" pos="9764.125000 285.766785 10109.011719" a="-16.186087" />
+    <group name="PiceaAbies_stumpd" pos="9761.265625 285.607910 10119.185547" a="34.726097" />
+    <group name="PiceaAbies_fallene" pos="9775.765625 279.207184 10143.639648" a="-166.802292" />
+    <group name="PiceaAbies_fallene" pos="9791.546875 277.769196 10124.241211" a="-167.406509" />
+    <group name="PiceaAbies_stumpd" pos="9772.265625 277.074341 10158.979492" a="51.063248" />
+    <group name="PiceaAbies_stumpd" pos="9780.109375 280.435303 10123.008789" a="102.491829" />
+    <group name="PiceaAbies_stumpd" pos="9794.234375 275.629669 10130.891602" a="-143.829193" />
+    <group name="PiceaAbies_stumpd" pos="9794.140625 274.053375 10140.559570" a="-64.867996" />
+    <group name="PiceaAbies_fallene" pos="9798.421875 269.913452 10160.463867" a="-110.078117" />
+    <group name="PiceaAbies_fallene" pos="9765.484375 277.002991 10170.353516" a="145.757355" />
+    <group name="PiceaAbies_stumpd" pos="9763.781250 277.585968 10167.367188" a="-138.313843" />
+    <group name="PiceaAbies_stumpd" pos="9779.328125 272.822144 10173.275391" a="-124.811279" />
+    <group name="PiceaAbies_stumpd" pos="9764.203125 274.651489 10180.463867" a="-43.158344" />
+    <group name="PiceaAbies_stumpd" pos="9765.812500 277.382721 10166.166992" a="-164.165482" />
+    <group name="PiceaAbies_stumpd" pos="9771.140625 276.975586 10161.522461" a="-65.208588" />
+    <group name="PiceaAbies_stumpc" pos="9797.741211 268.235779 10171.010742" a="-7.000003" />
+    <group name="PiceaAbies_stumpc" pos="9785.586914 271.051392 10176.004883" a="-87.999992" />
+    <group name="QuercusRobur_fallenC" pos="9817.057617 288.444336 36.053001" a="-127.999992" />
+    <group name="QuercusRobur_stumpB" pos="9818.149414 290.039520 17.601999" a="167.999985" />
+    <group name="QuercusRobur_fallenC" pos="9820.147461 287.087830 92.361000" a="-117.000000" />
+    <group name="QuercusRobur_fallenB" pos="9831.905273 288.614349 135.697998" a="-79.000008" />
+    <group name="QuercusRobur_fallenC" pos="9818.772461 272.512695 262.812988" a="-57.000011" />
+    <group name="QuercusRobur_fallenB" pos="9809.207031 270.419586 285.803986" a="-145.000000" />
+    <group name="QuercusRobur_fallenB" pos="9832.874023 265.132172 328.398987" a="-148.000015" />
+    <group name="QuercusRobur_stump" pos="9811.362305 265.476166 336.781006" a="92.999992" />
+    <group name="QuercusRobur_stump" pos="9825.340820 271.029083 425.903992" a="-64.999992" />
+    <group name="QuercusRobur_fallenC" pos="9834.100586 280.386627 498.572998" a="162.999985" />
+    <group name="QuercusRobur_fallenC" pos="9804.695313 285.075989 565.611023" a="89.000000" />
+    <group name="QuercusRobur_stumpB" pos="9821.575195 282.604156 567.346985" a="110.999969" />
+    <group name="QuercusRobur_fallenC" pos="9832.898438 297.154449 751.877991" a="-120.000008" />
+    <group name="QuercusRobur_stump" pos="9825.698242 299.145233 783.379028" a="130.999969" />
+    <group name="QuercusRobur_fallenC" pos="9807.208984 301.277405 772.473999" a="106.000000" />
+    <group name="QuercusRobur_stumpB" pos="9804.720703 295.340607 867.158997" a="98.999962" />
+    <group name="QuercusRobur_fallenB" pos="9806.668945 295.605072 897.296997" a="139.999985" />
+    <group name="QuercusRobur_stumpB" pos="9827.342773 294.177826 906.439026" a="11.999997" />
+    <group name="QuercusRobur_fallenB" pos="9834.594727 295.827179 963.870972" a="14.999994" />
+    <group name="QuercusRobur_fallenB" pos="9830.706055 292.572418 1010.937988" a="130.999969" />
+    <group name="QuercusRobur_stump" pos="9823.954102 291.361511 1016.681030" a="19.999992" />
+    <group name="QuercusRobur_stumpB" pos="9825.358398 287.740448 1044.078003" a="-144.000015" />
+    <group name="QuercusRobur_fallenB" pos="9824.051758 277.239136 1137.796021" a="-58.999996" />
+    <group name="QuercusRobur_stump" pos="9835.443359 279.435913 1134.397949" a="-40.000000" />
+    <group name="QuercusRobur_stumpB" pos="9816.524414 272.950348 1195.790039" a="13.999999" />
+    <group name="QuercusRobur_stump" pos="9813.806641 270.084473 1235.272949" a="17.999996" />
+    <group name="QuercusRobur_fallenB" pos="9835.807617 269.548431 1271.661987" a="151.999985" />
+    <group name="QuercusRobur_fallenB" pos="9831.979492 271.415619 1305.087036" a="-109.000000" />
     <group name="QuercusRobur_fallenB" pos="9804.232422 259.969452 1522.416992" a="87.999992" />
     <group name="QuercusRobur_fallenB" pos="9838.456055 256.959137 1564.135010" a="-91.000008" />
     <group name="QuercusRobur_stumpB" pos="9824.417969 258.686462 1578.112061" a="-86.999985" />
@@ -18,10 +145,10 @@
     <group name="QuercusRobur_stump" pos="9801.746094 296.218445 2502.714111" a="177.999985" />
     <group name="QuercusRobur_stump" pos="9812.651367 296.023621 2522.418945" a="52.999996" />
     <group name="QuercusRobur_fallenC" pos="9831.547852 294.711212 2524.123047" a="63.999996" />
-    <group name="QuercusRobur_stumpB" pos="9832.384766 297.895721 2607.615967" a="19.999992" />
     <group name="QuercusRobur_stumpB" pos="9811.133789 296.273193 2609.194092" a="-33.000000" />
-    <group name="QuercusRobur_fallenC" pos="9823.741211 296.131317 2661.977051" a="85.999992" />
+    <group name="QuercusRobur_stumpB" pos="9832.384766 297.895721 2607.615967" a="19.999992" />
     <group name="QuercusRobur_fallenC" pos="9824.090820 295.955994 2645.857910" a="167.999985" />
+    <group name="QuercusRobur_fallenC" pos="9823.741211 296.131317 2661.977051" a="85.999992" />
     <group name="QuercusRobur_fallenB" pos="9814.493164 299.311401 2699.267090" a="51.999996" />
     <group name="QuercusRobur_fallenC" pos="9807.786133 316.308807 2792.308105" a="162.999985" />
     <group name="QuercusRobur_fallenB" pos="9800.443359 307.894379 2916.587891" a="-57.000011" />
@@ -53,8 +180,8 @@
     <group name="QuercusRobur_fallenC" pos="9822.773438 237.690125 5029.640137" a="-160.000000" />
     <group name="QuercusRobur_stump" pos="9817.674805 236.365967 5052.811035" a="-107.999992" />
     <group name="QuercusRobur_fallenC" pos="9821.291016 236.361542 5045.265137" a="-68.000000" />
-    <group name="AppleTree2" pos="9814.110352 216.698273 5155.040039" a="90.000000" />
     <group name="AppleTree2" pos="9807.540039 216.698273 5149.209961" a="90.000000" />
+    <group name="AppleTree2" pos="9814.110352 216.698273 5155.040039" a="90.000000" />
     <group name="AppleTree2" pos="9821.240234 216.698273 5161.509766" a="90.000000" />
     <group name="PearTree2" pos="9806.379883 216.036392 5222.399902" a="90.000000" />
     <group name="PearTree2" pos="9818.040039 216.036392 5214.149902" a="90.000000" />
@@ -70,19 +197,19 @@
     <group name="PathD_11k" pos="9807.245117 250.361938 5790.242188" a="-101.000031" />
     <group name="PathD_02k" pos="9803.734375 251.358963 5773.179199" a="78.499969" />
     <group name="QuercusRobur_fallenC" pos="9835.799805 244.485779 5760.373047" a="131.999985" />
-    <group name="PathD_02k" pos="9813.794922 253.168274 5824.538574" a="-100.000031" />
     <group name="PathD_02k" pos="9810.614258 251.131256 5807.377930" a="-100.500031" />
+    <group name="PathD_02k" pos="9813.794922 253.168274 5824.538574" a="-100.000031" />
     <group name="PathD_11k" pos="9819.666992 258.643433 5858.935547" a="-98.500046" />
-    <group name="PathD_02k" pos="9822.286133 260.453125 5876.201660" a="-98.000046" />
     <group name="PathD_02k" pos="9816.826172 256.144165 5841.726563" a="-99.500031" />
+    <group name="PathD_02k" pos="9822.286133 260.453125 5876.201660" a="-98.000046" />
     <group name="QuercusRobur_fallenB" pos="9826.950195 257.838013 5860.518066" a="-130.000000" />
     <group name="PathD_11k" pos="9827.111328 260.913818 5910.805664" a="82.499947" />
     <group name="PathD_02k" pos="9824.715820 260.716248 5893.484863" a="-97.500046" />
     <group name="QuercusRobur_fallenC" pos="9832.313477 259.163635 5886.004883" a="31.000000" />
-    <group name="PathD_02k" pos="9829.651367 261.576416 5928.061523" a="81.499954" />
     <group name="PathD_02k" pos="9832.381836 262.537323 5945.299805" a="80.999954" />
-    <group name="PathD_02k" pos="9838.293945 265.562866 5979.701660" a="79.999962" />
+    <group name="PathD_02k" pos="9829.651367 261.576416 5928.061523" a="81.499954" />
     <group name="PathD_02k" pos="9835.262695 264.048096 5962.513672" a="80.499954" />
+    <group name="PathD_02k" pos="9838.293945 265.562866 5979.701660" a="79.999962" />
     <group name="QuercusRobur_stumpB" pos="9823.896484 269.746918 6003.299805" a="-52.000000" />
     <group name="QuercusRobur_fallenC" pos="9811.409180 272.958893 6066.912109" a="0.999999" />
     <group name="PiceaAbies_fallene" pos="9805.462891 286.537170 6154.367188" a="-116.000008" />
@@ -97,8 +224,8 @@
     <group name="PiceaAbies_fallene" pos="9809.226563 290.805878 6467.186035" a="149.999954" />
     <group name="PiceaAbies_fallene" pos="9829.158203 290.193024 6458.173828" a="155.999969" />
     <group name="PiceaAbies_stumpc" pos="9816.040039 290.400116 6469.685059" a="107.999992" />
-    <group name="PiceaAbies_fallend" pos="9818.785156 287.066071 6496.573242" a="-43.000008" />
     <group name="PiceaAbies_fallend" pos="9804.925781 285.955139 6501.479004" a="-58.999996" />
+    <group name="PiceaAbies_fallend" pos="9818.785156 287.066071 6496.573242" a="-43.000008" />
     <group name="QuercusRobur_fallenB" pos="9806.083984 222.049942 7145.145996" a="-131.000000" />
     <group name="QuercusRobur_fallenB" pos="9831.721680 209.979462 7229.209961" a="-6.000002" />
     <group name="QuercusRobur_stump" pos="9838.681641 224.504135 7434.347168" a="61.000000" />
@@ -111,8 +238,8 @@
     <group name="QuercusRobur_stump" pos="9812.378906 228.570526 8087.670898" a="-25.000002" />
     <group name="QuercusRobur_fallenB" pos="9807.383789 236.376083 8145.437012" a="-158.000015" />
     <group name="QuercusRobur_stumpB" pos="9816.764648 239.733490 8149.640137" a="-25.999996" />
-    <group name="QuercusRobur_stump" pos="9815.556641 252.536835 8220.361328" a="51.999996" />
     <group name="QuercusRobur_stump" pos="9827.172852 253.378799 8205.404297" a="100.999977" />
+    <group name="QuercusRobur_stump" pos="9815.556641 252.536835 8220.361328" a="51.999996" />
     <group name="QuercusRobur_stumpB" pos="9838.523438 264.086731 8329.722656" a="-5.000008" />
     <group name="QuercusRobur_fallenB" pos="9824.591797 251.513382 8366.575195" a="83.000000" />
     <group name="QuercusRobur_fallenC" pos="9825.952148 219.188019 8568.147461" a="-25.999996" />
@@ -134,43 +261,43 @@
     <group name="PiceaAbies_stumpd" pos="9812.928711 301.073578 9722.646484" a="175.000000" />
     <group name="PiceaAbies_stumpd" pos="9810.439453 297.610016 9768.949219" a="-47.000000" />
     <group name="QuercusRobur_stumpB" pos="9814.752930 281.967926 9853.844727" a="170.999985" />
+    <group name="PiceaAbies_stumpd" pos="9809.671875 290.847260 9906.252930" a="-16.812349" />
     <group name="PiceaAbies_stumpd" pos="9804.609375 291.912445 9899.365234" a="-5.880620" />
     <group name="PiceaAbies_stumpd" pos="9812.484375 290.441589 9910.644531" a="38.692307" />
-    <group name="PiceaAbies_stumpd" pos="9809.671875 290.847260 9906.252930" a="-16.812349" />
-    <group name="PiceaAbies_stumpd" pos="9820.937500 292.076538 9950.801758" a="-51.596104" />
     <group name="PiceaAbies_stumpd" pos="9831.984375 289.581177 9951.133789" a="-110.155045" />
-    <group name="PiceaAbies_stumpd" pos="9804.109375 296.836792 9954.814453" a="-148.256821" />
+    <group name="PiceaAbies_stumpd" pos="9820.937500 292.076538 9950.801758" a="-51.596104" />
     <group name="PiceaAbies_stumpd" pos="9823.093750 288.809540 9923.915039" a="88.429024" />
+    <group name="PiceaAbies_stumpd" pos="9804.109375 296.836792 9954.814453" a="-148.256821" />
     <group name="PiceaAbies_stumpd" pos="9806.734375 295.690399 9947.658203" a="102.865356" />
     <group name="PiceaAbies_stumpd" pos="9833.828125 288.996063 9949.901367" a="-26.447655" />
     <group name="PiceaAbies_fallend" pos="9837.468750 289.638916 9966.883789" a="68.619980" />
     <group name="PiceaAbies_stumpd" pos="9832.062500 290.986633 9972.886719" a="59.116512" />
-    <group name="PiceaAbies_stumpd" pos="9808.343750 292.675018 10018.477539" a="51.272015" />
     <group name="PiceaAbies_stumpd" pos="9818.531250 291.103516 10016.976563" a="-80.260345" />
-    <group name="PiceaAbies_stumpd" pos="9821.546875 290.364258 10017.814453" a="88.429024" />
-    <group name="PiceaAbies_stumpd" pos="9806.250000 291.272125 10028.919922" a="-154.640030" />
     <group name="PiceaAbies_stumpd" pos="9817.328125 291.158966 10018.083008" a="-61.912586" />
     <group name="PiceaAbies_stumpd" pos="9827.515625 288.514343 10022.822266" a="110.786736" />
-    <group name="PiceaAbies_fallene" pos="9822.250000 281.228394 10070.356445" a="128.519211" />
+    <group name="PiceaAbies_stumpd" pos="9821.546875 290.364258 10017.814453" a="88.429024" />
+    <group name="PiceaAbies_stumpd" pos="9806.250000 291.272125 10028.919922" a="-154.640030" />
+    <group name="PiceaAbies_stumpd" pos="9808.343750 292.675018 10018.477539" a="51.272015" />
     <group name="PiceaAbies_fallene" pos="9825.421875 282.444550 10062.046875" a="5.029175" />
+    <group name="PiceaAbies_fallene" pos="9822.250000 281.228394 10070.356445" a="128.519211" />
     <group name="PiceaAbies_stumpd" pos="9801.046875 288.402527 10045.333008" a="42.065208" />
+    <group name="PiceaAbies_stumpd" pos="9826.765625 285.194794 10044.448242" a="-133.128143" />
     <group name="PiceaAbies_stumpd" pos="9806.171875 287.421478 10047.339844" a="49.887684" />
     <group name="PiceaAbies_stumpd" pos="9826.062500 278.749298 10077.338867" a="-47.047684" />
-    <group name="PiceaAbies_stumpd" pos="9826.765625 285.194794 10044.448242" a="-133.128143" />
     <group name="PiceaAbies_stumpd" pos="9800.312500 288.735260 10044.195313" a="43.636284" />
     <group name="PiceaAbies_fallene" pos="9816.765625 275.138794 10104.967773" a="-158.034882" />
-    <group name="PiceaAbies_fallene" pos="9821.437500 278.607849 10084.226563" a="166.368271" />
     <group name="PiceaAbies_fallene" pos="9816.218750 274.228577 10109.359375" a="-48.267193" />
+    <group name="PiceaAbies_fallene" pos="9821.437500 278.607849 10084.226563" a="166.368271" />
     <group name="PiceaAbies_fallend" pos="9815.828125 277.808319 10092.204102" a="43.108952" />
     <group name="PiceaAbies_stumpd" pos="9830.250000 268.122375 10116.990234" a="47.932079" />
-    <group name="PiceaAbies_stumpd" pos="9804.296875 277.198486 10106.327148" a="129.277328" />
-    <group name="PiceaAbies_stumpd" pos="9838.234375 273.149323 10089.170898" a="174.509430" />
     <group name="PiceaAbies_stumpd" pos="9800.515625 280.515137 10091.019531" a="146.910934" />
-    <group name="PiceaAbies_stumpd" pos="9800.781250 281.624786 10083.578125" a="172.399963" />
-    <group name="PiceaAbies_stumpd" pos="9808.140625 278.764832 10094.462891" a="-139.434494" />
-    <group name="PiceaAbies_stumpd" pos="9825.156250 273.091522 10102.550781" a="-27.249681" />
-    <group name="PiceaAbies_stumpd" pos="9831.546875 276.959656 10080.355469" a="-179.722580" />
     <group name="PiceaAbies_stumpd" pos="9813.250000 273.103424 10116.500000" a="-78.019051" />
+    <group name="PiceaAbies_stumpd" pos="9825.156250 273.091522 10102.550781" a="-27.249681" />
+    <group name="PiceaAbies_stumpd" pos="9808.140625 278.764832 10094.462891" a="-139.434494" />
+    <group name="PiceaAbies_stumpd" pos="9804.296875 277.198486 10106.327148" a="129.277328" />
+    <group name="PiceaAbies_stumpd" pos="9831.546875 276.959656 10080.355469" a="-179.722580" />
+    <group name="PiceaAbies_stumpd" pos="9800.781250 281.624786 10083.578125" a="172.399963" />
+    <group name="PiceaAbies_stumpd" pos="9838.234375 273.149323 10089.170898" a="174.509430" />
     <group name="PiceaAbies_stumpd" pos="9822.468750 266.749237 10134.224609" a="1.524352" />
     <group name="PiceaAbies_stumpd" pos="9804.093750 274.032654 10123.877930" a="102.920296" />
     <group name="QuercusRobur_stump" pos="9848.992188 284.902405 110.139000" a="-125.000008" />
@@ -200,8 +327,8 @@
     <group name="QuercusRobur_fallenC" pos="9855.994141 296.129272 982.994019" a="-22.000008" />
     <group name="QuercusRobur_stump" pos="9858.541016 288.313995 1082.176025" a="-57.000011" />
     <group name="QuercusRobur_fallenC" pos="9875.754883 278.100555 1191.394043" a="36.000000" />
-    <group name="QuercusRobur_stumpB" pos="9872.651367 281.213501 1161.063965" a="-79.999985" />
     <group name="QuercusRobur_stumpB" pos="9841.474609 276.279968 1183.926025" a="-156.000000" />
+    <group name="QuercusRobur_stumpB" pos="9872.651367 281.213501 1161.063965" a="-79.999985" />
     <group name="QuercusRobur_fallenB" pos="9875.952148 271.862885 1235.614014" a="-57.000015" />
     <group name="QuercusRobur_stumpB" pos="9841.796875 272.639313 1215.782959" a="92.000000" />
     <group name="QuercusRobur_stump" pos="9854.943359 269.263367 1260.909058" a="-156.999985" />
@@ -210,8 +337,8 @@
     <group name="QuercusRobur_stumpB" pos="9864.870117 270.932800 1340.755005" a="40.000000" />
     <group name="QuercusRobur_fallenC" pos="9860.267578 274.987091 1392.083008" a="-12.000010" />
     <group name="QuercusRobur_fallenB" pos="9854.089844 276.676605 1417.677979" a="-174.000000" />
-    <group name="QuercusRobur_stumpB" pos="9844.294922 276.422363 1440.759033" a="34.999996" />
     <group name="QuercusRobur_stumpB" pos="9879.314453 265.019379 1478.546021" a="-25.000002" />
+    <group name="QuercusRobur_stumpB" pos="9844.294922 276.422363 1440.759033" a="34.999996" />
     <group name="QuercusRobur_fallenC" pos="9866.602539 264.346680 1483.079956" a="-151.999985" />
     <group name="PiceaAbies_fallend" pos="9865.159180 285.881927 1744.646973" a="153.999985" />
     <group name="PiceaAbies_fallend" pos="9850.102539 287.893005 1791.128052" a="112.999962" />
@@ -219,12 +346,12 @@
     <group name="PiceaAbies_stumpd" pos="9877.299805 282.637695 1840.308960" a="54.999992" />
     <group name="PiceaAbies_fallene" pos="9873.664063 275.911560 1913.182983" a="-47.000000" />
     <group name="PiceaAbies_fallene" pos="9855.243164 276.842743 1969.020996" a="30.999996" />
-    <group name="PiceaAbies_fallend" pos="9841.347656 273.874878 2017.017944" a="78.999992" />
     <group name="PiceaAbies_fallend" pos="9855.877930 270.640015 2015.791016" a="-17.000004" />
+    <group name="PiceaAbies_fallend" pos="9841.347656 273.874878 2017.017944" a="78.999992" />
     <group name="PiceaAbies_stumpd" pos="9853.924805 269.921936 2035.666016" a="97.000000" />
     <group name="PiceaAbies_fallene" pos="9875.731445 277.624969 2127.593994" a="-40.000000" />
-    <group name="PiceaAbies_fallend" pos="9876.840820 281.471344 2312.637939" a="166.999985" />
     <group name="PiceaAbies_fallend" pos="9879.355469 282.390930 2318.499023" a="163.999985" />
+    <group name="PiceaAbies_fallend" pos="9876.840820 281.471344 2312.637939" a="166.999985" />
     <group name="PiceaAbies_stumpd" pos="9850.711914 277.394440 2373.019043" a="-70.000000" />
     <group name="PiceaAbies_fallene" pos="9845.578125 288.539032 2442.367920" a="180.000000" />
     <group name="QuercusRobur_stumpB" pos="9875.656250 294.506744 2570.200928" a="149.000015" />
@@ -244,8 +371,8 @@
     <group name="PathD_1025" pos="9876.000977 299.172028 3308.393799" a="113.000015" />
     <group name="PathD_11k" pos="9872.564453 296.429443 3331.899170" a="95.500023" />
     <group name="PathD_7100" pos="9870.912109 294.885468 3346.885986" a="-77.999962" />
-    <group name="PathD_1025" pos="9867.796875 293.884338 3359.450928" a="-57.999962" />
     <group name="PathD_1025" pos="9869.391602 294.127167 3355.405518" a="-67.999969" />
+    <group name="PathD_1025" pos="9867.796875 293.884338 3359.450928" a="-57.999962" />
     <group name="PathD_7100" pos="9855.607422 294.223602 3371.625732" a="-30.499966" />
     <group name="PathD_1025" pos="9848.297852 294.692047 3376.260254" a="-20.499969" />
     <group name="PathD_1025" pos="9862.643555 293.837494 3366.413818" a="-37.999966" />
@@ -282,8 +409,8 @@
     <group name="QuercusRobur_fallenB" pos="9860.608398 218.942535 5084.328125" a="37.999996" />
     <group name="QuercusRobur_stumpB" pos="9863.793945 236.389755 5378.921875" a="-126.000000" />
     <group name="QuercusRobur_stump" pos="9840.986328 247.750504 5441.337891" a="-37.000004" />
-    <group name="QuercusRobur_stumpB" pos="9855.852539 244.225845 5503.207031" a="112.999962" />
     <group name="QuercusRobur_stumpB" pos="9862.470703 243.692520 5485.860840" a="85.000000" />
+    <group name="QuercusRobur_stumpB" pos="9855.852539 244.225845 5503.207031" a="112.999962" />
     <group name="QuercusRobur_fallenC" pos="9841.610352 241.525360 5705.455078" a="-153.000015" />
     <group name="QuercusRobur_fallenC" pos="9869.310547 242.027298 5687.310059" a="142.000000" />
     <group name="QuercusRobur_stumpB" pos="9867.203125 245.178162 5757.608887" a="34.999996" />
@@ -296,9 +423,9 @@
     <group name="QuercusRobur_fallenC" pos="9873.482422 260.624939 6004.163086" a="-73.999992" />
     <group name="PathD_02k" pos="9850.637695 267.678772 6048.389160" a="-99.000038" />
     <group name="PathD_02k" pos="9853.368164 268.575256 6065.627441" a="-98.500046" />
+    <group name="PathD_02k" pos="9860.655273 269.654572 6117.475586" a="-97.000046" />
     <group name="PathD_02k" pos="9855.947266 269.267609 6082.888672" a="-98.000046" />
     <group name="PathD_02k" pos="9858.376953 269.655334 6100.171875" a="-97.500046" />
-    <group name="PathD_02k" pos="9860.655273 269.654572 6117.475586" a="-97.000046" />
     <group name="QuercusRobur_stumpB" pos="9867.291016 268.363861 6106.574219" a="128.999969" />
     <group name="PathD_11k" pos="9862.899414 270.181183 6134.816895" a="82.999939" />
     <group name="PathD_02k" pos="9865.289063 271.513519 6152.094238" a="81.999947" />
@@ -306,9 +433,9 @@
     <group name="PathD_02k" pos="9870.599609 275.708038 6186.593750" a="80.999954" />
     <group name="PiceaAbies_stumpc" pos="9861.406250 278.506012 6188.438965" a="-98.000008" />
     <group name="PiceaAbies_stumpc" pos="9858.516602 280.255951 6199.682129" a="-52.000000" />
-    <group name="PathD_02k" pos="9879.691406 276.591034 6238.156250" a="79.499962" />
-    <group name="PathD_02k" pos="9876.510742 276.416016 6220.995605" a="79.999962" />
     <group name="PathD_02k" pos="9873.480469 276.104919 6203.807617" a="80.499954" />
+    <group name="PathD_02k" pos="9876.510742 276.416016 6220.995605" a="79.999962" />
+    <group name="PathD_02k" pos="9879.691406 276.591034 6238.156250" a="79.499962" />
     <group name="PiceaAbies_fallene" pos="9861.508789 292.431885 6343.889160" a="-79.999985" />
     <group name="PiceaAbies_stumpc" pos="9855.478516 292.420654 6331.859863" a="80.999992" />
     <group name="PiceaAbies_stumpc" pos="9870.293945 291.393097 6353.754883" a="-170.999985" />
@@ -345,8 +472,8 @@
     <group name="QuercusRobur_stump" pos="9841.402344 262.052979 9131.631836" a="-0.000003" />
     <group name="QuercusRobur_fallenC" pos="9876.907227 266.627838 9138.598633" a="-33.000000" />
     <group name="QuercusRobur_stump" pos="9861.844727 269.398834 9192.903320" a="152.999985" />
-    <group name="QuercusRobur_fallenB" pos="9869.356445 270.619659 9208.158203" a="111.999969" />
     <group name="QuercusRobur_fallenB" pos="9867.147461 269.820038 9221.946289" a="81.999992" />
+    <group name="QuercusRobur_fallenB" pos="9869.356445 270.619659 9208.158203" a="111.999969" />
     <group name="QuercusRobur_fallenC" pos="9859.058594 265.958038 9311.147461" a="40.000000" />
     <group name="QuercusRobur_stump" pos="9840.199219 269.106354 9330.794922" a="153.999985" />
     <group name="QuercusRobur_stumpB" pos="9852.287109 272.184753 9366.013672" a="35.999996" />
@@ -365,25 +492,25 @@
     <group name="PiceaAbies_stumpd" pos="9842.484375 286.559937 9945.652344" a="47.976028" />
     <group name="PiceaAbies_fallene" pos="9852.765625 286.248688 9985.682617" a="-162.660309" />
     <group name="PiceaAbies_fallene" pos="9844.203125 288.529449 9986.803711" a="138.615936" />
-    <group name="PiceaAbies_stumpd" pos="9873.968750 279.549011 9979.063477" a="-44.004349" />
     <group name="PiceaAbies_stumpd" pos="9842.062500 288.331573 9965.129883" a="-0.749862" />
-    <group name="PiceaAbies_stumpd" pos="9852.187500 286.135773 9968.541992" a="-146.806519" />
-    <group name="PiceaAbies_stumpd" pos="9858.765625 283.814850 9988.509766" a="28.815269" />
     <group name="PiceaAbies_stumpd" pos="9846.812500 287.367462 9987.135742" a="11.467325" />
-    <group name="PiceaAbies_fallend" pos="9858.703125 280.115967 10020.736328" a="-102.519310" />
+    <group name="PiceaAbies_stumpd" pos="9858.765625 283.814850 9988.509766" a="28.815269" />
+    <group name="PiceaAbies_stumpd" pos="9852.187500 286.135773 9968.541992" a="-146.806519" />
+    <group name="PiceaAbies_stumpd" pos="9873.968750 279.549011 9979.063477" a="-44.004349" />
     <group name="PiceaAbies_fallend" pos="9858.765625 278.152649 10032.758789" a="145.526550" />
-    <group name="PiceaAbies_stumpd" pos="9872.656250 276.038208 10014.433594" a="-128.645569" />
+    <group name="PiceaAbies_fallend" pos="9858.703125 280.115967 10020.736328" a="-102.519310" />
     <group name="PiceaAbies_stumpd" pos="9877.781250 275.077698 10005.697266" a="60.193184" />
-    <group name="PiceaAbies_stumpd" pos="9877.171875 273.934540 10016.755859" a="-137.083313" />
     <group name="PiceaAbies_stumpd" pos="9853.046875 280.080139 10032.473633" a="67.817940" />
-    <group name="PiceaAbies_stumpd" pos="9872.734375 274.043854 10026.549805" a="-71.866516" />
+    <group name="PiceaAbies_stumpd" pos="9877.171875 273.934540 10016.755859" a="-137.083313" />
     <group name="PiceaAbies_stumpd" pos="9854.250000 283.404449 10008.415039" a="-140.379349" />
+    <group name="PiceaAbies_stumpd" pos="9872.656250 276.038208 10014.433594" a="-128.645569" />
+    <group name="PiceaAbies_stumpd" pos="9872.734375 274.043854 10026.549805" a="-71.866516" />
     <group name="PiceaAbies_fallene" pos="9869.968750 272.597473 10047.149414" a="53.809937" />
-    <group name="PiceaAbies_stumpd" pos="9850.843750 274.051575 10071.509766" a="115.269341" />
-    <group name="PiceaAbies_stumpd" pos="9856.468750 276.626404 10048.839844" a="-124.064163" />
-    <group name="PiceaAbies_stumpd" pos="9848.562500 279.423340 10048.161133" a="-81.622650" />
     <group name="PiceaAbies_stumpd" pos="9847.171875 278.194122 10057.765625" a="2.820838" />
     <group name="PiceaAbies_stumpd" pos="9860.468750 273.256317 10060.135742" a="22.739622" />
+    <group name="PiceaAbies_stumpd" pos="9856.468750 276.626404 10048.839844" a="-124.064163" />
+    <group name="PiceaAbies_stumpd" pos="9848.562500 279.423340 10048.161133" a="-81.622650" />
+    <group name="PiceaAbies_stumpd" pos="9850.843750 274.051575 10071.509766" a="115.269341" />
     <group name="PiceaAbies_fallend" pos="9857.069336 266.056885 10096.054688" a="104.999977" />
     <group name="PiceaAbies_stumpd" pos="9853.359375 269.960052 10083.831055" a="73.201370" />
     <group name="QuercusRobur_fallenB" pos="9899.150391 283.224457 20.793003" a="-70.000000" />
@@ -457,8 +584,8 @@
     <group name="PathD_11k" pos="9916.298828 304.900604 3273.729492" a="152.499985" />
     <group name="PathD_11k" pos="9900.961914 304.244446 3282.057373" a="151.500015" />
     <group name="PathD_7100" pos="9882.622070 301.212311 3297.157959" a="130.500015" />
-    <group name="PathD_1025" pos="9891.354492 302.995972 3287.602295" a="150.500015" />
     <group name="PathD_1025" pos="9888.023438 302.435333 3290.396729" a="140.500015" />
+    <group name="PathD_1025" pos="9891.354492 302.995972 3287.602295" a="150.500015" />
     <group name="QuercusRobur_stump" pos="9880.874023 284.802826 3472.169922" a="-56.000000" />
     <group name="QuercusRobur_fallenB" pos="9900.313477 283.348816 3504.437012" a="-124.000000" />
     <group name="QuercusRobur_fallenB" pos="9908.000977 286.394409 3630.667969" a="-102.000000" />
@@ -507,8 +634,8 @@
     <group name="QuercusRobur_fallenB" pos="9903.244141 271.096405 6222.514160" a="31.999998" />
     <group name="PathD_02k" pos="9886.501953 278.342957 6272.391113" a="78.499962" />
     <group name="PathD_02k" pos="9883.022461 277.152527 6255.288574" a="78.999962" />
-    <group name="PathD_02k" pos="9893.908203 279.926910 6306.502441" a="77.499969" />
     <group name="PathD_02k" pos="9890.130859 279.397095 6289.462891" a="77.999962" />
+    <group name="PathD_02k" pos="9893.908203 279.926910 6306.502441" a="77.499969" />
     <group name="QuercusRobur_fallenB" pos="9915.280273 276.345215 6312.539063" a="-83.000000" />
     <group name="PathD_11k" pos="9897.715820 280.284668 6323.501465" a="-102.000031" />
     <group name="PathD_11k" pos="9902.248047 281.790588 6353.702637" a="85.499962" />
@@ -517,9 +644,9 @@
     <group name="PathD_02k" pos="9903.882813 283.175354 6371.067871" a="84.499969" />
     <group name="PathD_02k" pos="9907.682617 285.804810 6405.766113" a="83.499969" />
     <group name="PathD_02k" pos="9909.810547 286.633911 6423.089355" a="82.999977" />
+    <group name="PathD_02k" pos="9912.087891 287.703857 6440.393066" a="82.499977" />
     <group name="PathD_02k" pos="9914.517578 288.374847 6457.676270" a="81.999985" />
     <group name="PathD_02k" pos="9917.097656 287.949799 6474.937500" a="81.499977" />
-    <group name="PathD_02k" pos="9912.087891 287.703857 6440.393066" a="82.499977" />
     <group name="PathD_02k" pos="9919.827148 286.032837 6492.175781" a="80.999977" />
     <group name="QuercusRobur_fallenC" pos="9916.657227 271.288361 6589.137207" a="155.999969" />
     <group name="QuercusRobur_stumpB" pos="9913.796875 261.249969 6720.454102" a="57.999996" />
@@ -545,8 +672,8 @@
     <group name="QuercusRobur_stump" pos="9900.934570 260.408600 8102.534180" a="163.999985" />
     <group name="QuercusRobur_stumpB" pos="9918.971680 266.011078 8143.094238" a="124.000000" />
     <group name="QuercusRobur_stump" pos="9905.267578 283.334656 8303.518555" a="38.999992" />
-    <group name="QuercusRobur_stumpB" pos="9886.314453 276.478149 8362.236328" a="18.999998" />
     <group name="QuercusRobur_stumpB" pos="9898.654297 276.718567 8391.982422" a="-160.000000" />
+    <group name="QuercusRobur_stumpB" pos="9886.314453 276.478149 8362.236328" a="18.999998" />
     <group name="QuercusRobur_fallenB" pos="9880.340820 259.725800 8460.056641" a="138.999985" />
     <group name="QuercusRobur_stumpB" pos="9893.179688 253.452591 8528.683594" a="62.999996" />
     <group name="QuercusRobur_fallenC" pos="9900.049805 246.216507 8565.913086" a="-93.000008" />
@@ -575,21 +702,21 @@
     <group name="PiceaAbies_stumpd" pos="9886.234375 271.517883 9916.805664" a="-55.364555" />
     <group name="QuercusRobur_fallenC" pos="9900.386719 268.498596 9880.872070" a="-72.999985" />
     <group name="PiceaAbies_fallend" pos="9888.718750 274.138702 9942.507813" a="-40.928062" />
-    <group name="PiceaAbies_stumpd" pos="9914.109375 267.680817 9956.346680" a="24.772163" />
-    <group name="PiceaAbies_stumpd" pos="9913.125000 267.360474 9941.765625" a="-50.068989" />
+    <group name="PiceaAbies_stumpd" pos="9896.328125 272.584045 9952.444336" a="-141.203354" />
     <group name="PiceaAbies_stumpd" pos="9911.500000 267.415802 9937.752930" a="-100.497749" />
+    <group name="PiceaAbies_stumpd" pos="9913.125000 267.360474 9941.765625" a="-50.068989" />
+    <group name="PiceaAbies_stumpd" pos="9914.109375 267.680817 9956.346680" a="24.772163" />
     <group name="PiceaAbies_stumpd" pos="9905.093750 269.763428 9946.899414" a="33.341766" />
     <group name="PiceaAbies_stumpd" pos="9901.656250 271.050934 9952.018555" a="125.311111" />
-    <group name="PiceaAbies_stumpd" pos="9896.328125 272.584045 9952.444336" a="-141.203354" />
     <group name="PiceaAbies_fallend" pos="9887.656250 273.513428 9989.979492" a="-82.710373" />
     <group name="PiceaAbies_fallene" pos="9903.890625 270.270691 9974.529297" a="-64.428574" />
-    <group name="PiceaAbies_stumpd" pos="9902.406250 270.346344 9971.796875" a="-18.471333" />
     <group name="PiceaAbies_stumpd" pos="9893.171875 272.906403 9976.662109" a="-131.403214" />
-    <group name="PiceaAbies_stumpd" pos="9901.187500 269.840546 9982.475586" a="-62.582767" />
     <group name="PiceaAbies_stumpd" pos="9886.843750 275.361755 9971.275391" a="-80.864632" />
+    <group name="PiceaAbies_stumpd" pos="9902.406250 270.346344 9971.796875" a="-18.471333" />
+    <group name="PiceaAbies_stumpd" pos="9901.187500 269.840546 9982.475586" a="-62.582767" />
     <group name="PiceaAbies_stumpd" pos="9884.421875 270.990204 10017.261719" a="-165.659637" />
-    <group name="PiceaAbies_stumpd" pos="9880.718750 273.039185 10012.758789" a="145.768265" />
     <group name="PiceaAbies_stumpd" pos="9887.765625 271.130737 10005.097656" a="112.599518" />
+    <group name="PiceaAbies_stumpd" pos="9880.718750 273.039185 10012.758789" a="145.768265" />
     <group name="PiceaAbies_stumpd" pos="9886.703125 271.454651 10006.408203" a="158.842392" />
     <group name="PiceaAbies_stumpc" pos="9915.733398 262.435699 10021.751953" a="177.999985" />
     <group name="PiceaAbies_fallene" pos="9915.250000 261.676941 10041.318359" a="95.000008" />
@@ -622,8 +749,8 @@
     <group name="QuercusRobur_fallenB" pos="9927.876953 266.801697 1304.062012" a="171.999985" />
     <group name="QuercusRobur_stump" pos="9951.155273 271.311432 1282.504028" a="128.999969" />
     <group name="QuercusRobur_stump" pos="9956.013672 266.997986 1316.754028" a="-34.000004" />
-    <group name="QuercusRobur_fallenB" pos="9943.078125 265.127136 1340.385010" a="-84.000008" />
     <group name="QuercusRobur_fallenB" pos="9954.298828 264.915131 1353.737061" a="-104.000000" />
+    <group name="QuercusRobur_fallenB" pos="9943.078125 265.127136 1340.385010" a="-84.000008" />
     <group name="QuercusRobur_stump" pos="9927.978516 267.551849 1374.203979" a="130.999969" />
     <group name="QuercusRobur_stump" pos="9938.659180 268.244873 1387.703003" a="-95.999992" />
     <group name="QuercusRobur_stump" pos="9940.416016 266.047699 1456.443970" a="-156.000000" />
@@ -649,8 +776,8 @@
     <group name="PiceaAbies_stumpc" pos="9921.280273 288.311066 2389.103027" a="-91.000008" />
     <group name="QuercusRobur_fallenC" pos="9951.061523 285.023102 2551.875000" a="-97.000000" />
     <group name="QuercusRobur_stumpB" pos="9946.621094 288.081360 2594.319092" a="-22.000008" />
-    <group name="QuercusRobur_fallenB" pos="9947.663086 291.186768 2634.105957" a="96.000008" />
     <group name="QuercusRobur_fallenB" pos="9929.162109 291.506134 2630.969971" a="34.999996" />
+    <group name="QuercusRobur_fallenB" pos="9947.663086 291.186768 2634.105957" a="96.000008" />
     <group name="QuercusRobur_stump" pos="9955.211914 291.035217 2630.822998" a="-100.000008" />
     <group name="QuercusRobur_fallenB" pos="9940.164063 295.913635 2681.430908" a="101.999969" />
     <group name="QuercusRobur_fallenC" pos="9958.747070 321.572906 2850.793945" a="104.999977" />
@@ -687,8 +814,8 @@
     <group name="QuercusRobur_fallenC" pos="9944.346680 241.822067 5563.421875" a="92.000000" />
     <group name="QuercusRobur_fallenC" pos="9929.838867 244.923309 5611.208008" a="92.999992" />
     <group name="QuercusRobur_stump" pos="9937.419922 249.820099 5668.337891" a="-17.000002" />
-    <group name="QuercusRobur_stump" pos="9928.899414 250.964584 5691.311035" a="166.999985" />
     <group name="QuercusRobur_stump" pos="9946.184570 252.979019 5711.296875" a="69.999992" />
+    <group name="QuercusRobur_stump" pos="9928.899414 250.964584 5691.311035" a="166.999985" />
     <group name="QuercusRobur_stump" pos="9947.831055 253.531845 5723.482910" a="113.999985" />
     <group name="QuercusRobur_fallenB" pos="9934.248047 254.664764 5761.035156" a="163.999985" />
     <group name="QuercusRobur_fallenC" pos="9944.952148 257.208954 5862.899902" a="32.000000" />
@@ -702,13 +829,13 @@
     <group name="PiceaAbies_fallend" pos="9938.070313 287.951782 6471.319824" a="-0.000003" />
     <group name="PiceaAbies_stumpd" pos="9939.835938 287.826294 6463.638184" a="-104.000000" />
     <group name="PathD_02k" pos="9922.708008 283.011719 6509.389648" a="80.499985" />
-    <group name="PathD_02k" pos="9928.919922 277.165009 6543.738281" a="79.499992" />
     <group name="PathD_02k" pos="9925.739258 279.904907 6526.577148" a="79.999985" />
-    <group name="PathD_02k" pos="9939.358398 271.127655 6595.044922" a="77.999992" />
+    <group name="PathD_02k" pos="9928.919922 277.165009 6543.738281" a="79.499992" />
     <group name="PathD_02k" pos="9935.729492 273.101288 6577.973145" a="78.499992" />
+    <group name="PathD_02k" pos="9939.358398 271.127655 6595.044922" a="77.999992" />
     <group name="PathD_02k" pos="9932.250000 275.023071 6560.870605" a="78.999992" />
-    <group name="PathD_02k" pos="9943.135742 268.774384 6612.083984" a="77.499992" />
     <group name="PathD_02k" pos="9947.062500 266.892273 6629.089844" a="77.000000" />
+    <group name="PathD_02k" pos="9943.135742 268.774384 6612.083984" a="77.499992" />
     <group name="PathD_11k" pos="9951.635742 264.859131 6672.282715" a="91.499992" />
     <group name="PathD_7100" pos="9951.546875 265.328888 6656.837891" a="-88.499992" />
     <group name="PathD_7100" pos="9950.161133 265.792755 6643.855957" a="-95.999992" />
@@ -759,9 +886,9 @@
     <group name="QuercusRobur_stumpB" pos="9953.001953 277.035004 9442.751953" a="-28.000000" />
     <group name="QuercusRobur_fallenC" pos="9939.958008 278.863983 9514.296875" a="118.999992" />
     <group name="QuercusRobur_fallenC" pos="9954.550781 288.599762 9633.564453" a="162.999985" />
+    <group name="QuercusRobur_stumpB" pos="9928.032227 289.051697 9627.417969" a="-34.000004" />
     <group name="QuercusRobur_stumpB" pos="9939.797852 286.050842 9603.441406" a="43.999996" />
     <group name="QuercusRobur_stumpB" pos="9957.887695 286.747040 9605.988281" a="172.999985" />
-    <group name="QuercusRobur_stumpB" pos="9928.032227 289.051697 9627.417969" a="-34.000004" />
     <group name="QuercusRobur_stump" pos="9920.128906 294.813599 9669.678711" a="-134.000015" />
     <group name="QuercusRobur_fallenC" pos="9942.345703 291.458649 9662.025391" a="147.999969" />
     <group name="QuercusRobur_fallenB" pos="9926.908203 283.752563 9821.981445" a="-154.000000" />
@@ -775,8 +902,8 @@
     <group name="QuercusRobur_fallenB" pos="9965.196289 276.360718 171.863007" a="-99.000000" />
     <group name="QuercusRobur_fallenC" pos="9997.514648 274.594543 254.429993" a="-6.000002" />
     <group name="QuercusRobur_fallenB" pos="9967.732422 270.068054 307.997986" a="-100.000008" />
-    <group name="QuercusRobur_fallenC" pos="9968.170898 269.202423 316.746002" a="-140.000000" />
     <group name="QuercusRobur_fallenC" pos="9985.887695 270.139252 307.140015" a="-23.000000" />
+    <group name="QuercusRobur_fallenC" pos="9968.170898 269.202423 316.746002" a="-140.000000" />
     <group name="QuercusRobur_stumpB" pos="9976.156250 261.008301 407.776001" a="-124.000000" />
     <group name="QuercusRobur_stumpB" pos="9991.466797 286.776520 578.414978" a="102.999992" />
     <group name="QuercusRobur_fallenC" pos="9965.900391 288.325348 621.718018" a="-42.000000" />
@@ -789,8 +916,8 @@
     <group name="QuercusRobur_fallenB" pos="9981.850586 295.602051 1096.703979" a="151.999985" />
     <group name="QuercusRobur_fallenC" pos="9983.701172 295.354156 1088.498047" a="-133.000000" />
     <group name="QuercusRobur_fallenB" pos="9978.902344 294.592133 1135.087036" a="86.999992" />
-    <group name="QuercusRobur_stump" pos="9976.009766 293.855713 1148.579956" a="29.999996" />
     <group name="QuercusRobur_stump" pos="9964.557617 294.204865 1129.145020" a="-68.000000" />
+    <group name="QuercusRobur_stump" pos="9976.009766 293.855713 1148.579956" a="29.999996" />
     <group name="QuercusRobur_stumpB" pos="9983.196289 294.021576 1142.636963" a="-162.999985" />
     <group name="QuercusRobur_stump" pos="9981.118164 273.738159 1276.614014" a="62.999996" />
     <group name="QuercusRobur_fallenC" pos="9970.416016 265.980835 1319.251953" a="137.000000" />
@@ -799,8 +926,8 @@
     <group name="QuercusRobur_stump" pos="9974.666016 259.563232 1490.006958" a="57.999996" />
     <group name="QuercusRobur_fallenC" pos="9979.499023 258.428528 1508.004028" a="24.999998" />
     <group name="QuercusRobur_stumpB" pos="9983.500000 258.576172 1498.821045" a="-122.000000" />
-    <group name="QuercusRobur_stump" pos="9997.264648 258.255524 1544.621948" a="146.000000" />
     <group name="QuercusRobur_stump" pos="9983.571289 259.281525 1548.135986" a="126.999985" />
+    <group name="QuercusRobur_stump" pos="9997.264648 258.255524 1544.621948" a="146.000000" />
     <group name="QuercusRobur_fallenC" pos="9966.334961 257.864685 1532.176025" a="-156.999985" />
     <group name="QuercusRobur_fallenB" pos="9976.139648 260.648315 1571.875977" a="-122.999992" />
     <group name="PiceaAbies_fallene" pos="9973.574219 266.156433 1701.838989" a="-2.999999" />
@@ -826,8 +953,8 @@
     <group name="QuercusRobur_stumpB" pos="9973.944336 296.301544 2677.746094" a="79.999992" />
     <group name="QuercusRobur_stumpB" pos="9973.876953 310.545013 2784.079102" a="87.999992" />
     <group name="QuercusRobur_fallenB" pos="9967.468750 316.684448 2813.724121" a="-114.000008" />
-    <group name="QuercusRobur_stump" pos="9985.712891 316.123474 2939.052002" a="4.000001" />
     <group name="QuercusRobur_stump" pos="9991.032227 314.309814 2951.607910" a="137.999985" />
+    <group name="QuercusRobur_stump" pos="9985.712891 316.123474 2939.052002" a="4.000001" />
     <group name="QuercusRobur_fallenB" pos="9967.918945 312.552124 3009.459961" a="-116.000008" />
     <group name="QuercusRobur_fallenB" pos="9965.402344 313.076874 3035.278076" a="-71.999992" />
     <group name="QuercusRobur_stump" pos="9964.515625 312.339966 3000.793945" a="-140.000000" />
@@ -855,10 +982,10 @@
     <group name="QuercusRobur_stumpB" pos="9983.795898 256.762878 4504.497070" a="12.999999" />
     <group name="PiceaAbies_stumpc" pos="9964.909180 261.745819 4543.324219" a="-160.000000" />
     <group name="PiceaAbies_stumpd" pos="9966.603516 271.568054 4674.293945" a="-154.000000" />
-    <group name="PiceaAbies_fallene" pos="9996.094727 252.613876 4759.891113" a="-136.000000" />
+    <group name="PiceaAbies_fallene" pos="9996.094727 252.613861 4759.891113" a="-136.000000" />
     <group name="PiceaAbies_fallend" pos="9977.298828 258.307983 4747.066895" a="73.999992" />
     <group name="PiceaAbies_stumpd" pos="9985.450195 259.676544 4725.128906" a="73.999992" />
-    <group name="PiceaAbies_fallene" pos="9989.206055 248.768036 4839.604004" a="-59.000004" />
+    <group name="PiceaAbies_fallene" pos="9989.206055 248.768021 4839.604004" a="-59.000004" />
     <group name="QuercusRobur_stump" pos="9991.686523 228.851242 4915.901855" a="84.000000" />
     <group name="QuercusRobur_fallenC" pos="9983.054688 229.132004 4918.476074" a="-67.000008" />
     <group name="QuercusRobur_stumpB" pos="9979.776367 231.625381 4908.062012" a="111.999969" />
@@ -866,8 +993,8 @@
     <group name="QuercusRobur_fallenB" pos="9969.115234 221.270996 4973.796875" a="14.000000" />
     <group name="QuercusRobur_fallenC" pos="9999.327148 219.687714 5029.335938" a="81.999992" />
     <group name="QuercusRobur_stumpB" pos="9981.400391 217.509338 5032.518066" a="58.999996" />
-    <group name="QuercusRobur_fallenC" pos="9996.025391 217.919037 5066.577148" a="-54.999996" />
     <group name="QuercusRobur_fallenC" pos="9962.949219 215.884262 5044.785156" a="-18.999996" />
+    <group name="QuercusRobur_fallenC" pos="9996.025391 217.919037 5066.577148" a="-54.999996" />
     <group name="QuercusRobur_fallenB" pos="9991.620117 220.341782 5088.571777" a="-43.000008" />
     <group name="QuercusRobur_stumpB" pos="9996.609375 228.083191 5151.289063" a="-42.000004" />
     <group name="QuercusRobur_fallenB" pos="9996.455078 232.497849 5416.128906" a="167.999985" />
@@ -906,8 +1033,8 @@
     <group name="QuercusRobur_fallenB" pos="9990.236328 264.440887 6754.791016" a="33.999992" />
     <group name="PathD_1575" pos="9965.945313 264.552917 6773.839355" a="-98.999969" />
     <group name="PathD_02k" pos="9970.060547 265.422180 6792.166504" a="-98.499969" />
-    <group name="PathD_02k" pos="9976.609375 266.792450 6821.973633" a="74.000023" />
     <group name="PathD_02k" pos="9981.566406 266.690338 6838.707520" a="73.500023" />
+    <group name="PathD_02k" pos="9976.609375 266.792450 6821.973633" a="74.000023" />
     <group name="PathD_7100" pos="9972.791016 266.267975 6807.356445" a="81.500015" />
     <group name="QuercusRobur_stump" pos="9990.753906 265.901642 6814.048828" a="-102.000000" />
     <group name="PathD_02k" pos="9991.917969 263.889099 6872.043457" a="72.500031" />
@@ -953,8 +1080,8 @@
     <group name="QuercusRobur_stump" pos="9968.716797 247.910461 8624.095703" a="143.999985" />
     <group name="QuercusRobur_fallenC" pos="9981.628906 254.174957 8612.323242" a="-51.000004" />
     <group name="QuercusRobur_stump" pos="9981.308594 235.185287 8667.425781" a="-92.000000" />
-    <group name="QuercusRobur_fallenC" pos="9996.620117 240.926285 8657.386719" a="142.000000" />
     <group name="QuercusRobur_fallenC" pos="9960.444336 231.657013 8661.315430" a="-130.000000" />
+    <group name="QuercusRobur_fallenC" pos="9996.620117 240.926285 8657.386719" a="142.000000" />
     <group name="QuercusRobur_stumpB" pos="9975.218750 241.464951 8643.361328" a="151.999985" />
     <group name="QuercusRobur_fallenC" pos="9961.058594 224.297470 8687.079102" a="147.999985" />
     <group name="QuercusRobur_fallenC" pos="9997.400391 227.158096 8735.423828" a="92.999992" />
@@ -998,8 +1125,8 @@
     <group name="QuercusRobur_stump" pos="10013.292969 284.691223 903.442993" a="42.999992" />
     <group name="QuercusRobur_stump" pos="10028.559570 282.120209 956.690979" a="119.999985" />
     <group name="QuercusRobur_stump" pos="10036.716797 280.729492 967.827026" a="-99.000000" />
-    <group name="QuercusRobur_fallenC" pos="10011.605469 285.182037 975.129028" a="103.999985" />
     <group name="QuercusRobur_fallenC" pos="10021.465820 283.238373 968.820007" a="-86.999985" />
+    <group name="QuercusRobur_fallenC" pos="10011.605469 285.182037 975.129028" a="103.999985" />
     <group name="QuercusRobur_fallenB" pos="10012.851563 294.752686 1091.555054" a="-109.999992" />
     <group name="QuercusRobur_stump" pos="10012.624023 290.999390 1161.644043" a="-47.000000" />
     <group name="QuercusRobur_fallenC" pos="10036.289063 276.394409 1254.568970" a="169.000000" />
@@ -1034,8 +1161,8 @@
     <group name="QuercusRobur_stump" pos="10002.841797 287.234589 3437.375000" a="160.000000" />
     <group name="QuercusRobur_stump" pos="10014.412109 287.881653 3498.490967" a="75.999992" />
     <group name="QuercusRobur_fallenC" pos="10028.724609 292.489380 3559.303955" a="-167.000015" />
-    <group name="QuercusRobur_fallenC" pos="10016.527344 290.184174 3621.159912" a="118.999992" />
     <group name="QuercusRobur_fallenC" pos="10038.418945 291.974609 3628.501953" a="-162.000015" />
+    <group name="QuercusRobur_fallenC" pos="10016.527344 290.184174 3621.159912" a="118.999992" />
     <group name="QuercusRobur_fallenC" pos="10000.541016 289.628784 3653.771973" a="113.999985" />
     <group name="QuercusRobur_fallenC" pos="10019.879883 290.292572 3699.827881" a="151.999985" />
     <group name="QuercusRobur_stumpB" pos="10022.506836 290.948059 3722.934082" a="-136.000000" />
@@ -1090,29 +1217,29 @@
     <group name="PathD_02k" pos="10001.882813 255.078003 6984.494629" a="-90.499977" />
     <group name="PathD_02k" pos="10001.578125 255.236984 6967.043945" a="-90.999969" />
     <group name="PathD_02k" pos="10002.035156 255.020325 7001.946777" a="-89.999977" />
-    <group name="PathD_7100" pos="10004.215820 253.613892 7030.314453" a="82.500015" />
     <group name="PathD_7100" pos="10002.490234 254.455978 7017.373535" a="90.000008" />
+    <group name="PathD_7100" pos="10004.215820 253.613892 7030.314453" a="82.500015" />
     <group name="PathD_02k" pos="10007.779297 251.549652 7044.996094" a="75.000015" />
-    <group name="PathD_7100" pos="10011.391602 249.130569 7059.645020" a="-97.999969" />
     <group name="PathD_7100" pos="10013.229492 247.716187 7072.570313" a="-90.499977" />
-    <group name="PathD_02k" pos="10013.743164 245.435547 7087.971680" a="-89.999977" />
+    <group name="PathD_7100" pos="10011.391602 249.130569 7059.645020" a="-97.999969" />
     <group name="PathD_02k" pos="10013.743164 240.819672 7105.424805" a="-89.499977" />
+    <group name="PathD_02k" pos="10013.743164 245.435547 7087.971680" a="-89.999977" />
     <group name="PathD_11k" pos="10013.704102 234.263107 7122.910645" a="90.500008" />
-    <group name="PathD_02k" pos="10014.124023 219.747543 7157.802246" a="89.000023" />
     <group name="PathD_02k" pos="10013.819336 226.362381 7140.352051" a="89.500023" />
-    <group name="PathD_02k" pos="10014.581055 215.219223 7175.249512" a="88.500023" />
+    <group name="PathD_02k" pos="10014.124023 219.747543 7157.802246" a="89.000023" />
     <group name="PathD_02k" pos="10015.189453 213.585953 7192.691895" a="88.000031" />
+    <group name="PathD_02k" pos="10014.581055 215.219223 7175.249512" a="88.500023" />
     <group name="QuercusRobur_fallenC" pos="10006.175781 214.565308 7187.272949" a="-166.000000" />
-    <group name="PathD_02k" pos="10016.864258 213.415024 7227.557617" a="87.000031" />
     <group name="PathD_02k" pos="10015.951172 213.121048 7210.128418" a="87.500023" />
-    <group name="QuercusRobur_fallenB" pos="10004.017578 213.908249 7238.018066" a="-126.000000" />
+    <group name="PathD_02k" pos="10016.864258 213.415024 7227.557617" a="87.000031" />
     <group name="QuercusRobur_fallenB" pos="10027.865234 213.650070 7206.431152" a="63.999996" />
+    <group name="QuercusRobur_fallenB" pos="10004.017578 213.908249 7238.018066" a="-126.000000" />
     <group name="PathD_12" pos="10017.740234 213.722305 7242.497559" a="86.500031" />
     <group name="PathD_6ko" pos="10018.312500 213.840408 7251.854980" a="-93.499954" />
     <group name="QuercusRobur_stumpB" pos="10003.911133 239.322372 7536.669922" a="90.999977" />
     <group name="QuercusRobur_fallenB" pos="10004.017578 238.712814 7590.018066" a="-126.000000" />
-    <group name="QuercusRobur_stump" pos="10037.369141 249.547150 7604.592773" a="-169.000000" />
     <group name="QuercusRobur_stump" pos="10022.100586 244.554459 7600.765137" a="155.000000" />
+    <group name="QuercusRobur_stump" pos="10037.369141 249.547150 7604.592773" a="-169.000000" />
     <group name="QuercusRobur_stump" pos="10019.185547 241.905869 7660.537109" a="40.999996" />
     <group name="QuercusRobur_fallenC" pos="10016.373047 241.236954 7652.560059" a="-170.999985" />
     <group name="QuercusRobur_stump" pos="10014.583008 249.128143 7769.827148" a="42.999992" />
@@ -1125,8 +1252,8 @@
     <group name="QuercusRobur_stump" pos="10015.885742 275.906769 8156.657227" a="-98.000008" />
     <group name="QuercusRobur_fallenC" pos="10014.301758 277.681763 8185.051758" a="92.999992" />
     <group name="QuercusRobur_stump" pos="10018.228516 289.099548 8278.202148" a="-84.000008" />
-    <group name="QuercusRobur_fallenC" pos="10018.407227 296.888763 8333.998047" a="-0.000003" />
     <group name="QuercusRobur_fallenC" pos="10026.632813 295.878754 8342.207031" a="72.000000" />
+    <group name="QuercusRobur_fallenC" pos="10018.407227 296.888763 8333.998047" a="-0.000003" />
     <group name="QuercusRobur_fallenB" pos="10018.594727 299.253754 8423.156250" a="16.999996" />
     <group name="QuercusRobur_stumpB" pos="10011.111328 285.385925 8524.523438" a="-15.000005" />
     <group name="QuercusRobur_fallenB" pos="10021.594727 246.017563 8668.156250" a="16.999996" />
@@ -1147,7 +1274,7 @@
     <group name="QuercusRobur_stumpB" pos="10011.250977 278.537170 9733.360352" a="-40.000000" />
     <group name="QuercusRobur_fallenB" pos="10028.753906 256.192169 9904.381836" a="-156.000000" />
     <group name="QuercusRobur_stumpB" pos="10032.385742 252.917969 9916.460938" a="-136.000000" />
-    <group name="PiceaAbies_fallene" pos="10013.113281 252.076828 9995.449219" a="-10.000000" />
+    <group name="PiceaAbies_fallene" pos="10013.113281 252.076813 9995.449219" a="-10.000000" />
     <group name="PiceaAbies_stumpd" pos="10030.363281 252.408890 9988.124023" a="-50.000011" />
     <group name="QuercusRobur_stumpB" pos="10005.684570 252.192062 9960.348633" a="-115.000000" />
     <group name="PiceaAbies_fallene" pos="10036.100586 260.841034 10086.660156" a="72.999992" />
@@ -1175,8 +1302,8 @@
     <group name="QuercusRobur_fallenB" pos="10043.345703 288.636230 851.857971" a="140.000000" />
     <group name="QuercusRobur_fallenB" pos="10065.471680 280.680756 1045.552002" a="149.000015" />
     <group name="QuercusRobur_stump" pos="10079.351563 281.120178 1065.952026" a="9.000001" />
-    <group name="QuercusRobur_fallenB" pos="10055.328125 283.485657 1202.303955" a="176.999985" />
     <group name="QuercusRobur_fallenB" pos="10053.631836 282.173279 1210.952026" a="-45.000000" />
+    <group name="QuercusRobur_fallenB" pos="10055.328125 283.485657 1202.303955" a="176.999985" />
     <group name="QuercusRobur_fallenC" pos="10078.394531 269.931824 1282.265015" a="-145.000000" />
     <group name="QuercusRobur_fallenC" pos="10055.236328 255.211182 1391.838989" a="81.999992" />
     <group name="QuercusRobur_fallenB" pos="10078.904297 259.970459 1476.871948" a="77.000000" />
@@ -1243,8 +1370,8 @@
     <group name="QuercusRobur_stumpB" pos="10040.236328 259.097900 4686.037109" a="-166.000000" />
     <group name="QuercusRobur_stumpB" pos="10069.918945 244.591751 4744.421875" a="149.999969" />
     <group name="QuercusRobur_fallenB" pos="10060.109375 240.719772 4773.767090" a="37.999996" />
-    <group name="QuercusRobur_stump" pos="10060.099609 235.767868 4804.030762" a="-58.000004" />
     <group name="QuercusRobur_stump" pos="10077.427734 231.678436 4801.051758" a="14.999992" />
+    <group name="QuercusRobur_stump" pos="10060.099609 235.767868 4804.030762" a="-58.000004" />
     <group name="QuercusRobur_stumpB" pos="10048.449219 233.510544 4835.669922" a="97.000000" />
     <group name="QuercusRobur_fallenC" pos="10042.013672 233.414948 4846.395996" a="121.000008" />
     <group name="QuercusRobur_fallenC" pos="10052.114258 223.810837 4893.141113" a="-168.000015" />
@@ -1252,8 +1379,8 @@
     <group name="QuercusRobur_fallenC" pos="10077.885742 221.819138 4972.617188" a="-43.000008" />
     <group name="QuercusRobur_fallenC" pos="10044.769531 221.419281 5009.437012" a="-18.000002" />
     <group name="QuercusRobur_stumpB" pos="10059.765625 222.690781 5003.597168" a="85.000000" />
-    <group name="QuercusRobur_fallenC" pos="10079.064453 252.817047 5130.183105" a="-147.000015" />
     <group name="QuercusRobur_fallenC" pos="10053.439453 249.284210 5144.140137" a="-54.999996" />
+    <group name="QuercusRobur_fallenC" pos="10079.064453 252.817047 5130.183105" a="-147.000015" />
     <group name="QuercusRobur_fallenB" pos="10053.773438 252.405807 5166.382813" a="8.000000" />
     <group name="QuercusRobur_fallenB" pos="10073.219727 221.722275 5303.037109" a="-42.000004" />
     <group name="QuercusRobur_stumpB" pos="10061.756836 229.530640 5280.071777" a="54.000000" />
@@ -1267,16 +1394,16 @@
     <group name="QuercusRobur_stump" pos="10078.752930 249.876328 5786.589844" a="-69.000000" />
     <group name="QuercusRobur_fallenC" pos="10048.375000 247.550339 5830.403809" a="-93.000008" />
     <group name="QuercusRobur_fallenB" pos="10041.414063 250.580750 5856.464844" a="66.000000" />
-    <group name="QuercusRobur_fallenC" pos="10077.288086 251.377609 5843.129883" a="-24.000002" />
     <group name="QuercusRobur_fallenC" pos="10060.693359 250.412125 5854.143066" a="-116.000008" />
+    <group name="QuercusRobur_fallenC" pos="10077.288086 251.377609 5843.129883" a="-24.000002" />
     <group name="QuercusRobur_stump" pos="10059.975586 255.785156 5891.740234" a="-5.000008" />
     <group name="QuercusRobur_stump" pos="10042.625977 261.951508 5940.273926" a="-175.000000" />
     <group name="QuercusRobur_stumpB" pos="10056.040039 260.223419 5944.869141" a="21.999994" />
     <group name="QuercusRobur_fallenB" pos="10056.208008 263.361908 5972.631836" a="-52.000000" />
     <group name="QuercusRobur_stump" pos="10045.192383 271.892914 6039.774902" a="144.999969" />
     <group name="QuercusRobur_fallenC" pos="10079.008789 269.032837 6035.397949" a="-122.999992" />
-    <group name="QuercusRobur_stumpB" pos="10072.638672 266.581329 6008.861816" a="-85.000000" />
     <group name="QuercusRobur_stumpB" pos="10077.041016 267.006287 6015.966797" a="-154.000000" />
+    <group name="QuercusRobur_stumpB" pos="10072.638672 266.581329 6008.861816" a="-85.000000" />
     <group name="QuercusRobur_fallenC" pos="10079.139648 277.368683 6108.226074" a="122.999992" />
     <group name="QuercusRobur_stumpB" pos="10059.189453 277.916412 6198.632813" a="-95.000000" />
     <group name="QuercusRobur_fallenC" pos="10047.593750 275.869293 6223.394043" a="158.999985" />
@@ -1291,8 +1418,8 @@
     <group name="PiceaAbies_stumpd" pos="10065.718750 258.759613 6802.395020" a="-97.000000" />
     <group name="PiceaAbies_stumpc" pos="10076.367188 257.961853 6818.095215" a="-60.000004" />
     <group name="QuercusRobur_stump" pos="10050.110352 257.910248 6867.705078" a="63.999996" />
-    <group name="QuercusRobur_stumpB" pos="10066.697266 256.077484 6845.689941" a="17.999996" />
     <group name="QuercusRobur_stumpB" pos="10051.137695 257.216095 6878.750000" a="100.999977" />
+    <group name="QuercusRobur_stumpB" pos="10066.697266 256.077484 6845.689941" a="17.999996" />
     <group name="QuercusRobur_stump" pos="10042.872070 258.782379 6881.431152" a="-52.000000" />
     <group name="QuercusRobur_fallenB" pos="10069.410156 228.470856 7356.352051" a="-115.000000" />
     <group name="QuercusRobur_stump" pos="10078.225586 243.068665 7763.301758" a="78.000000" />
@@ -1341,8 +1468,8 @@
     <group name="QuercusRobur_fallenC" pos="10115.549805 280.662018 102.767998" a="114.999985" />
     <group name="QuercusRobur_fallenC" pos="10096.075195 273.599030 138.699997" a="-93.999985" />
     <group name="QuercusRobur_fallenB" pos="10115.625000 272.568024 173.929993" a="9.999995" />
-    <group name="QuercusRobur_stumpB" pos="10103.239258 261.813782 389.209015" a="62.999996" />
     <group name="QuercusRobur_stumpB" pos="10114.484375 263.433899 379.006012" a="-13.000003" />
+    <group name="QuercusRobur_stumpB" pos="10103.239258 261.813782 389.209015" a="62.999996" />
     <group name="QuercusRobur_stumpB" pos="10082.831055 258.467651 411.997009" a="85.999992" />
     <group name="QuercusRobur_stump" pos="10096.635742 260.947388 444.197998" a="92.999992" />
     <group name="QuercusRobur_stumpB" pos="10114.939453 268.017761 494.993988" a="135.000000" />
@@ -1359,8 +1486,8 @@
     <group name="QuercusRobur_fallenB" pos="10105.993164 283.909515 1121.725952" a="178.999969" />
     <group name="QuercusRobur_fallenC" pos="10095.926758 288.012756 1155.911987" a="-168.000015" />
     <group name="QuercusRobur_stumpB" pos="10093.256836 266.051361 1298.238037" a="-14.000004" />
-    <group name="QuercusRobur_stumpB" pos="10106.390625 256.990997 1355.626953" a="98.999962" />
     <group name="QuercusRobur_stumpB" pos="10100.423828 260.617493 1325.182983" a="-51.000004" />
+    <group name="QuercusRobur_stumpB" pos="10106.390625 256.990997 1355.626953" a="98.999962" />
     <group name="QuercusRobur_fallenB" pos="10093.872070 257.392395 1419.538940" a="-4.000007" />
     <group name="QuercusRobur_fallenC" pos="10119.515625 259.532867 1427.618042" a="-116.000008" />
     <group name="QuercusRobur_fallenB" pos="10112.696289 262.237518 1459.391968" a="-166.000000" />
@@ -1381,13 +1508,13 @@
     <group name="QuercusRobur_stumpB" pos="10101.974609 299.156342 2182.506104" a="18.999998" />
     <group name="QuercusRobur_stumpB" pos="10111.298828 312.633392 2278.188965" a="-1.000004" />
     <group name="QuercusRobur_fallenB" pos="10091.850586 316.089630 2354.368896" a="-148.000015" />
-    <group name="QuercusRobur_stump" pos="10084.613281 312.672302 2371.270996" a="-34.000004" />
     <group name="QuercusRobur_stump" pos="10095.749023 314.352081 2368.916992" a="-44.000004" />
+    <group name="QuercusRobur_stump" pos="10084.613281 312.672302 2371.270996" a="-34.000004" />
     <group name="QuercusRobur_fallenC" pos="10119.450195 316.550812 2366.753906" a="42.999992" />
     <group name="QuercusRobur_stump" pos="10080.970703 302.235718 2436.748047" a="-69.000000" />
     <group name="QuercusRobur_stump" pos="10110.542969 304.043854 2520.945068" a="-45.000000" />
-    <group name="QuercusRobur_stumpB" pos="10117.743164 301.117920 2604.628906" a="-131.000000" />
     <group name="QuercusRobur_stumpB" pos="10113.306641 297.896027 2629.947998" a="-170.000000" />
+    <group name="QuercusRobur_stumpB" pos="10117.743164 301.117920 2604.628906" a="-131.000000" />
     <group name="QuercusRobur_stumpB" pos="10099.734375 294.131805 2653.304932" a="35.999996" />
     <group name="QuercusRobur_stump" pos="10112.156250 296.013458 2716.908936" a="40.000000" />
     <group name="QuercusRobur_fallenC" pos="10099.407227 295.703125 2726.175049" a="54.000000" />
@@ -1459,8 +1586,8 @@
     <group name="QuercusRobur_stump" pos="10104.391602 243.417068 7804.694824" a="153.999985" />
     <group name="QuercusRobur_stump" pos="10095.005859 247.463745 7846.469238" a="-25.000002" />
     <group name="QuercusRobur_stump" pos="10089.181641 266.158661 7959.507813" a="-139.000015" />
-    <group name="QuercusRobur_stumpB" pos="10094.485352 257.869110 7920.837891" a="153.999985" />
     <group name="QuercusRobur_stumpB" pos="10093.935547 259.641266 7930.344238" a="-107.000008" />
+    <group name="QuercusRobur_stumpB" pos="10094.485352 257.869110 7920.837891" a="153.999985" />
     <group name="QuercusRobur_fallenB" pos="10089.543945 267.424042 7977.849121" a="-131.000000" />
     <group name="QuercusRobur_stumpB" pos="10103.378906 263.299469 7982.937988" a="125.999992" />
     <group name="QuercusRobur_stumpB" pos="10114.172852 259.687988 7978.866211" a="169.999969" />
@@ -1490,11 +1617,11 @@
     <group name="PiceaAbies_fallene" pos="10117.940430 267.072266 9295.514648" a="-2.999999" />
     <group name="PiceaAbies_stumpd" pos="10089.658203 270.551178 9312.002930" a="-51.000004" />
     <group name="PiceaAbies_stumpc" pos="10085.429688 269.226105 9341.578125" a="-53.000008" />
-    <group name="PiceaAbies_fallene" pos="10093.379883 267.616638 9378.239258" a="-90.000000" />
     <group name="PiceaAbies_fallene" pos="10081.949219 269.644989 9366.955078" a="-107.000008" />
+    <group name="PiceaAbies_fallene" pos="10093.379883 267.616638 9378.239258" a="-90.000000" />
     <group name="PiceaAbies_stumpc" pos="10085.614258 277.063110 9499.986328" a="-162.999985" />
-    <group name="PiceaAbies_fallend" pos="10095.053711 277.955383 9594.533203" a="-115.000000" />
     <group name="PiceaAbies_fallend" pos="10107.167969 278.666443 9562.682617" a="-137.000000" />
+    <group name="PiceaAbies_fallend" pos="10095.053711 277.955383 9594.533203" a="-115.000000" />
     <group name="PiceaAbies_fallene" pos="10112.505859 273.486481 9608.352539" a="-77.000000" />
     <group name="QuercusRobur_stumpB" pos="10080.353516 265.705048 9736.697266" a="101.999969" />
     <group name="PiceaAbies_fallene" pos="10104.100586 262.576385 9810.660156" a="72.999992" />
@@ -1533,8 +1660,8 @@
     <group name="QuercusRobur_fallenB" pos="10137.274414 286.338287 1144.349976" a="-117.000000" />
     <group name="QuercusRobur_stump" pos="10153.006836 286.261292 1192.051025" a="-102.999992" />
     <group name="QuercusRobur_stumpB" pos="10144.743164 286.181702 1189.994019" a="-42.000004" />
-    <group name="QuercusRobur_fallenB" pos="10144.980469 266.396576 1262.459961" a="-85.000000" />
     <group name="QuercusRobur_fallenB" pos="10154.378906 263.036377 1270.319946" a="-162.000015" />
+    <group name="QuercusRobur_fallenB" pos="10144.980469 266.396576 1262.459961" a="-85.000000" />
     <group name="QuercusRobur_fallenB" pos="10123.193359 258.539734 1325.072021" a="-22.000006" />
     <group name="QuercusRobur_stump" pos="10148.408203 256.207550 1369.147949" a="-8.999998" />
     <group name="QuercusRobur_stump" pos="10131.343750 259.356903 1414.842041" a="56.999996" />
@@ -1569,8 +1696,8 @@
     <group name="QuercusRobur_stumpB" pos="10121.764648 296.479492 3478.135986" a="54.000000" />
     <group name="QuercusRobur_fallenB" pos="10120.616211 295.363800 3629.321045" a="175.999985" />
     <group name="QuercusRobur_stumpB" pos="10153.023438 293.368469 3616.077881" a="-151.999985" />
-    <group name="QuercusRobur_stumpB" pos="10132.308594 291.983246 3649.147949" a="-15.999999" />
     <group name="QuercusRobur_stumpB" pos="10120.509766 292.621368 3668.076904" a="-93.999985" />
+    <group name="QuercusRobur_stumpB" pos="10132.308594 291.983246 3649.147949" a="-15.999999" />
     <group name="QuercusRobur_fallenC" pos="10156.736328 277.024353 3784.922119" a="-73.999992" />
     <group name="QuercusRobur_fallenB" pos="10139.188477 282.056793 3834.290039" a="86.999992" />
     <group name="QuercusRobur_stumpB" pos="10143.416016 265.910583 4076.730957" a="93.999985" />
@@ -1579,8 +1706,8 @@
     <group name="QuercusRobur_fallenC" pos="10132.674805 270.982025 4270.557129" a="147.000000" />
     <group name="QuercusRobur_fallenC" pos="10148.275391 268.743286 4305.310059" a="114.999985" />
     <group name="QuercusRobur_fallenC" pos="10134.949219 265.893158 4400.192871" a="-146.000000" />
-    <group name="QuercusRobur_fallenC" pos="10120.190430 262.116943 4427.415039" a="-154.000000" />
     <group name="QuercusRobur_fallenC" pos="10154.460938 261.757751 4413.148926" a="-61.999992" />
+    <group name="QuercusRobur_fallenC" pos="10120.190430 262.116943 4427.415039" a="-154.000000" />
     <group name="QuercusRobur_fallenB" pos="10139.657227 255.481003 4464.762207" a="-6.000002" />
     <group name="QuercusRobur_stumpB" pos="10127.716797 251.630417 4500.712891" a="-54.999996" />
     <group name="QuercusRobur_fallenC" pos="10129.296875 243.706680 4543.256836" a="-40.000000" />
@@ -1623,13 +1750,13 @@
     <group name="QuercusRobur_stump" pos="10120.147461 274.441498 6674.230957" a="-18.000002" />
     <group name="QuercusRobur_fallenB" pos="10126.084961 271.280914 6736.484863" a="-119.000000" />
     <group name="QuercusRobur_stump" pos="10159.815430 269.134949 6732.755859" a="-148.000015" />
-    <group name="QuercusRobur_stump" pos="10140.251953 266.951355 6764.414063" a="-54.000004" />
     <group name="QuercusRobur_stump" pos="10147.427734 263.473999 6799.333984" a="35.999996" />
+    <group name="QuercusRobur_stump" pos="10140.251953 266.951355 6764.414063" a="-54.000004" />
     <group name="QuercusRobur_stumpB" pos="10151.878906 263.819458 6784.287109" a="-24.000002" />
     <group name="QuercusRobur_stump" pos="10146.385742 262.634125 6835.349121" a="-34.000004" />
     <group name="QuercusRobur_fallenB" pos="10122.791016 256.942047 6856.749023" a="118.999992" />
-    <group name="QuercusRobur_stump" pos="10135.077148 259.131683 6855.887207" a="-8.000005" />
     <group name="QuercusRobur_stump" pos="10132.143555 257.464447 6864.720215" a="140.000000" />
+    <group name="QuercusRobur_stump" pos="10135.077148 259.131683 6855.887207" a="-8.000005" />
     <group name="QuercusRobur_fallenB" pos="10136.182617 252.762405 6936.437988" a="107.999992" />
     <group name="QuercusRobur_stumpB" pos="10158.322266 250.081741 6971.375977" a="-168.000015" />
     <group name="QuercusRobur_stumpB" pos="10156.695313 233.363113 7131.584961" a="-131.000000" />
@@ -1641,16 +1768,16 @@
     <group name="QuercusRobur_fallenB" pos="10138.825195 219.361618 7323.606934" a="45.999992" />
     <group name="QuercusRobur_fallenB" pos="10144.753906 228.231964 7350.034180" a="78.000000" />
     <group name="QuercusRobur_fallenB" pos="10136.166992 233.626450 7388.164063" a="-173.000015" />
-    <group name="QuercusRobur_stump" pos="10145.775391 235.186096 7393.919922" a="151.999985" />
     <group name="QuercusRobur_stump" pos="10148.203125 233.417282 7383.335938" a="-98.000008" />
+    <group name="QuercusRobur_stump" pos="10145.775391 235.186096 7393.919922" a="151.999985" />
     <group name="QuercusRobur_fallenC" pos="10139.306641 232.806473 7383.653809" a="-107.999992" />
     <group name="QuercusRobur_fallenB" pos="10149.461914 254.730301 7476.758789" a="-36.000008" />
     <group name="QuercusRobur_fallenB" pos="10145.975586 245.276199 7444.419922" a="-106.000000" />
     <group name="QuercusRobur_fallenC" pos="10131.206055 246.727859 7453.437988" a="157.999985" />
     <group name="QuercusRobur_fallenB" pos="10120.995117 259.191833 7492.647949" a="-51.000004" />
     <group name="QuercusRobur_stump" pos="10146.978516 265.213959 7518.542969" a="149.000015" />
-    <group name="QuercusRobur_stumpB" pos="10137.721680 264.389404 7516.732910" a="161.000000" />
     <group name="QuercusRobur_stumpB" pos="10134.865234 258.168396 7491.876953" a="169.000000" />
+    <group name="QuercusRobur_stumpB" pos="10137.721680 264.389404 7516.732910" a="161.000000" />
     <group name="QuercusRobur_stump" pos="10134.242188 269.986725 7550.346191" a="-120.000008" />
     <group name="QuercusRobur_stumpB" pos="10138.651367 271.064423 7590.309082" a="-125.000008" />
     <group name="QuercusRobur_stumpB" pos="10153.681641 272.018402 7560.964844" a="13.999999" />
@@ -1666,15 +1793,15 @@
     <group name="QuercusRobur_stump" pos="10157.241211 263.215759 8085.455078" a="97.000000" />
     <group name="QuercusRobur_fallenB" pos="10122.405273 265.957886 8165.515137" a="-32.000000" />
     <group name="QuercusRobur_stump" pos="10139.142578 273.712128 8224.154297" a="-7.000003" />
-    <group name="QuercusRobur_stump" pos="10133.995117 280.826324 8306.995117" a="-61.999992" />
     <group name="QuercusRobur_stump" pos="10125.490234 278.512878 8300.772461" a="176.999985" />
+    <group name="QuercusRobur_stump" pos="10133.995117 280.826324 8306.995117" a="-61.999992" />
     <group name="QuercusRobur_fallenC" pos="10148.262695 279.878723 8286.570313" a="8.000000" />
     <group name="QuercusRobur_stumpB" pos="10149.137695 288.034363 8353.099609" a="-84.000008" />
     <group name="QuercusRobur_stumpB" pos="10146.501953 290.803711 8408.949219" a="61.000000" />
     <group name="QuercusRobur_fallenC" pos="10128.003906 297.864258 8469.950195" a="-174.000000" />
     <group name="QuercusRobur_fallenB" pos="10127.129883 290.711914 8530.753906" a="-92.000000" />
-    <group name="QuercusRobur_stump" pos="10154.799805 292.064941 8539.215820" a="71.000000" />
     <group name="QuercusRobur_stump" pos="10145.384766 290.207001 8544.109375" a="125.999992" />
+    <group name="QuercusRobur_stump" pos="10154.799805 292.064941 8539.215820" a="71.000000" />
     <group name="QuercusRobur_fallenB" pos="10121.546875 277.797821 8597.790039" a="98.999962" />
     <group name="QuercusRobur_fallenC" pos="10152.850586 282.775055 8586.076172" a="-37.000004" />
     <group name="QuercusRobur_fallenC" pos="10144.908203 279.209167 8631.585938" a="149.000015" />
@@ -1684,16 +1811,16 @@
     <group name="QuercusRobur_stumpB" pos="10156.643555 215.545929 8919.385742" a="-40.999996" />
     <group name="PiceaAbies_stumpd" pos="10131.462891 237.698303 9059.458008" a="-77.000000" />
     <group name="PiceaAbies_fallend" pos="10140.517578 242.198944 9106.675781" a="-148.000015" />
-    <group name="PiceaAbies_fallene" pos="10131.750977 248.106201 9137.985352" a="-39.000008" />
+    <group name="PiceaAbies_fallene" pos="10131.750977 248.106186 9137.985352" a="-39.000008" />
     <group name="PiceaAbies_fallend" pos="10121.872070 248.101532 9135.004883" a="12.999998" />
-    <group name="PiceaAbies_stumpd" pos="10134.930664 252.413193 9170.093750" a="-47.000000" />
     <group name="PiceaAbies_stumpd" pos="10136.230469 254.228470 9183.881836" a="62.999996" />
+    <group name="PiceaAbies_stumpd" pos="10134.930664 252.413193 9170.093750" a="-47.000000" />
     <group name="PiceaAbies_stumpd" pos="10125.945313 261.011810 9225.878906" a="176.999985" />
     <group name="PiceaAbies_stumpc" pos="10126.993164 265.201111 9265.464844" a="169.000000" />
     <group name="PiceaAbies_stumpd" pos="10152.424805 260.192688 9317.175781" a="-79.000008" />
     <group name="PiceaAbies_stumpc" pos="10129.540039 265.198090 9297.019531" a="-109.999992" />
-    <group name="PiceaAbies_fallene" pos="10141.994141 261.481995 9338.828125" a="68.999992" />
     <group name="PiceaAbies_fallene" pos="10148.916016 260.871460 9333.541992" a="73.999992" />
+    <group name="PiceaAbies_fallene" pos="10141.994141 261.481995 9338.828125" a="68.999992" />
     <group name="PiceaAbies_stumpc" pos="10141.709961 261.274200 9346.699219" a="74.999992" />
     <group name="PiceaAbies_stumpc" pos="10136.336914 263.862488 9399.739258" a="-138.000000" />
     <group name="PiceaAbies_stumpc" pos="10142.372070 267.753662 9439.476563" a="55.999992" />
@@ -1705,7 +1832,7 @@
     <group name="PiceaAbies_stumpc" pos="10124.022461 263.320801 9725.532227" a="47.999996" />
     <group name="PiceaAbies_stumpd" pos="10138.512695 250.590729 9821.265625" a="-171.999985" />
     <group name="PiceaAbies_stumpc" pos="10136.054688 252.839096 9809.828125" a="135.000000" />
-    <group name="PiceaAbies_fallene" pos="10149.865234 248.428925 9858.810547" a="-97.000000" />
+    <group name="PiceaAbies_fallene" pos="10149.865234 248.428909 9858.810547" a="-97.000000" />
     <group name="PiceaAbies_stumpc" pos="10157.972656 248.096481 9860.909180" a="87.999992" />
     <group name="PiceaAbies_stumpc" pos="10129.317383 246.266785 9933.016602" a="-19.999998" />
     <group name="PiceaAbies_stumpc" pos="10128.210938 258.370483 10005.669922" a="-40.999996" />
@@ -1717,8 +1844,8 @@
     <group name="PiceaAbies_fallend" pos="10134.089844 285.796143 10233.398438" a="40.999996" />
     <group name="PiceaAbies_stumpc" pos="10137.365234 285.160980 10219.075195" a="-136.000000" />
     <group name="QuercusRobur_stump" pos="10181.693359 285.642426 59.176998" a="-170.999985" />
-    <group name="QuercusRobur_fallenC" pos="10191.347656 274.356781 239.733002" a="-139.000015" />
     <group name="QuercusRobur_fallenC" pos="10193.228516 280.625885 206.285004" a="-147.000015" />
+    <group name="QuercusRobur_fallenC" pos="10191.347656 274.356781 239.733002" a="-139.000015" />
     <group name="QuercusRobur_stumpB" pos="10184.446289 279.761871 203.119003" a="126.999985" />
     <group name="QuercusRobur_stump" pos="10196.177734 269.556702 272.255005" a="102.999992" />
     <group name="QuercusRobur_fallenC" pos="10175.494141 267.245483 257.213013" a="-13.000004" />
@@ -1728,8 +1855,8 @@
     <group name="QuercusRobur_stumpB" pos="10195.626953 262.573669 387.419006" a="-179.000000" />
     <group name="QuercusRobur_stump" pos="10168.233398 279.978699 643.333984" a="-146.000000" />
     <group name="QuercusRobur_fallenC" pos="10182.242188 284.213287 734.044006" a="152.999985" />
-    <group name="QuercusRobur_stump" pos="10167.331055 279.179932 923.455994" a="-19.999998" />
     <group name="QuercusRobur_stump" pos="10180.045898 277.529022 932.166016" a="96.000008" />
+    <group name="QuercusRobur_stump" pos="10167.331055 279.179932 923.455994" a="-19.999998" />
     <group name="QuercusRobur_stumpB" pos="10162.453125 277.783417 930.526001" a="146.000000" />
     <group name="QuercusRobur_stumpB" pos="10163.644531 272.828430 962.752991" a="138.999985" />
     <group name="QuercusRobur_stumpB" pos="10183.326172 270.385742 1031.832031" a="106.000000" />
@@ -1756,8 +1883,8 @@
     <group name="QuercusRobur_fallenB" pos="10172.782227 289.970154 2065.779053" a="-85.000000" />
     <group name="QuercusRobur_stump" pos="10173.976563 297.256073 2140.960938" a="-166.000000" />
     <group name="QuercusRobur_fallenC" pos="10166.186523 296.982574 2145.607910" a="-75.999992" />
-    <group name="QuercusRobur_fallenB" pos="10175.625000 296.895538 2183.655029" a="30.999996" />
     <group name="QuercusRobur_fallenB" pos="10197.327148 295.848358 2180.688965" a="52.999996" />
+    <group name="QuercusRobur_fallenB" pos="10175.625000 296.895538 2183.655029" a="30.999996" />
     <group name="QuercusRobur_stumpB" pos="10192.816406 307.738098 2317.295898" a="-32.000000" />
     <group name="QuercusRobur_stumpB" pos="10188.505859 306.370789 2302.253906" a="45.999992" />
     <group name="QuercusRobur_fallenB" pos="10184.743164 308.457489 2514.256104" a="-147.000015" />
@@ -1774,12 +1901,12 @@
     <group name="QuercusRobur_stumpB" pos="10186.740234 291.016357 3017.946045" a="161.000000" />
     <group name="QuercusRobur_fallenB" pos="10164.540039 286.191589 3104.397949" a="166.000000" />
     <group name="QuercusRobur_stump" pos="10173.778320 297.773926 3200.504883" a="-47.999996" />
-    <group name="QuercusRobur_fallenB" pos="10165.133789 298.454620 3494.998047" a="146.000000" />
     <group name="QuercusRobur_fallenB" pos="10183.491211 297.149445 3501.955078" a="-68.000000" />
+    <group name="QuercusRobur_fallenB" pos="10165.133789 298.454620 3494.998047" a="146.000000" />
     <group name="QuercusRobur_stump" pos="10195.072266 296.779572 3492.993896" a="-127.999992" />
     <group name="QuercusRobur_fallenC" pos="10178.055664 287.695190 3647.662109" a="130.999969" />
-    <group name="QuercusRobur_fallenC" pos="10164.349609 276.913971 3764.077881" a="151.999985" />
     <group name="QuercusRobur_fallenC" pos="10178.481445 273.515839 3788.085938" a="-32.000004" />
+    <group name="QuercusRobur_fallenC" pos="10164.349609 276.913971 3764.077881" a="151.999985" />
     <group name="QuercusRobur_stumpB" pos="10198.613281 272.359894 3790.980957" a="58.999996" />
     <group name="QuercusRobur_fallenB" pos="10191.901367 274.105621 3803.875000" a="-78.000000" />
     <group name="QuercusRobur_fallenC" pos="10170.376953 277.514252 3991.143066" a="126.999985" />
@@ -1795,8 +1922,8 @@
     <group name="QuercusRobur_fallenB" pos="10162.892578 228.608597 4672.539063" a="-10.000000" />
     <group name="QuercusRobur_fallenC" pos="10160.897461 228.065506 4697.051758" a="-156.000000" />
     <group name="QuercusRobur_stump" pos="10181.411133 225.352798 4831.903809" a="-179.000000" />
-    <group name="QuercusRobur_fallenB" pos="10183.680664 229.154373 4897.542969" a="-17.000002" />
     <group name="QuercusRobur_fallenB" pos="10163.417969 227.389038 4908.860840" a="-115.000000" />
+    <group name="QuercusRobur_fallenB" pos="10183.680664 229.154373 4897.542969" a="-17.000002" />
     <group name="QuercusRobur_fallenC" pos="10194.685547 234.628357 4948.138184" a="21.000002" />
     <group name="QuercusRobur_fallenC" pos="10191.569336 237.924545 4973.041992" a="45.000000" />
     <group name="QuercusRobur_fallenB" pos="10182.951172 245.085800 5032.544922" a="98.999962" />
@@ -1825,8 +1952,8 @@
     <group name="QuercusRobur_stumpB" pos="10172.313477 265.259979 6067.420898" a="-29.000008" />
     <group name="QuercusRobur_fallenC" pos="10176.170898 279.363098 6178.204102" a="96.000008" />
     <group name="QuercusRobur_stump" pos="10169.722656 283.237549 6208.286133" a="-34.000004" />
-    <group name="QuercusRobur_fallenB" pos="10194.863281 280.354614 6265.640137" a="-84.000008" />
     <group name="QuercusRobur_fallenB" pos="10192.074219 282.039429 6254.444824" a="-174.000000" />
+    <group name="QuercusRobur_fallenB" pos="10194.863281 280.354614 6265.640137" a="-84.000008" />
     <group name="QuercusRobur_stumpB" pos="10174.095703 281.137604 6272.723145" a="-18.999996" />
     <group name="QuercusRobur_stump" pos="10177.857422 278.024658 6295.006836" a="-97.000000" />
     <group name="QuercusRobur_stumpB" pos="10185.155273 274.953247 6308.513184" a="111.999969" />
@@ -1849,8 +1976,8 @@
     <group name="QuercusRobur_stump" pos="10174.677734 226.169388 7334.185059" a="137.999985" />
     <group name="QuercusRobur_stumpB" pos="10160.521484 229.598175 7361.498047" a="29.999996" />
     <group name="QuercusRobur_fallenB" pos="10199.587891 240.682938 7412.940918" a="-37.000004" />
-    <group name="QuercusRobur_stumpB" pos="10188.840820 244.520538 7431.083008" a="98.999962" />
     <group name="QuercusRobur_stumpB" pos="10184.285156 242.549164 7423.414063" a="78.000000" />
+    <group name="QuercusRobur_stumpB" pos="10188.840820 244.520538 7431.083008" a="98.999962" />
     <group name="QuercusRobur_stumpB" pos="10167.299805 256.048218 7478.727051" a="-142.000000" />
     <group name="QuercusRobur_stump" pos="10173.380859 274.340424 7636.195801" a="175.000000" />
     <group name="QuercusRobur_stump" pos="10183.757813 270.912689 7684.053223" a="-109.999992" />
@@ -1884,8 +2011,8 @@
     <group name="QuercusRobur_fallenC" pos="10198.427734 227.157288 9061.678711" a="-148.000015" />
     <group name="PiceaAbies_fallend" pos="10175.585938 248.308456 9181.736328" a="-49.000004" />
     <group name="PiceaAbies_stumpc" pos="10193.143555 251.187363 9226.176758" a="119.999985" />
-    <group name="PiceaAbies_fallend" pos="10176.579102 255.644806 9295.739258" a="-24.000002" />
     <group name="PiceaAbies_fallend" pos="10182.734375 254.388840 9292.251953" a="-88.999992" />
+    <group name="PiceaAbies_fallend" pos="10176.579102 255.644806 9295.739258" a="-24.000002" />
     <group name="PiceaAbies_stumpc" pos="10166.619141 257.936768 9315.336914" a="78.000000" />
     <group name="PiceaAbies_fallend" pos="10168.939453 260.444733 9361.130859" a="164.999969" />
     <group name="PiceaAbies_stumpd" pos="10161.493164 271.360596 9458.211914" a="-122.999992" />
@@ -1893,16 +2020,16 @@
     <group name="PiceaAbies_fallene" pos="10186.541016 263.981506 9592.438477" a="127.999992" />
     <group name="PiceaAbies_fallend" pos="10162.894531 266.351074 9600.742188" a="31.000000" />
     <group name="PiceaAbies_stumpd" pos="10173.841797 263.399292 9614.480469" a="-126.000000" />
-    <group name="PiceaAbies_fallene" pos="10199.001953 254.896973 9676.588867" a="97.999962" />
+    <group name="PiceaAbies_fallene" pos="10199.001953 254.896957 9676.588867" a="97.999962" />
     <group name="PiceaAbies_stumpd" pos="10174.019531 262.750336 9650.138672" a="58.999996" />
     <group name="PiceaAbies_fallend" pos="10167.800781 252.539581 9732.856445" a="-63.999996" />
-    <group name="PiceaAbies_fallene" pos="10196.776367 247.129776 9786.825195" a="90.999977" />
+    <group name="PiceaAbies_fallene" pos="10196.776367 247.129761 9786.825195" a="90.999977" />
     <group name="PiceaAbies_stumpd" pos="10167.954102 248.743103 9788.278320" a="-13.000003" />
     <group name="PiceaAbies_stumpd" pos="10163.295898 245.854706 9818.945313" a="-156.999985" />
     <group name="PiceaAbies_stumpc" pos="10170.468750 245.817307 9811.086914" a="-100.000008" />
     <group name="PiceaAbies_fallend" pos="10188.771484 251.010330 9870.237305" a="12.999998" />
-    <group name="PiceaAbies_stumpd" pos="10166.172852 247.761322 9859.071289" a="35.999996" />
     <group name="PiceaAbies_stumpd" pos="10172.800781 247.013153 9848.297852" a="90.999977" />
+    <group name="PiceaAbies_stumpd" pos="10166.172852 247.761322 9859.071289" a="35.999996" />
     <group name="PiceaAbies_stumpd" pos="10172.022461 249.949600 9895.919922" a="-54.999996" />
     <group name="PiceaAbies_stumpd" pos="10187.745117 251.022369 9889.439453" a="-107.999992" />
     <group name="PiceaAbies_fallend" pos="10186.633789 256.681122 9962.306641" a="37.999996" />
@@ -1931,9 +2058,9 @@
     <group name="QuercusRobur_stump" pos="10221.920898 286.463837 724.369995" a="11.999997" />
     <group name="QuercusRobur_fallenC" pos="10216.903320 287.800568 756.895020" a="93.999985" />
     <group name="QuercusRobur_stumpB" pos="10228.878906 285.830902 730.463013" a="-95.999992" />
-    <group name="QuercusRobur_stumpB" pos="10213.183594 289.826752 774.580994" a="-42.000004" />
     <group name="QuercusRobur_stumpB" pos="10200.423828 288.798615 760.851990" a="124.999985" />
     <group name="QuercusRobur_stumpB" pos="10228.801758 288.915710 787.146973" a="23.999996" />
+    <group name="QuercusRobur_stumpB" pos="10213.183594 289.826752 774.580994" a="-42.000004" />
     <group name="QuercusRobur_fallenB" pos="10226.141602 289.072693 827.367004" a="-169.000000" />
     <group name="QuercusRobur_fallenB" pos="10204.802734 290.228119 808.611023" a="17.999998" />
     <group name="QuercusRobur_stump" pos="10214.567383 289.101196 831.883972" a="-37.000004" />
@@ -1962,18 +2089,18 @@
     <group name="QuercusRobur_stump" pos="10205.396484 301.564697 2428.214111" a="-179.000000" />
     <group name="QuercusRobur_fallenB" pos="10206.755859 301.029572 2447.858887" a="100.999977" />
     <group name="QuercusRobur_stump" pos="10206.704102 302.303253 2466.917969" a="-132.000015" />
-    <group name="QuercusRobur_stump" pos="10221.469727 311.456879 2571.256104" a="81.999992" />
     <group name="QuercusRobur_stump" pos="10203.689453 312.307800 2562.961914" a="-122.000000" />
+    <group name="QuercusRobur_stump" pos="10221.469727 311.456879 2571.256104" a="81.999992" />
     <group name="QuercusRobur_stump" pos="10210.860352 306.688141 2656.069092" a="14.999992" />
     <group name="QuercusRobur_stump" pos="10210.694336 303.907440 2710.541016" a="-121.000015" />
     <group name="QuercusRobur_fallenC" pos="10201.994141 302.865143 2710.764893" a="-70.000000" />
-    <group name="QuercusRobur_stump" pos="10208.409180 288.092499 3142.226074" a="-79.000008" />
     <group name="QuercusRobur_stump" pos="10228.886719 282.852448 3126.337891" a="149.999969" />
+    <group name="QuercusRobur_stump" pos="10208.409180 288.092499 3142.226074" a="-79.000008" />
     <group name="QuercusRobur_fallenB" pos="10203.476563 295.103241 3197.891113" a="27.999996" />
     <group name="QuercusRobur_stump" pos="10211.819336 300.070160 3439.321045" a="6.999999" />
     <group name="QuercusRobur_stumpB" pos="10204.692383 303.210907 3406.800049" a="60.000000" />
-    <group name="QuercusRobur_stump" pos="10202.885742 289.258545 3632.717041" a="-67.000008" />
     <group name="QuercusRobur_stump" pos="10207.969727 292.172424 3609.659912" a="125.999992" />
+    <group name="QuercusRobur_stump" pos="10202.885742 289.258545 3632.717041" a="-67.000008" />
     <group name="QuercusRobur_stump" pos="10224.949219 286.458191 3644.791016" a="-75.999992" />
     <group name="QuercusRobur_stump" pos="10208.971680 276.086914 3716.418945" a="65.000000" />
     <group name="QuercusRobur_stumpB" pos="10226.619141 268.550629 3765.652100" a="65.000000" />
@@ -2011,10 +2138,10 @@
     <group name="QuercusRobur_stump" pos="10227.730469 256.862671 6830.795898" a="106.000000" />
     <group name="QuercusRobur_fallenB" pos="10228.337891 251.277359 6907.242188" a="-5.000008" />
     <group name="QuercusRobur_stump" pos="10220.996094 249.083847 6927.021973" a="117.000000" />
-    <group name="QuercusRobur_stumpB" pos="10227.499023 243.456024 6956.083008" a="-170.999985" />
     <group name="QuercusRobur_stumpB" pos="10200.659180 247.166397 6935.291016" a="161.000000" />
-    <group name="QuercusRobur_stumpB" pos="10202.452148 243.138275 7097.666016" a="114.999985" />
+    <group name="QuercusRobur_stumpB" pos="10227.499023 243.456024 6956.083008" a="-170.999985" />
     <group name="QuercusRobur_stumpB" pos="10221.586914 238.681503 7105.459961" a="79.999992" />
+    <group name="QuercusRobur_stumpB" pos="10202.452148 243.138275 7097.666016" a="114.999985" />
     <group name="QuercusRobur_stump" pos="10201.342773 230.212860 7154.546875" a="-130.000000" />
     <group name="QuercusRobur_fallenC" pos="10229.566406 220.489807 7227.858887" a="-93.000008" />
     <group name="QuercusRobur_fallenB" pos="10210.787109 230.348969 7343.975098" a="10.999996" />
@@ -2031,8 +2158,8 @@
     <group name="QuercusRobur_fallenB" pos="10227.004883 246.035645 7953.530762" a="151.000000" />
     <group name="QuercusRobur_stumpB" pos="10208.821289 244.597519 7948.705078" a="67.999992" />
     <group name="QuercusRobur_fallenB" pos="10228.886719 248.712021 7977.578125" a="-159.000000" />
-    <group name="QuercusRobur_fallenC" pos="10223.771484 246.630753 7964.919922" a="-132.000015" />
     <group name="QuercusRobur_fallenC" pos="10221.792969 249.016449 7983.162109" a="-50.000011" />
+    <group name="QuercusRobur_fallenC" pos="10223.771484 246.630753 7964.919922" a="-132.000015" />
     <group name="QuercusRobur_stump" pos="10209.036133 260.027130 8039.414063" a="-12.000009" />
     <group name="QuercusRobur_stumpB" pos="10227.166992 263.810242 8077.147949" a="-77.000000" />
     <group name="QuercusRobur_fallenC" pos="10212.569336 285.995728 8248.032227" a="-166.000000" />
@@ -2044,7 +2171,7 @@
     <group name="QuercusRobur_fallenC" pos="10216.199219 228.123764 8808.861328" a="177.999985" />
     <group name="QuercusRobur_fallenB" pos="10206.236328 218.798767 8985.404297" a="-63.999996" />
     <group name="PiceaAbies_stumpc" pos="10217.668945 234.095993 9111.292969" a="-162.999985" />
-    <group name="PiceaAbies_fallene" pos="10224.095703 249.177765 9297.640625" a="-147.000015" />
+    <group name="PiceaAbies_fallene" pos="10224.095703 249.177750 9297.640625" a="-147.000015" />
     <group name="PiceaAbies_stumpd" pos="10227.493164 256.381348 9348.842773" a="-162.999985" />
     <group name="PiceaAbies_stumpd" pos="10218.115234 261.102478 9409.597656" a="-10.000001" />
     <group name="PiceaAbies_fallend" pos="10215.466797 265.523651 9475.675781" a="-86.000008" />
