@@ -1,0 +1,22 @@
+void main()
+{
+	// economy init
+	CreateHive();
+	GetHive().InitOffline();
+
+	// comment/remove following 2 lines when not exporting (can cause further issues if you do this each time you start a mission!)
+	//GetCEApi().ExportProxyData(Vector(5120, GetGame().SurfaceY(5120, 5120), 5120), 10240);
+	GetCEApi().ExportProxyData(Vector(5120, GetGame().SurfaceY(5120, 5120), 5120), 20000);	// standard map groups (buildings) export, terrain center and radius needs to be specified
+	GetCEApi().ExportClusterData();					// cluster-type map groups export (fruit trees etc.)
+	GetCEApi().EconomyLog(EconomyLogCategories.Economy);
+	GetCEApi().LootExportGroup();
+	// Export CE CSV
+	//GetCEApi().EconomyLog(EconomyLogCategories.Economy);
+	
+	
+	// player creation
+	vector spawnPos = "5120 0 5120";
+	Entity playerEnt = GetGame().CreatePlayer(NULL, "SurvivorF_Eva", spawnPos, 0, "NONE");
+	PlayerBase player = (PlayerBase) playerEnt;
+	GetGame().SelectPlayer(NULL, player);
+};
