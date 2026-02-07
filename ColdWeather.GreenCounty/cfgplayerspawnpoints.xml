@@ -19,48 +19,73 @@
             <max_steepness>45</max_steepness>
         </generator_params>
         <group_params>
-            <enablegroups>false</enablegroups>
+            <enablegroups>true</enablegroups>
             <groups_as_regular>true</groups_as_regular>
-            <lifetime>120</lifetime>
-            <counter>-1</counter>
+            <lifetime>60</lifetime>
+            <counter>1</counter>
         </group_params>
 		<generator_posbubbles>
-            <group name="Spawns">
-				<pos x="1037" z="8583" />
-				<pos x="1258" z="8904" />
-				<pos x="1264" z="9348" />
-				<pos x="752" z="7968" />
-				<pos x="840" z="7724" />
-				<pos x="846" z="7564" />
-				<pos x="1118" z="7070" />
-				<pos x="802" z="7218" />
-				<pos x="1274" z="7700" />
-				<pos x="1214" z="8014" />
-				<pos x="236" z="6496" />
-				<pos x="140" z="5346" />
-				<pos x="888" z="4542" />
-				<pos x="702" z="4118" />
-				<pos x="408" z="3956" />
-				<pos x="486" z="3764" />
-				<pos x="842" z="3836" />
-				<pos x="572" z="3458" />
-				<pos x="760" z="3394" />
-				<pos x="680" z="3226" />
-				<pos x="802" z="2874" />
-				<pos x="1002" z="2684" />
-				<pos x="756" z="2318" />
-				<pos x="762" z="1950" />
-				<pos x="890" z="1444" />
-				<pos x="252" z="1402" />
-				<pos x="72" z="996" />
-				<pos x="304" z="892" />
-				<pos x="872" z="938" />
-				<pos x="538" z="440" />
-				<pos x="1000" z="130" />
-				<pos x="146" z="3870" />
-				<pos x="952" z="540" />
-				<pos x="658" z="4936" />
-				<pos x="776" z="5996" />
+            <group name="Clayton">
+				<pos x="1056.56" z="8568.13" />
+				<pos x="140.089" z="3701.14" />
+				<pos x="594.681" z="4183.67" />
+            </group>
+            <group name="Sawmill">
+				<pos x="1218.86" z="8340.17" />
+				<pos x="185.285" z="4029.21" />
+            </group>
+            <group name="Munford/Edesville">
+				<pos x="691.482" z="4129.59" />
+				<pos x="1256.4" z="8646.77" />
+            </group>
+            <group name="Lynbrook">
+				<pos x="880.369" z="939.503" />
+				<pos x="903.566" z="4370.4" />
+            </group>
+            <group name="Auberry">
+				<pos x="925.408"z="5041.24" />
+				<pos x="947.082"z="432.431" />
+				<pos x="575.498"z="3517.65" />
+            </group>
+            <group name="Bedford">
+				<pos x="292.978"z="891.854" />
+				<pos x="816.471"z="3725.02" />
+				<pos x="770.999"z="909.003" />
+            </group>
+            <group name="JohnsonResort">
+				<pos x="624.101"z="3934.08" />
+				<pos x="535.721"z="411.076" />
+				<pos x="546.779"z="3295.62" />
+            </group>
+            <group name="Fairview">
+				<pos x="742.87"z="4864.5" />
+				<pos x="951.309"z="553.119" />
+				<pos x="763.874"z="1959.5" />
+            </group>
+            <group name="Minerton">
+				<pos x="804.317"z="2881.46" />
+				<pos x="763.387"z="7855.51" />
+				<pos x="749.64"z="2294.78" />
+            </group>
+            <group name="KenjiCamp">
+				<pos x="680.903"z="3113.39" />
+				<pos x="924.106"z="7620.24" />
+            </group>
+            <group name="W_Minerton">
+				<pos x="591.702"z="6183.47" />
+            </group>
+            <group name="W_HollyPond">
+				<pos x="986.146"z="1334.81" />
+				<pos x="850.38"z="5861.59" />
+            </group>
+            <group name="W_Bedford">
+				<pos x="979.784"z="1099.67" />
+				<pos x="772.86"z="277.054" />
+            </group>
+            <group name="Neightboor_Sawmill">
+				<pos x="1322.89" z="6691.38" />
+				<pos x="1288.06" z="7616.25" />
+				<pos x="1065.45" z="6851.09" />
             </group>
 		</generator_posbubbles>
 	</fresh>
@@ -84,48 +109,73 @@
             <max_steepness>45</max_steepness>
         </generator_params>
         <group_params>
-            <enablegroups>false</enablegroups>
+            <enablegroups>true</enablegroups>
             <groups_as_regular>true</groups_as_regular>
-            <lifetime>360</lifetime>
-            <counter>-1</counter>
+            <lifetime>60</lifetime>
+            <counter>1</counter>
         </group_params>
 		<generator_posbubbles>
-            <group name="Spawns">
-				<pos x="1037" z="8583" />
-				<pos x="1258" z="8904" />
-				<pos x="1264" z="9348" />
-				<pos x="752" z="7968" />
-				<pos x="840" z="7724" />
-				<pos x="846" z="7564" />
-				<pos x="1118" z="7070" />
-				<pos x="802" z="7218" />
-				<pos x="1274" z="7700" />
-				<pos x="1214" z="8014" />
-				<pos x="236" z="6496" />
-				<pos x="140" z="5346" />
-				<pos x="888" z="4542" />
-				<pos x="702" z="4118" />
-				<pos x="408" z="3956" />
-				<pos x="486" z="3764" />
-				<pos x="842" z="3836" />
-				<pos x="572" z="3458" />
-				<pos x="760" z="3394" />
-				<pos x="680" z="3226" />
-				<pos x="802" z="2874" />
-				<pos x="1002" z="2684" />
-				<pos x="756" z="2318" />
-				<pos x="762" z="1950" />
-				<pos x="890" z="1444" />
-				<pos x="252" z="1402" />
-				<pos x="72" z="996" />
-				<pos x="304" z="892" />
-				<pos x="872" z="938" />
-				<pos x="538" z="440" />
-				<pos x="1000" z="130" />
-				<pos x="146" z="3870" />
-				<pos x="952" z="540" />
-				<pos x="658" z="4936" />
-				<pos x="776" z="5996" />
+            <group name="Clayton">
+				<pos x="1056.56" z="8568.13" />
+				<pos x="140.089" z="3701.14" />
+				<pos x="594.681" z="4183.67" />
+            </group>
+            <group name="Sawmill">
+				<pos x="1218.86" z="8340.17" />
+				<pos x="185.285" z="4029.21" />
+            </group>
+            <group name="Munford/Edesville">
+				<pos x="691.482" z="4129.59" />
+				<pos x="1256.4" z="8646.77" />
+            </group>
+            <group name="Lynbrook">
+				<pos x="880.369" z="939.503" />
+				<pos x="903.566" z="4370.4" />
+            </group>
+            <group name="Auberry">
+				<pos x="925.408"z="5041.24" />
+				<pos x="947.082"z="432.431" />
+				<pos x="575.498"z="3517.65" />
+            </group>
+            <group name="Bedford">
+				<pos x="292.978"z="891.854" />
+				<pos x="816.471"z="3725.02" />
+				<pos x="770.999"z="909.003" />
+            </group>
+            <group name="JohnsonResort">
+				<pos x="624.101"z="3934.08" />
+				<pos x="535.721"z="411.076" />
+				<pos x="546.779"z="3295.62" />
+            </group>
+            <group name="Fairview">
+				<pos x="742.87"z="4864.5" />
+				<pos x="951.309"z="553.119" />
+				<pos x="763.874"z="1959.5" />
+            </group>
+            <group name="Minerton">
+				<pos x="804.317"z="2881.46" />
+				<pos x="763.387"z="7855.51" />
+				<pos x="749.64"z="2294.78" />
+            </group>
+            <group name="KenjiCamp">
+				<pos x="680.903"z="3113.39" />
+				<pos x="924.106"z="7620.24" />
+            </group>
+            <group name="W_Minerton">
+				<pos x="591.702"z="6183.47" />
+            </group>
+            <group name="W_HollyPond">
+				<pos x="986.146"z="1334.81" />
+				<pos x="850.38"z="5861.59" />
+            </group>
+            <group name="W_Bedford">
+				<pos x="979.784"z="1099.67" />
+				<pos x="772.86"z="277.054" />
+            </group>
+            <group name="Neightboor_Sawmill">
+				<pos x="1322.89" z="6691.38" />
+				<pos x="1288.06" z="7616.25" />
+				<pos x="1065.45" z="6851.09" />
             </group>
 		</generator_posbubbles>
 	</hop>
@@ -149,48 +199,73 @@
             <max_steepness>45</max_steepness>
         </generator_params>
         <group_params>
-            <enablegroups>false</enablegroups>
+            <enablegroups>true</enablegroups>
             <groups_as_regular>true</groups_as_regular>
-            <lifetime>360</lifetime>
-            <counter>-1</counter>
+            <lifetime>60</lifetime>
+            <counter>1</counter>
         </group_params>
 		<generator_posbubbles>
-            <group name="Spawns">
-				<pos x="1037" z="8583" />
-				<pos x="1258" z="8904" />
-				<pos x="1264" z="9348" />
-				<pos x="752" z="7968" />
-				<pos x="840" z="7724" />
-				<pos x="846" z="7564" />
-				<pos x="1118" z="7070" />
-				<pos x="802" z="7218" />
-				<pos x="1274" z="7700" />
-				<pos x="1214" z="8014" />
-				<pos x="236" z="6496" />
-				<pos x="140" z="5346" />
-				<pos x="888" z="4542" />
-				<pos x="702" z="4118" />
-				<pos x="408" z="3956" />
-				<pos x="486" z="3764" />
-				<pos x="842" z="3836" />
-				<pos x="572" z="3458" />
-				<pos x="760" z="3394" />
-				<pos x="680" z="3226" />
-				<pos x="802" z="2874" />
-				<pos x="1002" z="2684" />
-				<pos x="756" z="2318" />
-				<pos x="762" z="1950" />
-				<pos x="890" z="1444" />
-				<pos x="252" z="1402" />
-				<pos x="72" z="996" />
-				<pos x="304" z="892" />
-				<pos x="872" z="938" />
-				<pos x="538" z="440" />
-				<pos x="1000" z="130" />
-				<pos x="146" z="3870" />
-				<pos x="952" z="540" />
-				<pos x="658" z="4936" />
-				<pos x="776" z="5996" />
+            <group name="Clayton">
+				<pos x="1056.56" z="8568.13" />
+				<pos x="140.089" z="3701.14" />
+				<pos x="594.681" z="4183.67" />
+            </group>
+            <group name="Sawmill">
+				<pos x="1218.86" z="8340.17" />
+				<pos x="185.285" z="4029.21" />
+            </group>
+            <group name="Munford/Edesville">
+				<pos x="691.482" z="4129.59" />
+				<pos x="1256.4" z="8646.77" />
+            </group>
+            <group name="Lynbrook">
+				<pos x="880.369" z="939.503" />
+				<pos x="903.566" z="4370.4" />
+            </group>
+            <group name="Auberry">
+				<pos x="925.408"z="5041.24" />
+				<pos x="947.082"z="432.431" />
+				<pos x="575.498"z="3517.65" />
+            </group>
+            <group name="Bedford">
+				<pos x="292.978"z="891.854" />
+				<pos x="816.471"z="3725.02" />
+				<pos x="770.999"z="909.003" />
+            </group>
+            <group name="JohnsonResort">
+				<pos x="624.101"z="3934.08" />
+				<pos x="535.721"z="411.076" />
+				<pos x="546.779"z="3295.62" />
+            </group>
+            <group name="Fairview">
+				<pos x="742.87"z="4864.5" />
+				<pos x="951.309"z="553.119" />
+				<pos x="763.874"z="1959.5" />
+            </group>
+            <group name="Minerton">
+				<pos x="804.317"z="2881.46" />
+				<pos x="763.387"z="7855.51" />
+				<pos x="749.64"z="2294.78" />
+            </group>
+            <group name="KenjiCamp">
+				<pos x="680.903"z="3113.39" />
+				<pos x="924.106"z="7620.24" />
+            </group>
+            <group name="W_Minerton">
+				<pos x="591.702"z="6183.47" />
+            </group>
+            <group name="W_HollyPond">
+				<pos x="986.146"z="1334.81" />
+				<pos x="850.38"z="5861.59" />
+            </group>
+            <group name="W_Bedford">
+				<pos x="979.784"z="1099.67" />
+				<pos x="772.86"z="277.054" />
+            </group>
+            <group name="Neightboor_Sawmill">
+				<pos x="1322.89" z="6691.38" />
+				<pos x="1288.06" z="7616.25" />
+				<pos x="1065.45" z="6851.09" />
             </group>
 		</generator_posbubbles>
 	</travel>
