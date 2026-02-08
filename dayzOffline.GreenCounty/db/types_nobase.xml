@@ -16345,10 +16345,10 @@
 		<value name="Unique"/>
 	</type>
 	<type name="PlateCarrierHolster">
-		<nominal>10</nominal>
+		<nominal>2</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
@@ -16358,35 +16358,43 @@
 		<usage name="Military"/>
 	</type>
 	<type name="PlateCarrierHolster_Black">
-		<nominal>0</nominal>
-		<lifetime>14400</lifetime>
-		<restock>3600</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	</type>
-	<type name="PlateCarrierHolster_Camo">
-		<nominal>0</nominal>
+		<nominal>2</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="clothes"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
 	</type>
-	<type name="PlateCarrierHolster_Green">
-		<nominal>0</nominal>
+	<type name="PlateCarrierHolster_Camo">
+		<nominal>2</nominal>
 		<lifetime>14400</lifetime>
-		<restock>3600</restock>
-		<min>0</min>
+		<restock>0</restock>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
+	</type>
+	<type name="PlateCarrierHolster_Green">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<tag name="shelves"/>
+		<usage name="Military"/>
 	</type>
 	<type name="PlateCarrierHolster_Winter">
 		<nominal>0</nominal>
@@ -16400,48 +16408,52 @@
 		<usage name="Military"/>
 	</type>
 	<type name="PlateCarrierPouches">
-		<nominal>10</nominal>
+		<nominal>2</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>5</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="clothes"/>
-		<tag name="shelves"/>
 		<usage name="Military"/>
 	</type>
 	<type name="PlateCarrierPouches_Black">
-		<nominal>0</nominal>
-		<lifetime>14400</lifetime>
-		<restock>3600</restock>
-		<min>0</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-	</type>
-	<type name="PlateCarrierPouches_Camo">
-		<nominal>0</nominal>
+		<nominal>2</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="clothes"/>
+		<usage name="Military"/>
 	</type>
-	<type name="PlateCarrierPouches_Green">
-		<nominal>0</nominal>
+	<type name="PlateCarrierPouches_Camo">
+		<nominal>2</nominal>
 		<lifetime>14400</lifetime>
-		<restock>3600</restock>
-		<min>0</min>
+		<restock>0</restock>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Military"/>
+	</type>
+	<type name="PlateCarrierPouches_Green">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Military"/>
 	</type>
 	<type name="PlateCarrierPouches_Winter">
 		<nominal>0</nominal>
@@ -16456,51 +16468,56 @@
 		<usage name="Military"/>
 	</type>
 	<type name="PlateCarrierVest">
-		<nominal>0</nominal>
+		<nominal>2</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="clothes"/>
-		<usage name="Military"/>
+		<usage name="Underground"/>
+		<usage name="ContaminatedArea"/>
 	</type>
 	<type name="PlateCarrierVest_Black">
-		<nominal>1</nominal>
-		<lifetime>14400</lifetime>
-		<restock>3600</restock>
-		<min>1</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="Underground"/>
-		<value name="Tier2"/>
-	</type>
-	<type name="PlateCarrierVest_Camo">
-		<nominal>0</nominal>
+		<nominal>2</nominal>
 		<lifetime>14400</lifetime>
 		<restock>0</restock>
-		<min>0</min>
+		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
 		<category name="clothes"/>
+		<usage name="Underground"/>
+		<usage name="ContaminatedArea"/>
 	</type>
-	<type name="PlateCarrierVest_Green">
-		<nominal>1</nominal>
+	<type name="PlateCarrierVest_Camo">
+		<nominal>2</nominal>
 		<lifetime>14400</lifetime>
-		<restock>3600</restock>
+		<restock>0</restock>
 		<min>1</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
 		<usage name="Underground"/>
-		<value name="Tier2"/>
+		<usage name="ContaminatedArea"/>
+	</type>
+	<type name="PlateCarrierVest_Green">
+		<nominal>2</nominal>
+		<lifetime>14400</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+		<category name="clothes"/>
+		<usage name="Underground"/>
+		<usage name="ContaminatedArea"/>
 	</type>
 	<type name="PlateCarrierVest_Winter">
 		<nominal>0</nominal>
