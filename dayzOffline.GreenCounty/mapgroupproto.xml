@@ -15,6 +15,7 @@
 	<!-- Green County -->
 	<group name="Land_GC_WatchTower" lootmax="11">
 		<usage name="Military" />
+		<category name="weapons" />	
 		<container name="lootFloor" lootmax="7">
 			<point pos="-1.515760 3.705975 -1.792771" range="1" height="1" /> 
 			<point pos="3.694646 7.562346 -1.891170" range="1" height="1" /> 
@@ -25,7 +26,6 @@
 			<point pos="0.197742 11.787374 1.814329" range="1" height="1" /> 
 		</container>
 		<container name="lootShelves" lootmax="4">
-			<tag name="shelves" />
 			<point pos="1.972550 12.724866 1.280280" range="0.5" height="0.5" />
 			<point pos="2.198509 13.124982 0.098280" range="0.25" height="0.25" />
 			<point pos="0.075704 12.585662 -0.126000" range="0.3" height="0.3" />

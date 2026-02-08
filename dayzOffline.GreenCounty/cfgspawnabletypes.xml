@@ -198,7 +198,7 @@
 	</type>
 	<type name="ZmbM_NBC_White">
 		<cargo preset="ContaminatedCargo" />	
-		<cargo chance="0.25">
+		<cargo chance="0.1">
 			<item name="ScientificBriefcaseKeys" />
 		</cargo>
 	</type>
@@ -373,9 +373,6 @@
 	</type>
 	<type name="FilteringBottle">
 		<damage min="0.1" max="0.1" />
-	</type>
-	<type name="ScientificBriefcaseKeys">
-		<damage min="0.0" max="0.0" />
 	</type>
 	<type name="ShippingContainerKeys_Blue">
 		<damage min="0.0" max="0.0" />
