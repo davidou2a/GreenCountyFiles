@@ -32,46 +32,94 @@
 			<point pos="-0.016806 12.580440 -0.050690" range="0.5" height="0.5" /> 
 		</container>
 	</group>
-	<group name="Land_GC_Wreck_Sedan90_Police" lootmax="7">
+	<group name="Land_GC_Wreck_Sedan90_Police" lootmax="12">
 		<usage name="Police" />
-		<container name="lootSeats">
-			<point pos="2.155147 1.047083 0.031109" range="1" height="1" /> 
-			<point pos="-2.138602 0.611772 0.363058" range="0.5" height="0.5" /> 
-			<point pos="-2.122713 0.629423 -0.161243" range="0.5" height="0.5" /> 
-			<point pos="-0.611190 0.677674 0.545762" range="0.5" height="0.5" /> 
-			<point pos="-0.652348 0.672130 -0.530664" range="0.5" height="0.5" /> 
-			<point pos="0.336503 0.632074 0.534255" range="0.3" height="0.3" /> 
-			<point pos="0.328055 0.635494 -0.523463" range="0.5" height="0.5" /> 
+		<container name="lootWeapons">
+			<category name="weapons" />
+			<point pos="2.019660 1.024766 -0.044893" range="1" height="1" /> 
+			<point pos="-0.822101 1.550856 -0.077851" range="1" height="1" /> 
+			<point pos="-2.180804 0.695480 -0.012442" range="0.5" height="0.5" /> 
 		</container>
-		<category name="tools" />
-		<category name="clothes" />
-		<category name="weapons" />	
-	</group>
-	<group name="Land_GC_Wreck_Sedan90_Police_DE" lootmax="7">
-		<usage name="Police" />
 		<container name="lootSeats">
-			<point pos="2.155147 1.047083 0.031109" range="1" height="1" /> 
-			<point pos="-2.138602 0.592237 0.417301" range="0.5" height="0.5" /> 
-			<point pos="-2.122713 0.597330 -0.260383" range="0.5" height="0.5" /> 
-			<point pos="-0.611190 0.610412 0.475418" range="0.5" height="0.5" /> 
-			<point pos="-0.652348 0.604977 -0.411171" range="0.5" height="0.5" /> 
-			<point pos="0.336503 0.587181 0.446897" range="0.3" height="0.3" /> 
-			<point pos="0.328055 0.624430 -0.459833" range="0.5" height="0.5" /> 
+			<tag name="shelves" />
+			<category name="weapons" />
+			<category name="tools" />
+			<point pos="0.362078 0.630112 -0.432899" range="1" height="1" flags="32" /> 
+			<point pos="0.350368 0.659874 0.416333" range="1" height="1" flags="32" /> 
+			<point pos="-0.663445 0.770342 -0.565258" range="1" height="1" flags="32" /> 
+			<point pos="-0.736134 0.878622 0.369090" range="1" height="1" flags="32" /> 
+		</container>	
+		<container name="lootGround">
+			<tag name="ground" />
+			<tag name="floor" />
+			<category name="weapons" />
+			<category name="tools" />
+			<category name="clothes" />
+			<point pos="1.708300 0.964278 1.566588" range="1" height="1" flags="32" /> 
+			<point pos="-1.907993 0.540161 1.497324" range="1" height="1" flags="32" /> 
+			<point pos="-2.112548 0.965588 -1.557820" range="1" height="1" flags="32" /> 
+			<point pos="2.115045 0.527537 -1.455972" range="1" height="1" flags="32" /> 
+			<point pos="3.627844 0.961139 -0.010156" range="1" height="1" flags="32" /> 
 		</container>
-		<category name="tools" />
-		<category name="clothes" />
-		<category name="weapons" />	
 	</group>
-	<group name="Land_GC_Wreck_Sedan90_Ruined_Police_DE" lootmax="7">
+	<group name="Land_GC_Wreck_Sedan90_Police_DE" lootmax="12">
 		<usage name="Police" />
+		<container name="lootWeapons">
+			<category name="weapons" />
+			<point pos="2.019660 1.024766 -0.044893" range="1" height="1" /> 
+			<point pos="-0.822101 1.550856 -0.077851" range="1" height="1" /> 
+			<point pos="-2.180804 0.695480 -0.012442" range="0.5" height="0.5" /> 
+		</container>
 		<container name="lootSeats">
-			<point pos="2.155147 1.047083 0.031109" range="1" height="1" /> 
-			<point pos="-2.138602 0.592237 0.417301" range="1" height="1" /> 
-			<point pos="-2.122713 0.597330 -0.260383" range="1" height="1" /> 
-			<point pos="-0.611190 0.610412 0.475418" range="1" height="1" /> 
-			<point pos="-0.652348 0.604977 -0.411171" range="1" height="1" /> 
-			<point pos="0.336503 0.587181 0.446897" range="1" height="1" /> 
-			<point pos="0.328055 0.624430 -0.459833" range="1" height="1" /> 
+			<tag name="shelves" />
+			<category name="weapons" />
+			<category name="tools" />
+			<point pos="0.362078 0.630112 -0.432899" range="1" height="1" flags="32" /> 
+			<point pos="0.350368 0.659874 0.416333" range="1" height="1" flags="32" /> 
+			<point pos="-0.663445 0.770342 -0.565258" range="1" height="1" flags="32" /> 
+			<point pos="-0.736134 0.878622 0.369090" range="1" height="1" flags="32" /> 
+		</container>	
+		<container name="lootGround">
+			<tag name="ground" />
+			<tag name="floor" />
+			<category name="weapons" />
+			<category name="tools" />
+			<category name="clothes" />
+			<point pos="1.708300 0.964278 1.566588" range="1" height="1" flags="32" /> 
+			<point pos="-1.907993 0.540161 1.497324" range="1" height="1" flags="32" /> 
+			<point pos="-2.112548 0.965588 -1.557820" range="1" height="1" flags="32" /> 
+			<point pos="2.115045 0.527537 -1.455972" range="1" height="1" flags="32" /> 
+			<point pos="3.627844 0.961139 -0.010156" range="1" height="1" flags="32" /> 
+		</container>
+	</group>
+	<group name="Land_GC_Wreck_Sedan90_Ruined_Police_DE" lootmax="12">
+		<usage name="Police" />
+		<container name="lootWeapons">
+			<category name="weapons" />
+			<point pos="2.019660 1.024766 -0.044893" range="1" height="1" /> 
+			<point pos="-0.822101 1.550856 -0.077851" range="1" height="1" /> 
+			<point pos="-2.180804 0.695480 -0.012442" range="0.5" height="0.5" /> 
+		</container>
+		<container name="lootSeats">
+			<tag name="shelves" />
+			<category name="weapons" />
+			<category name="tools" />
+			<point pos="0.362078 0.630112 -0.432899" range="1" height="1" flags="32" /> 
+			<point pos="0.350368 0.659874 0.416333" range="1" height="1" flags="32" /> 
+			<point pos="-0.663445 0.770342 -0.565258" range="1" height="1" flags="32" /> 
+			<point pos="-0.736134 0.878622 0.369090" range="1" height="1" flags="32" /> 
+		</container>	
+		<container name="lootGround">
+			<tag name="ground" />
+			<tag name="floor" />
+			<category name="weapons" />
+			<category name="tools" />
+			<category name="clothes" />
+			<point pos="1.708300 0.964278 1.566588" range="1" height="1" flags="32" /> 
+			<point pos="-1.907993 0.540161 1.497324" range="1" height="1" flags="32" /> 
+			<point pos="-2.112548 0.965588 -1.557820" range="1" height="1" flags="32" /> 
+			<point pos="2.115045 0.527537 -1.455972" range="1" height="1" flags="32" /> 
+			<point pos="3.627844 0.961139 -0.010156" range="1" height="1" flags="32" /> 
 		</container>
 	</group>
 	<group name="Land_GC_Wreck_CrownVictoria_1" lootmax="11">
