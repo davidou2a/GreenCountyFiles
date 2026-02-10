@@ -11791,6 +11791,7 @@
 	</group>
 	<group name="Land_Prison_Main" lootmax="50">
 		<usage name="Prison" />
+		<usage name="Police" />
 		<container name="lootFloor">
 			<category name="tools" />
 			<category name="containers" />
@@ -12004,6 +12005,7 @@
 	</group>
 	<group name="Land_Prison_Side" lootmax="30">
 		<usage name="Prison" />
+		<usage name="Police" />
 		<container name="lootFloor" lootmax="15">
 			<category name="tools" />
 			<category name="containers" />
@@ -12226,6 +12228,7 @@
 	</group>
 	<group name="Land_Prison_Wall_Large" lootmax="8">
 		<usage name="Prison" />
+		<usage name="Police" />
 		<container name="lootFloor">
 			<category name="tools" />
 			<category name="containers" />
