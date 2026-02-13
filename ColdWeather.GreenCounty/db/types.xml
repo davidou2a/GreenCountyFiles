@@ -257,17 +257,18 @@
 	</type>
 	<!-- Items -->
 	<type name="Ammo_GC_Cal50">
-		<nominal>5</nominal>
+		<nominal>10</nominal>
 		<lifetime>7200</lifetime>
 		<restock>3600</restock>
-		<min>3</min>
+		<min>7</min>
 		<quantmin>20</quantmin>
 		<quantmax>60</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
 		<category name="weapons" />
 		<tag name="shelves" />
-		<usage name="ContaminatedArea" />
+		<usage name="Military" />
+		<value name="Tier3" />
 	</type>
 	<type name="Armband_GreenCountyEmblem">
 		<nominal>0</nominal>
@@ -818,14 +819,17 @@
 		<usage name="Caves" />
 	</type>
 	<type name="Mag_GC_M82A1_10Rnd">
-		<nominal>0</nominal>
+		<nominal>7</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
-		<min>0</min>
+		<min>5</min>
 		<quantmin>-1</quantmin>
 		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Underground" />
+		<usage name="ContaminatedArea" />
 	</type>
 	<type name="GC_Letter001">
 		<nominal>5</nominal>
