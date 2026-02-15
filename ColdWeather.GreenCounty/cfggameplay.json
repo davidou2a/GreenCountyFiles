@@ -9,7 +9,7 @@
 	},
     "PlayerData":
 	{
-		"disablePersonalLight": true,
+		"disablePersonalLight": false,
 		"StaminaData":
 		{
 			"sprintStaminaModifierErc": 1.0,

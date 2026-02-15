@@ -11793,6 +11793,7 @@
 		<usage name="Prison" />
 		<usage name="Police" />
 		<container name="lootFloor">
+			<category name="weapons" />
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
@@ -12007,6 +12008,7 @@
 		<usage name="Prison" />
 		<usage name="Police" />
 		<container name="lootFloor" lootmax="15">
+			<category name="weapons" />
 			<category name="tools" />
 			<category name="containers" />
 			<category name="clothes" />
