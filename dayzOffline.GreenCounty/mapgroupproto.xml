@@ -44,10 +44,10 @@
 			<tag name="shelves" />
 			<category name="weapons" />
 			<category name="tools" />
-			<point pos="0.362078 0.630112 -0.432899" range="1" height="1" flags="32" /> 
-			<point pos="0.350368 0.659874 0.416333" range="1" height="1" flags="32" /> 
-			<point pos="-0.663445 0.770342 -0.565258" range="1" height="1" flags="32" /> 
-			<point pos="-0.736134 0.878622 0.369090" range="1" height="1" flags="32" /> 
+			<point pos="0.362078 0.630112 -0.432899" range="1" height="1" /> 
+			<point pos="0.350368 0.659874 0.416333" range="1" height="1" /> 
+			<point pos="-0.663445 0.770342 -0.565258" range="1" height="1" /> 
+			<point pos="-0.736134 0.878622 0.369090" range="1" height="1" /> 
 		</container>	
 		<container name="lootGround">
 			<tag name="ground" />
@@ -74,10 +74,10 @@
 			<tag name="shelves" />
 			<category name="weapons" />
 			<category name="tools" />
-			<point pos="0.362078 0.630112 -0.432899" range="1" height="1" flags="32" /> 
-			<point pos="0.350368 0.659874 0.416333" range="1" height="1" flags="32" /> 
-			<point pos="-0.663445 0.770342 -0.565258" range="1" height="1" flags="32" /> 
-			<point pos="-0.736134 0.878622 0.369090" range="1" height="1" flags="32" /> 
+			<point pos="0.362078 0.630112 -0.432899" range="1" height="1" /> 
+			<point pos="0.350368 0.659874 0.416333" range="1" height="1" /> 
+			<point pos="-0.663445 0.770342 -0.565258" range="1" height="1" /> 
+			<point pos="-0.736134 0.878622 0.369090" range="1" height="1" /> 
 		</container>	
 		<container name="lootGround">
 			<tag name="ground" />
@@ -104,10 +104,10 @@
 			<tag name="shelves" />
 			<category name="weapons" />
 			<category name="tools" />
-			<point pos="0.362078 0.630112 -0.432899" range="1" height="1" flags="32" /> 
-			<point pos="0.350368 0.659874 0.416333" range="1" height="1" flags="32" /> 
-			<point pos="-0.663445 0.770342 -0.565258" range="1" height="1" flags="32" /> 
-			<point pos="-0.736134 0.878622 0.369090" range="1" height="1" flags="32" /> 
+			<point pos="0.362078 0.630112 -0.432899" range="1" height="1" /> 
+			<point pos="0.350368 0.659874 0.416333" range="1" height="1" /> 
+			<point pos="-0.663445 0.770342 -0.565258" range="1" height="1" /> 
+			<point pos="-0.736134 0.878622 0.369090" range="1" height="1" /> 
 		</container>	
 		<container name="lootGround">
 			<tag name="ground" />
@@ -121,6 +121,29 @@
 			<point pos="2.115045 0.527537 -1.455972" range="1" height="1" flags="32" /> 
 			<point pos="3.627844 0.961139 -0.010156" range="1" height="1" flags="32" /> 
 		</container>
+	</group>
+	<group name="Land_GC_Wreck_CrownVictoria_1" lootmax="11">
+		<usage name="Police" />
+		<container name="lootHull">
+			<point pos="1.864647 1.052522 -0.003270" range="1" height="1" /> 
+			<point pos="-0.451328 1.571849 -0.057315" range="1" height="1" /> 
+			<point pos="-2.178096 1.106532 0.130937" range="1" height="1" /> 
+		</container>
+		<container name="lootSeats">
+			<point pos="-0.601800 0.571137 0.500942" range="0.4" height="0.5" /> 
+			<point pos="0.404405 0.520024 -0.454782" range="0.4" height="0.5" /> 
+			<point pos="0.339014 0.530327 0.451412" range="0.3" height="0.5" /> 
+			<point pos="-0.628327 0.640913 -0.527869" range="0.4" height="0.5" /> 
+		</container>
+		<container name="lootGround">
+			<point pos="0.534690 0.526570 2.160030" range="1" height="1" flags="32" /> 
+			<point pos="0.638388 0.399232 -2.155540" range="1" height="1" flags="32" /> 
+			<point pos="-4.061907 0.091893 -0.185248" range="1" height="1" flags="32" /> 
+			<point pos="4.029839 0.038891 -0.290737" range="1" height="1" flags="32" /> 
+		</container>
+		<category name="tools" />
+		<category name="clothes" />
+		<category name="weapons" />
 	</group>
 	<group name="Land_GC_Wreck_CrownVictoria_1" lootmax="11">
 		<usage name="Police" />
