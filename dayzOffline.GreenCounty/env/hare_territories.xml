@@ -130,5 +130,6 @@
         <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5360" z="905" r="50"/>
         <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="5770" z="1890" r="50"/>
         <zone name="Zone_hare" smin="0" smax="0" dmin="0" dmax="2" x="3820" z="2970" r="50"/>
+        <zone name="Zone_hare" smin="5" smax="5" dmin="5" dmax="10" x="1414.74" z="3333.1" r="30"/>
     </territory>
 </territory-type>
