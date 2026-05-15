@@ -884,6 +884,26 @@
                     "Radius": -1.0
                 }
             ]
+        },
+        {
+            "Position": [
+                609.8955688476563,
+                199.4657745361328,
+                10044.509765625
+            ],
+            "Orientation": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "Size": [
+                60.0,
+                50.0,
+                50.0
+            ],
+            "EyeAccommodation": 0.0,
+            "InterpolationSpeed": 7.0,
+            "Breadcrumbs": []
         }
     ]
 }

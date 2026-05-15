@@ -183,6 +183,106 @@
 				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
 				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
 			}
+		},
+		{	"AreaName": "DevilsSoup01", 
+			"Type": "HotSpringArea", 
+			"TriggerType": "HotSpringTrigger",
+			"Data": { 
+				"Pos": [723, 0, 10019],
+				"Radius": 8,
+				"PosHeight": 5,
+				"NegHeight": 5
+			}
+		},
+		{	"AreaName": "DevilsSoup02", 
+			"Type": "HotSpringArea", 
+			"TriggerType": "HotSpringTrigger",
+			"Data": { 
+				"Pos": [706, 0, 10024],
+				"Radius": 8,
+				"PosHeight": 5,
+				"NegHeight": 5
+			}
+		},
+		{	"AreaName": "DevilsSoup03", 
+			"Type": "HotSpringArea", 
+			"TriggerType": "HotSpringTrigger",
+			"Data": { 
+				"Pos": [691, 0, 10021],
+				"Radius": 8,
+				"PosHeight": 5,
+				"NegHeight": 5
+			}
+		},
+		{	"AreaName": "DevilsSoup04", 
+			"Type": "HotSpringArea", 
+			"TriggerType": "HotSpringTrigger",
+			"Data": { 
+				"Pos": [673, 0, 10027],
+				"Radius": 8,
+				"PosHeight": 5,
+				"NegHeight": 5
+			}
+		},
+		{	"AreaName": "DevilsSoup05", 
+			"Type": "HotSpringArea", 
+			"TriggerType": "HotSpringTrigger",
+			"Data": { 
+				"Pos": [670, 0, 10047],
+				"Radius": 8,
+				"PosHeight": 5,
+				"NegHeight": 5
+			}
+		},
+		{	"AreaName": "DevilsSoup06", 
+			"Type": "HotSpringArea", 
+			"TriggerType": "HotSpringTrigger",
+			"Data": { 
+				"Pos": [686, 0, 10054],
+				"Radius": 8,
+				"PosHeight": 5,
+				"NegHeight": 5
+			}
+		},
+		{	"AreaName": "DevilsSoup07", 
+			"Type": "HotSpringArea", 
+			"TriggerType": "HotSpringTrigger",
+			"Data": { 
+				"Pos": [709, 0, 10046],
+				"Radius": 8,
+				"PosHeight": 5,
+				"NegHeight": 5
+			}
+		},
+		{	"AreaName": "DevilsSoup08", 
+			"Type": "HotSpringArea", 
+			"TriggerType": "HotSpringTrigger",
+			"Data": { 
+				"Pos": [725, 0, 10052],
+				"Radius": 8,
+				"PosHeight": 5,
+				"NegHeight": 5
+			}
+		},
+		{	"AreaName": "DevilsSoup09", 
+			"Type": "HotSpringArea", 
+			"TriggerType": "HotSpringTrigger",
+			"Data": { 
+				"Pos": [544, 0, 10017],
+				"Radius": 8,
+				"PosHeight": 5,
+				"NegHeight": 5
+			}
+		},
+		{	"AreaName": "DevilsSoup10", 
+			"Type": "HotSpringArea", 
+			"TriggerType": "HotSpringTrigger",
+			"Data": { 
+				"Pos": [552, 0, 10043],
+				"Radius": 8,
+				"PosHeight": 5,
+				"NegHeight": 5
+			}
 		}
 	],
 
