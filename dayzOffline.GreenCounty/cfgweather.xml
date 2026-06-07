@@ -2,7 +2,7 @@
 <!-- 'reset' and 'enable' are a bool, and therefore supports: 0/1, true/false, yes/no -->
 <!-- 'reset' controls whether you want to load in the weather from storage or not (false by default) -->
 <!-- 'enable' controls whether this file is enabled or not (true by default) -->
-<weather reset="0" enable="1">
+<weather reset="0" enable="0">
     <overcast>
         <current actual="0.15" time="1800" duration="2700" />
         <limits min="0.0" max="0.7" />
