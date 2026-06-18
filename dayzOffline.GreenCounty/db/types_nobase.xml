@@ -1030,6 +1030,19 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 	</type>
+	<type name="Mag_GC_M82A1_10Rnd">
+		<nominal>7</nominal>
+		<lifetime>28800</lifetime>
+		<restock>3600</restock>
+		<min>5</min>
+		<quantmin>20</quantmin>
+		<quantmax>70</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Underground" />
+		<usage name="ContaminatedArea" />
+	</type>
 	<type name="Mag_GC_Vector_45Rnd">
 		<nominal>15</nominal>
 		<lifetime>28800</lifetime>
@@ -1045,18 +1058,20 @@
 		<value name="Tier2" />
 		<value name="Tier3" />
 	</type>
-	<type name="Mag_GC_M82A1_10Rnd">
-		<nominal>7</nominal>
+	<type name="Mag_GC_Vector_75Rnd">
+		<nominal>12</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
-		<min>5</min>
-		<quantmin>20</quantmin>
-		<quantmax>70</quantmax>
+		<min>8</min>
+		<quantmin>30</quantmin>
+		<quantmax>80</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
 		<usage name="Underground" />
-		<usage name="ContaminatedArea" />
+		<usage name="Special" />
+		<value name="ContaminatedArea" />
+		<value name="Tier3" />
 	</type>
 	<!-- /GreenCounty -->
 	<type name="ACOGOptic">
