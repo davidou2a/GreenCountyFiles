@@ -32,36 +32,6 @@
 			<point pos="-0.016806 12.580440 -0.050690" range="0.5" height="0.5" /> 
 		</container>
 	</group>
-	<group name="Land_GC_Wreck_Sedan90_Police" lootmax="12">
-		<usage name="Police" />
-		<container name="lootWeapons">
-			<category name="weapons" />
-			<point pos="2.019660 1.024766 -0.044893" range="1" height="1" /> 
-			<point pos="-0.822101 1.550856 -0.077851" range="1" height="1" /> 
-			<point pos="-2.180804 0.695480 -0.012442" range="0.5" height="0.5" /> 
-		</container>
-		<container name="lootSeats">
-			<tag name="shelves" />
-			<category name="weapons" />
-			<category name="tools" />
-			<point pos="0.362078 0.630112 -0.432899" range="1" height="1" /> 
-			<point pos="0.350368 0.659874 0.416333" range="1" height="1" /> 
-			<point pos="-0.663445 0.770342 -0.565258" range="1" height="1" /> 
-			<point pos="-0.736134 0.878622 0.369090" range="1" height="1" /> 
-		</container>	
-		<container name="lootGround">
-			<tag name="ground" />
-			<tag name="floor" />
-			<category name="weapons" />
-			<category name="tools" />
-			<category name="clothes" />
-			<point pos="1.708300 0.964278 1.566588" range="1" height="1" flags="32" /> 
-			<point pos="-1.907993 0.540161 1.497324" range="1" height="1" flags="32" /> 
-			<point pos="-2.112548 0.965588 -1.557820" range="1" height="1" flags="32" /> 
-			<point pos="2.115045 0.527537 -1.455972" range="1" height="1" flags="32" /> 
-			<point pos="3.627844 0.961139 -0.010156" range="1" height="1" flags="32" /> 
-		</container>
-	</group>
 	<group name="Land_GC_Wreck_Sedan90_Police_DE" lootmax="12">
 		<usage name="Police" />
 		<container name="lootWeapons">
@@ -283,37 +253,6 @@
 		<category name="clothes" />
 		<category name="weapons" />
 	</group>
-	<group name="Land_GC_Wreck_Ambulance_Medic" lootmax="10">
-		<usage name="Medic" />
-		<container name="lootGround">
-			<category name="clothes" />
-			<category name="tools" />
-			<category name="containers" />
-			<point pos="3.859217 -0.205605 1.051685" range="1" height="1" flags="32" />
-			<point pos="2.552470 -0.405149 -1.935412" range="1" height="1" flags="32" />
-			<point pos="0.910585 -0.150657 -2.672188" range="1" height="1" flags="32" />
-			<point pos="1.851070 -0.068578 1.797250" range="1" height="1" flags="32" />
-			<point pos="0.121367 -0.509038 1.931878" range="1" height="1" flags="32" />
-		</container>
-		<container name="lootBox">
-			<category name="tools" />
-			<point pos="1.911670 0.157973 -0.825424" range="0.35" height="0.4" />
-			<point pos="1.261780 0.151618 -0.810424" range="0.35" height="0.4" />
-			<point pos="0.695280 0.487617 -0.772924" range="0.35" height="0.4" />
-			<point pos="0.051394 0.473593 -0.787924" range="0.35" height="0.4" />
-			<point pos="-0.517138 0.449935 -0.089845" range="0.35" height="0.4" />
-			<point pos="1.263555 -0.051763 0.022791" range="0.35" height="0.4" />
-			<point pos="1.285219 0.155840 0.816859" range="0.35" height="0.4" />
-			<point pos="1.808500 0.163856 0.781859" range="0.35" height="0.4" />
-		</container>
-		<container name="lootHull">
-			<category name="clothes" />
-			<category name="tools" />
-			<category name="containers" />
-			<point pos="-1.490630 -0.004524 0.616009" range="0.2" height="0.3" />
-			<point pos="-1.466401 -0.040918 -0.556267" range="0.2" height="0.3" />
-		</container>
-	</group>
 	<group name="Land_GC_Wreck_Ambulance_Medic_DE" lootmax="10">
 		<usage name="Medic" />
 		<container name="lootGround">
@@ -341,38 +280,6 @@
 			<category name="clothes" />
 			<category name="tools" />
 			<category name="containers" />
-			<point pos="-1.490630 -0.004524 0.616009" range="0.2" height="0.3" />
-			<point pos="-1.466401 -0.040918 -0.556267" range="0.2" height="0.3" />
-		</container>
-	</group>
-	<group name="Land_GC_Wreck_Ambulance_Fire" lootmax="10">
-		<usage name="Firefighter" />
-		<container name="lootGround">
-			<category name="clothes" />
-			<category name="tools" />
-			<category name="weapons" />
-			<point pos="3.859217 -0.205605 1.051685" range="1" height="1" flags="32" />
-			<point pos="2.552470 -0.405149 -1.935412" range="1" height="1" flags="32" />
-			<point pos="0.910585 -0.150657 -2.672188" range="1" height="1" flags="32" />
-			<point pos="1.851070 -0.068578 1.797250" range="1" height="1" flags="32" />
-			<point pos="0.121367 -0.509038 1.931878" range="1" height="1" flags="32" />
-		</container>
-		<container name="lootBox">
-			<category name="clothes" />
-			<category name="tools" />
-			<category name="weapons" />
-			<point pos="1.911670 0.157973 -0.825424" range="0.35" height="0.4" />
-			<point pos="1.261780 0.151618 -0.810424" range="0.35" height="0.4" />
-			<point pos="0.695280 0.487617 -0.772924" range="0.35" height="0.4" />
-			<point pos="0.051394 0.473593 -0.787924" range="0.35" height="0.4" />
-			<point pos="-0.517138 0.449935 -0.089845" range="0.35" height="0.4" />
-			<point pos="1.263555 -0.051763 0.022791" range="0.35" height="0.4" />
-			<point pos="1.285219 0.155840 0.816859" range="0.35" height="0.4" />
-			<point pos="1.808500 0.163856 0.781859" range="0.35" height="0.4" />
-		</container>
-		<container name="lootHull">
-			<category name="clothes" />
-			<category name="tools" />
 			<point pos="-1.490630 -0.004524 0.616009" range="0.2" height="0.3" />
 			<point pos="-1.466401 -0.040918 -0.556267" range="0.2" height="0.3" />
 		</container>
@@ -407,6 +314,13 @@
 			<category name="tools" />
 			<point pos="-1.490630 -0.004524 0.616009" range="0.2" height="0.3" />
 			<point pos="-1.466401 -0.040918 -0.556267" range="0.2" height="0.3" />
+		</container>
+	</group>
+	<group name="Land_GC_Wreck_CH47_DE" lootmax="1">
+		<usage name="Chinook" />
+		<container name="lootFloor" lootmax="1">
+			<category name="milcrate" />
+			<point pos="10.401690 -3.828676 0.970382" range="5" height="5" />
 		</container>
 	</group>
 	<group name="Land_GC_Wreck_M1A1_Turret" lootmax="5">
@@ -481,25 +395,6 @@
 			<point pos="-5.142971 0.027255 0.900966" range="1" height="1" flags="32" /> 
 		</container>
 	</group>
-	<group name="Land_GC_Wreck_Trailer_Wine" lootmax="3">
-		<usage name="Hunting" />
-		<usage name="Village" />
-		<container name="lootTable" lootmax="1">
-			<category name="clothes" />
-			<category name="tools" />
-			<category name="food" />
-			<category name="containers" />
-			<point pos="0.114519 -0.189985 -1.800396" range="1" height="1" />
-		</container>
-		<container name="lootChairs" lootmax="2">
-			<category name="clothes" />
-			<category name="tools" />
-			<category name="food" />
-			<category name="containers" />
-			<point pos="1.122079 -0.524429 -0.634982" range="0.3" height="0.4" />
-			<point pos="-0.791734 -0.497987 -0.661419" range="0.3" height="0.4" />
-		</container>
-	</group>
 	<group name="Land_GC_Wreck_Trailer_Wine_DE" lootmax="3">
 		<usage name="Hunting" />
 		<usage name="Village" />
@@ -519,47 +414,9 @@
 			<point pos="-0.791734 -0.497987 -0.661419" range="0.3" height="0.4" />
 		</container>
 	</group>
-	<group name="Land_GC_Wreck_Trailer_Green" lootmax="3">
-		<usage name="Hunting" />
-		<usage name="Farm" />
-		<container name="lootTable" lootmax="1">
-			<category name="clothes" />
-			<category name="tools" />
-			<category name="food" />
-			<category name="containers" />
-			<point pos="0.114519 -0.189985 -1.800396" range="1" height="1" />
-		</container>
-		<container name="lootChairs" lootmax="2">
-			<category name="clothes" />
-			<category name="tools" />
-			<category name="food" />
-			<category name="containers" />
-			<point pos="1.122079 -0.524429 -0.634982" range="0.3" height="0.4" />
-			<point pos="-0.791734 -0.497987 -0.661419" range="0.3" height="0.4" />
-		</container>
-	</group>
 	<group name="Land_GC_Wreck_Trailer_Green_DE" lootmax="3">
 		<usage name="Hunting" />
 		<usage name="Farm" />
-		<container name="lootTable" lootmax="1">
-			<category name="clothes" />
-			<category name="tools" />
-			<category name="food" />
-			<category name="containers" />
-			<point pos="0.114519 -0.189985 -1.800396" range="1" height="1" />
-		</container>
-		<container name="lootChairs" lootmax="2">
-			<category name="clothes" />
-			<category name="tools" />
-			<category name="food" />
-			<category name="containers" />
-			<point pos="1.122079 -0.524429 -0.634982" range="0.3" height="0.4" />
-			<point pos="-0.791734 -0.497987 -0.661419" range="0.3" height="0.4" />
-		</container>
-	</group>
-	<group name="Land_GC_Wreck_Trailer_Blue" lootmax="3">
-		<usage name="Hunting" />
-		<usage name="Town" />
 		<container name="lootTable" lootmax="1">
 			<category name="clothes" />
 			<category name="tools" />

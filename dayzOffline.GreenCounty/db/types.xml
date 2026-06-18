@@ -202,6 +202,16 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 	</type>
+	<type name="Land_GC_Wreck_CH47_DE">
+		<nominal>0</nominal>
+		<lifetime>3</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
 	<!-- /!\ National Guard Lore - Do not spawn manually or add multiple instances of both items below /!\ -->
 	<type name="Land_GC_Arsenal_Locker">
 		<nominal>0</nominal>
@@ -512,18 +522,101 @@
 		<tag name="shelves" />
 		<usage name="Electronic" />
 	</type>
-	<type name="GC_OFC_Bucket">
-		<nominal>8</nominal>
-		<lifetime>28800</lifetime>
+	<type name="GC_Letter001">
+		<nominal>5</nominal>
+		<lifetime>1800</lifetime>
 		<restock>0</restock>
-		<min>4</min>
-		<quantmin>50</quantmin>
-		<quantmax>100</quantmax>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="food" />
+		<category name="tools" />
 		<tag name="shelves" />
+		<usage name="Village" />
 		<usage name="Town" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="GC_Letter002">
+		<nominal>5</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="shelves" />
+		<usage name="Village" />
+		<usage name="Town" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="GC_Letter003">
+		<nominal>5</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="shelves" />
+		<usage name="Village" />
+		<usage name="Town" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="GC_Letter004">
+		<nominal>5</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="shelves" />
+		<usage name="Village" />
+		<usage name="Town" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="GC_Letter005">
+		<nominal>5</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="shelves" />
+		<usage name="Village" />
+		<usage name="Town" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
+	<type name="GC_Letter006">
+		<nominal>5</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="tools" />
+		<tag name="shelves" />
+		<usage name="Village" />
+		<usage name="Town" />
+		<value name="Tier2" />
+		<value name="Tier3" />
 	</type>
 	<type name="GC_M1A">
 		<nominal>0</nominal>
@@ -568,6 +661,28 @@
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 	</type>
+	<type name="GC_MilitaryCrate">
+		<nominal>1</nominal>
+		<lifetime>3600</lifetime>
+		<restock>0</restock>
+		<min>1</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
+		<usage name="Chinook" />
+		<category name="milcrate" />
+	</type>
+	<type name="GC_MilitaryCrateKeys">
+		<nominal>0</nominal>
+		<lifetime>1800</lifetime>
+		<restock>0</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
 	<type name="GC_Motherboard">
 		<nominal>0</nominal>
 		<lifetime>14400</lifetime>
@@ -579,113 +694,18 @@
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1" />
 		<category name="tools" />
 	</type>
-	<type name="GC_TShirt_GreenCountyEmblem">
-		<nominal>5</nominal>
-		<lifetime>900</lifetime>
+	<type name="GC_OFC_Bucket">
+		<nominal>8</nominal>
+		<lifetime>28800</lifetime>
 		<restock>0</restock>
-		<min>3</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<min>4</min>
+		<quantmin>50</quantmin>
+		<quantmax>100</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="clothes" />
-		<usage name="Village" />
-	</type>
-	<type name="GC_TShirt_GreenCountyLogo">
-		<nominal>5</nominal>
-		<lifetime>900</lifetime>
-		<restock>0</restock>
-		<min>3</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="clothes" />
-		<usage name="Village" />
-	</type>
-	<type name="GC_TShirt_OhioState">
-		<nominal>5</nominal>
-		<lifetime>900</lifetime>
-		<restock>0</restock>
-		<min>3</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="clothes" />
-		<usage name="Village" />
-	</type>
-	<type name="GC_TShirt_LeaftownWildcats">
-		<nominal>5</nominal>
-		<lifetime>900</lifetime>
-		<restock>0</restock>
-		<min>3</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="clothes" />
-		<usage name="Village" />
-	</type>
-	<type name="GC_TShirt_StarSpangledBanner">
-		<nominal>5</nominal>
-		<lifetime>900</lifetime>
-		<restock>0</restock>
-		<min>3</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="clothes" />
-		<usage name="Village" />
-	</type>
-	<type name="GC_TShirt_BFL_Red">
-		<nominal>5</nominal>
-		<lifetime>900</lifetime>
-		<restock>0</restock>
-		<min>3</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="clothes" />
-		<usage name="Village" />
-	</type>
-	<type name="GC_TShirt_BFL_Green">
-		<nominal>5</nominal>
-		<lifetime>900</lifetime>
-		<restock>0</restock>
-		<min>3</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="clothes" />
-		<usage name="Village" />
-	</type>
-	<type name="GC_TShirt_BFL_white">
-		<nominal>5</nominal>
-		<lifetime>900</lifetime>
-		<restock>0</restock>
-		<min>3</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="clothes" />
-		<usage name="Village" />
-	</type>
-	<type name="GC_TShirt_LeaftownWildcats">
-		<nominal>5</nominal>
-		<lifetime>900</lifetime>
-		<restock>0</restock>
-		<min>3</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="clothes" />
-		<usage name="Village" />
+		<category name="food" />
+		<tag name="shelves" />
+		<usage name="Town" />
 	</type>
 	<type name="GC_RidersJacket_ChuckNorris">
 		<nominal>10</nominal>
@@ -842,114 +862,201 @@
 		<value name="Tier2" />
 		<value name="Tier3" />
 	</type>
+	<type name="GC_TShirt_GreenCountyEmblem">
+		<nominal>5</nominal>
+		<lifetime>900</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+	</type>
+	<type name="GC_TShirt_GreenCountyLogo">
+		<nominal>5</nominal>
+		<lifetime>900</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+	</type>
+	<type name="GC_TShirt_OhioState">
+		<nominal>5</nominal>
+		<lifetime>900</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+	</type>
+	<type name="GC_TShirt_LeaftownWildcats">
+		<nominal>5</nominal>
+		<lifetime>900</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+	</type>
+	<type name="GC_TShirt_StarSpangledBanner">
+		<nominal>5</nominal>
+		<lifetime>900</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+	</type>
+	<type name="GC_TShirt_BFL_Red">
+		<nominal>5</nominal>
+		<lifetime>900</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+	</type>
+	<type name="GC_TShirt_BFL_Green">
+		<nominal>5</nominal>
+		<lifetime>900</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+	</type>
+	<type name="GC_TShirt_BFL_white">
+		<nominal>5</nominal>
+		<lifetime>900</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+	</type>
+	<type name="GC_TShirt_LeaftownWildcats">
+		<nominal>5</nominal>
+		<lifetime>900</lifetime>
+		<restock>0</restock>
+		<min>3</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="clothes" />
+		<usage name="Village" />
+	</type>
+	<type name="GC_Vector_CRB">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="GC_Vector_CRB_Olive">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="GC_Vector_CRB_Tan">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="GC_Vector_SBR">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="GC_Vector_SBR_Olive">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="GC_Vector_SBR_Tan">
+		<nominal>0</nominal>
+		<lifetime>28800</lifetime>
+		<restock>3600</restock>
+		<min>0</min>
+		<quantmin>-1</quantmin>
+		<quantmax>-1</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+	</type>
+	<type name="Mag_GC_Vector_45Rnd">
+		<nominal>15</nominal>
+		<lifetime>28800</lifetime>
+		<restock>3600</restock>
+		<min>10</min>
+		<quantmin>30</quantmin>
+		<quantmax>80</quantmax>
+		<cost>100</cost>
+		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+		<category name="weapons" />
+		<usage name="Military" />
+		<usage name="Special" />
+		<value name="Tier2" />
+		<value name="Tier3" />
+	</type>
 	<type name="Mag_GC_M82A1_10Rnd">
 		<nominal>7</nominal>
 		<lifetime>28800</lifetime>
 		<restock>3600</restock>
 		<min>5</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
+		<quantmin>20</quantmin>
+		<quantmax>70</quantmax>
 		<cost>100</cost>
 		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
 		<category name="weapons" />
 		<usage name="Underground" />
 		<usage name="ContaminatedArea" />
-	</type>
-	<type name="GC_Letter001">
-		<nominal>5</nominal>
-		<lifetime>1800</lifetime>
-		<restock>0</restock>
-		<min>3</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="tools" />
-		<tag name="shelves" />
-		<usage name="Village" />
-		<usage name="Town" />
-		<value name="Tier2" />
-		<value name="Tier3" />
-	</type>
-	<type name="GC_Letter002">
-		<nominal>5</nominal>
-		<lifetime>1800</lifetime>
-		<restock>0</restock>
-		<min>3</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="tools" />
-		<tag name="shelves" />
-		<usage name="Village" />
-		<usage name="Town" />
-		<value name="Tier2" />
-		<value name="Tier3" />
-	</type>
-	<type name="GC_Letter003">
-		<nominal>5</nominal>
-		<lifetime>1800</lifetime>
-		<restock>0</restock>
-		<min>3</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="tools" />
-		<tag name="shelves" />
-		<usage name="Village" />
-		<usage name="Town" />
-		<value name="Tier2" />
-		<value name="Tier3" />
-	</type>
-	<type name="GC_Letter004">
-		<nominal>5</nominal>
-		<lifetime>1800</lifetime>
-		<restock>0</restock>
-		<min>3</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="tools" />
-		<tag name="shelves" />
-		<usage name="Village" />
-		<usage name="Town" />
-		<value name="Tier2" />
-		<value name="Tier3" />
-	</type>
-	<type name="GC_Letter005">
-		<nominal>5</nominal>
-		<lifetime>1800</lifetime>
-		<restock>0</restock>
-		<min>3</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="tools" />
-		<tag name="shelves" />
-		<usage name="Village" />
-		<usage name="Town" />
-		<value name="Tier2" />
-		<value name="Tier3" />
-	</type>
-	<type name="GC_Letter006">
-		<nominal>5</nominal>
-		<lifetime>1800</lifetime>
-		<restock>0</restock>
-		<min>3</min>
-		<quantmin>-1</quantmin>
-		<quantmax>-1</quantmax>
-		<cost>100</cost>
-		<flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
-		<category name="tools" />
-		<tag name="shelves" />
-		<usage name="Village" />
-		<usage name="Town" />
-		<value name="Tier2" />
-		<value name="Tier3" />
 	</type>
 	<!-- /GreenCounty -->
 	<type name="ACOGOptic">
