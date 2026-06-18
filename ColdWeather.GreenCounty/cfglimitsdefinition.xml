@@ -9,6 +9,7 @@
         <category name="weapons"/>
         <category name="books"/>
         <category name="explosives"/>
+        <category name="milcrate"/>
     </categories>
     <tags>
         <tag name="floor"/>
@@ -36,6 +37,7 @@
         <usage name="Underground"/>
         <usage name="Electronic"/>
         <usage name="Caves"/>
+        <usage name="Chinook"/>
     </usageflags>
     <valueflags>
         <value name="Tier1"/>
