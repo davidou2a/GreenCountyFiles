@@ -17,8 +17,8 @@
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="-30.0195" z="-5.85742" a="12.1687" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="-31.3281" z="-6.4873" a="-18.5758" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="-30.1582" z="-4.53662" a="-83.5614" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="-34.0264" z="-4.4751" a="70.0835" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="2.96289" z="0.14209" a="277.9694" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="-34.0264" z="-4.4751" a="70.0835" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="2.96289" z="0.14209" a="277.9694" />
 		<child type="Land_GC_Cardboard2_DE" spawnsecondary="false" x="-32.5" z="-3.69385" a="-13.7681" />
 		<child type="Land_GC_Cardboard2_DE" spawnsecondary="false" x="-31.7422" z="-3.67285" a="-13.7671" />
 		<child type="Land_wreck_offroad02_aban2_DE" deloot="1" lootmax="4" lootmin="3" x="-28.2715" z="4.48193" a="248.981" />
@@ -38,8 +38,8 @@
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="-8.04639" z="-22.4199" a="319.922" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="-8.34961" z="-23.8428" a="289.1708" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="-8.47363" z="-21.001" a="224.171" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="-11.6553" z="-24.7456" a="17.8221" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="-0.997559" z="13.5161" a="220.268" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="-11.6553" z="-24.7456" a="17.8221" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="-0.997559" z="13.5161" a="220.268" />
 		<child type="Land_GC_Cardboard2_DE" spawnsecondary="false" x="-10.7998" z="-22.459" a="293.9801" />
 		<child type="Land_GC_Cardboard2_DE" spawnsecondary="false" x="-11.2485" z="-23.0688" a="2392.9802" />
 		<child type="Land_wreck_offroad02_aban2_DE" deloot="1" lootmax="4" lootmin="3" x="-16.3481" z="-14.7085" a="175.966" />
@@ -59,8 +59,8 @@
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="-21.6694" z="-3.5957" a="292,5456" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="-21.9009" z="-4.90259" a="28.2978" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="-23.3457" z="-4.2146" a="357,40073" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="8.35547" z="10.5405" a="257,126" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="-25.5" z="-2.37036" a="86.1969" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="8.35547" z="10.5405" a="257,126" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="-25.5" z="-2.37036" a="86.1969" />
 		<child type="Land_GC_Cardboard2_DE" spawnsecondary="false" x="-22.9517" z="-2.35767" a="2.35595" />
 		<child type="Land_GC_Cardboard2_DE" spawnsecondary="false" x="-23.6831" z="-2.16528" a="2.35589" />
 		<child type="Land_wreck_offroad02_aban2_DE" deloot="1" lootmax="4" lootmin="3" x="-20.751" z="5.75464" a="234,576" />
@@ -74,9 +74,9 @@
 		<child type="Land_GC_Wreck_M923_DE" deloot="1" lootmax="3" lootmin="1" x="-16.0938" z="-3.11157" a="207.184" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="3" lootmin="1" x="-13.8633" z="-23.6798" a="302.9455" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="3" lootmin="1" x="-14.6265" z="-23.1473" a="302.8" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="-17.2363" z="-23.7612" a="31.5972" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="-17.2363" z="-23.7612" a="31.5972" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="3" lootmin="1" x="-15.4771" z="-22.6846" a="301.3427" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="-3.66309" z="14.2003" a="211.617" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="-3.66309" z="14.2003" a="211.617" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="3" lootmin="1" x="-13.2285" z="-22.368" a="333.6976" />
 		<child type="Land_Container_1Mo_DE" deloot="1" lootmax="3" lootmin="1" x="-5.46289" z="-9.49194" a="29.7572" />
 		<child type="Misc_TirePile_Burning_DE" spawnsecondary="false" x="-6.44629" z="11.781" a="297.2706" />
@@ -104,8 +104,8 @@
 		<child type="Land_GC_Cardboard2_DE" spawnsecondary="false" x="-14.3203" z="-2.8457" a="348.4978" />
 		<child type="Land_GC_Wreck_M923_DE" deloot="1" lootmax="7" lootmin="5" x="-1.54932" z="12.0769" a="250.476" />
 		<child type="Land_GC_Cardboard2_DE" spawnsecondary="false" x="-15.0742" z="-2.83423" a="348.4979" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="-16.4424" z="-3.52832" a="72.3381" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="20.0" z="17.7302" a="254.909" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="-16.4424" z="-3.52832" a="72.3381" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="20.0" z="17.7302" a="254.909" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="-12.6909" z="-5.06494" a="14.4415" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="-12.7783" z="-3.74048" a="278.6848" />
 		<child type="StaticObj_Roadblock_CncBlock_DE" spawnsecondary="false" x="-13.9175" z="-6.84082" a="70.7112" />
@@ -115,8 +115,8 @@
 		<child type="Land_Container_1Mo_DE" deloot="1" lootmax="3" lootmin="1" x="0" z="0" a="16.3564" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="3" lootmin="1" x="-4.17041" z="-11.4277" a="221.991" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="3" lootmin="1" x="-3.26416" z="-13.5173" a="286.9954" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="-3.19824" z="26.0605" a="201.356" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="-6.31934" z="-14.4821" a="15.6456" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="-3.19824" z="26.0605" a="201.356" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="-6.31934" z="-14.4821" a="15.6456" />
 		<child type="StaticObj_Roadblock_CncBlocks_Long_DE" spawnsecondary="false" x="-5.02393" z="-14.2341" a="285.2888" />
 		<child type="StaticObj_Roadblock_CncBlocks_Long_DE" spawnsecondary="false" x="-4.50049" z="25.9564" a="110.999" />
 		<child type="StaticObj_Roadblock_CncBlock_DE" spawnsecondary="false" x="-2.20508" z="-14.0828" a="14.0185" />
@@ -138,8 +138,8 @@
 		<child type="StaticObj_Roadblock_CncBlocks_Long_DE" spawnsecondary="false" x="-17.6072" z="-18.4687" a="340.9202" />
 		<child type="StaticObj_Roadblock_CncBlock_DE" spawnsecondary="false" x="-15.9321" z="-20.6951" a="69.6501" />
 		<child type="StaticObj_Roadblock_CncBlock_DE" spawnsecondary="false" x="17.3491" z="6.84204" a="250.24" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="-18.5083" z="-17.4128" a="71.2773" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="20.2239" z="3.71548" a="251.867" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="-18.5083" z="-17.4128" a="71.2773" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="20.2239" z="3.71548" a="251.867" />
 		<child type="Land_GC_Wreck_M923_DE" deloot="1" lootmax="7" lootmin="5" x="-7.14209" z="-15.0838" a="91.8121" />
 		<child type="Land_GC_Wreck_M923_DE" deloot="1" lootmax="7" lootmin="5" x="2.36304" z="-11.8624" a="70.0047" />
 		<child type="Misc_TirePile_Burning_DE" spawnsecondary="false" x="-14.9609" z="-17.3982" a="156.93" />
@@ -156,8 +156,8 @@
 	<group name="NGCheckpoint_N_Arsenal">
 		<child type="Land_Container_1Mo_DE" deloot="1" lootmax="3" lootmin="2" x="0" z="0" a="230,863" />
 		<child type="Land_GC_Wreck_M923_DE" deloot="1" lootmax="7" lootmin="5" x="13.7607" z="-1.87891" a="74.0855" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="21.2222" z="16.2959" a="235,1" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="-4.07178" z="-13.1396" a="57.5927" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="21.2222" z="16.2959" a="235,1" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="-4.07178" z="-13.1396" a="57.5927" />
 		<child type="StaticObj_Roadblock_CncBlock_DE" spawnsecondary="false" x="17.8296" z="18.3418" a="233,474" />
 		<child type="StaticObj_Roadblock_CncBlock_DE" spawnsecondary="false" x="-0.504883" z="-15.667" a="55.9656" />
 		<child type="StaticObj_Roadblock_CncBlocks_Long_DE" spawnsecondary="false" x="20.0884" z="16.7139" a="144.744" />
@@ -192,12 +192,12 @@
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="3" lootmin="1" x="2.26855" z="21.314" a="32.1905" />
 		<child type="Land_GC_Wreck_M923_DE" deloot="1" lootmax="7" lootmin="5" x="9.68066" z="-8.36035" a="7.57473" />
 		<child type="Land_GC_Wreck_M923_DE" deloot="1" lootmax="7" lootmin="5" x="10.4473" z="0.983887" a="7.04601" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="7.77441" z="-20.9907" a="5.63606" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="3.8916" z="24.7256" a="185.847" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="7.77441" z="-20.9907" a="5.63606" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="3.8916" z="24.7256" a="185.847" />
 	</group>
 	<group name="NGCheckpoint_N_Burgess">
 		<child type="Land_Container_1Mo_DE" deloot="1" lootmax="3" lootmin="2" x="0" z="0" a="184.575" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="4.28418" z="24.459" a="187.177" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="4.28418" z="24.459" a="187.177" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="3.16846" z="22.8252" a="96.9234" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="1.25439" z="21.6143" a="129.283" />
 		<child type="Land_Container_1Mo_DE" deloot="1" lootmax="3" lootmin="2" x="0.481445" z="10.1826" a="184.574" />
@@ -213,7 +213,7 @@
 		<child type="Land_GC_Cardboard2_DE" deloot="1" lootmax="3" lootmin="1" x="3.94971" z="22.1621" a="103.337" />
 		<child type="Land_GC_Wreck_M923_DE" deloot="1" lootmax="7" lootmin="5" x="12.0088" z="0.990234" a="7.04611" />
 		<child type="Land_GC_Cardboard2_DE" deloot="1" lootmax="3" lootmin="1" x="4.28271" z="22.8359" a="103.337" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="8.10547" z="-23.750" a="7.83801" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="8.10547" z="-23.750" a="7.83801" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="2.2002" z="22.8887" a="98.3809" />
 	</group>
 	<group name="NGCheckpoint_NE_Burgess">
@@ -228,11 +228,11 @@
 		<child type="StaticObj_Roadblock_CncBlock_DE" spawnsecondary="false" x="-4.77148" z="22.9658" a="173.315" />
 		<child type="Land_GC_Wreck_M923_DE" deloot="1" lootmax="7" lootmin="5" x="8.55176" z="-8.68115" a="357.72425" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="-1.74023" z="22.9668" a="84.678" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="6.36035" z="-21.9004" a="357.98651" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="6.36035" z="-21.9004" a="357.98651" />
 		<child type="StaticObj_Roadblock_CncBlocks_Long_DE" spawnsecondary="false" x="-2.23438" z="24.1226" a="84.5748" />
 		<child type="StaticObj_Roadblock_CncBlocks_Long_DE" spawnsecondary="false" x="7.56445" z="-21.3623" a="267.5773" />
 		<child type="StaticObj_Roadblock_CncBlock_DE" spawnsecondary="false" x="10.1826" z="-20.3999" a="356.35958" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="-0.996094" z="24.8003" a="174.943" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="-0.996094" z="24.8003" a="174.943" />
 		<child type="Land_GC_Cardboard2_DE" spawnsecondary="false" x="-0.836914" z="22.4839" a="91.0912" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="-2.04297" z="21.1719" a="21.2934" />
 		<child type="Land_GC_Cardboard2_DE" spawnsecondary="false" x="-0.654297" z="23.2129" a="91.0887" />
@@ -252,9 +252,9 @@
 		<child type="Misc_TirePile_Burning_DE" spawnsecondary="false" x="19.5786" z="-7.2793" a="42.7271" />
 		<child type="Land_Wreck_offroad02_aban2_DE" deloot="1" lootmax="4" lootmin="3" x="-3.44336" z="13.7666" a="292,0475" />
 		<child type="Land_GC_Cardboards_Pallet2_DE" deloot="1" lootmax="1" lootmin="1" x="-17.0142" z="15.4905" a="45.2593" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="-17.0205" z="18.500" a="134.008" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="-17.0205" z="18.500" a="134.008" />
 		<child type="Land_GC_Cardboard2_DE" spawnsecondary="false" x="-15.7236" z="17.1223" a="50.2138" />
-		<child type="Land_GC_Townsigns_Checkpoint_DE" spawnsecondary="false" x="21.0791" z="-10.441" a="317.1099" />
+		<child type="Land_GC_Sign_Location_Checkpoint_DE" spawnsecondary="false" x="21.0791" z="-10.441" a="317.1099" />
 		<child type="Land_GC_Cardboard2_DE" spawnsecondary="false" x="-15.3848" z="16.4518" a="50.2162" />
 		<child type="StaticObj_Roadblock_CncBlock_DE" spawnsecondary="false" x="22.9937" z="-6.80005" a="315.4851" />
 	</group>

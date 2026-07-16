@@ -995,6 +995,24 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Orange"/>
         </children>
     </event>
+    <event name="VehicleBoat">
+        <nominal>4</nominal>
+        <min>2</min>
+        <max>4</max>
+        <lifetime>6000</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Boat_01_Blue"/>
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Boat_01_Orange"/>
+        </children>
+    </event>
 	<!-- GreenCounty -->
     <event name="InfectedNBCWhite">
         <nominal>50</nominal>
