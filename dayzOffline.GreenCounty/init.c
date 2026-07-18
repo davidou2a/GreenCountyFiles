@@ -1,91 +1,20 @@
 void main()
 {
-	//INIT ECONOMY--------------------------------------
-	Hive ce = CreateHive();
-	if ( ce )
-		ce.InitOffline();
+	// economy init
+	CreateHive();
+	GetHive().InitOffline();
 
-	//DATE RESET AFTER ECONOMY INIT-------------------------
-	int year, month, day, hour, minute;
-	int reset_month = 8, reset_day = 10;
-	GetGame().GetWorld().GetDate(year, month, day, hour, minute);
-
-	if ((month == reset_month) && (day < reset_day))
-	{
-		GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
-	}
-	else
-	{
-		if ((month == reset_month + 1) && (day > reset_day))
-		{
-			GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
-		}
-		else
-		{
-			if ((month < reset_month) || (month > reset_month + 1))
-			{
-				GetGame().GetWorld().SetDate(year, reset_month, reset_day, hour, minute);
-			}
-		}
-	}
-}
-
-class CustomMission: MissionServer
-{
-	void SetRandomHealth(EntityAI itemEnt)
-	{
-		if ( itemEnt )
-		{
-			float rndHlt = Math.RandomFloat( 0.45, 0.65 );
-			itemEnt.SetHealth01( "", "", rndHlt );
-		}
-	}
-
-	override PlayerBase CreateCharacter(PlayerIdentity identity, vector pos, ParamsReadContext ctx, string characterName)
-	{
-		Entity playerEnt;
-		playerEnt = GetGame().CreatePlayer( identity, characterName, pos, 0, "NONE" );
-		Class.CastTo( m_player, playerEnt );
-
-		GetGame().SelectPlayer( identity, m_player );
-
-		return m_player;
-	}
-
-	override void StartingEquipSetup(PlayerBase player, bool clothesChosen)
-	{
-		EntityAI itemClothing;
-		EntityAI itemEnt;
-		ItemBase itemBs;
-		float rand;
-
-		itemClothing = player.FindAttachmentBySlotName( "Body" );
-		if ( itemClothing )
-		{
-			SetRandomHealth( itemClothing );
-			
-			itemEnt = itemClothing.GetInventory().CreateInInventory( "BandageDressing" );
-			player.SetQuickBarEntityShortcut(itemEnt, 2);
-			
-			itemEnt = itemClothing.GetInventory().CreateInInventory( "Apple" );
-			itemEnt = itemClothing.GetInventory().CreateInInventory( "ChernarusMap" );
-
-			string chemlightArray[] = { "Chemlight_White", "Chemlight_Yellow", "Chemlight_Green", "Chemlight_Red" };
-			int rndIndex = Math.RandomInt( 0, 4 );
-			itemEnt = itemClothing.GetInventory().CreateInInventory( chemlightArray[rndIndex] );
-			player.SetQuickBarEntityShortcut(itemEnt, 1);
-			SetRandomHealth( itemEnt );
-		}
-		
-		itemClothing = player.FindAttachmentBySlotName( "Legs" );
-		if ( itemClothing )
-			SetRandomHealth( itemClothing );
-		
-		itemClothing = player.FindAttachmentBySlotName( "Feet" );
-	}
-};
-
-Mission CreateCustomMission(string path)
-{
-	return new CustomMission();
+	// comment/remove following 2 lines when not exporting (can cause further issues if you do this each time you start a mission!)
+	GetCEApi().ExportProxyData(Vector(5120, GetGame().SurfaceY(5120, 5120), 5120), 10240);
+	GetCEApi().ExportClusterData();					// cluster-type map groups export (fruit trees etc.)
+	
+	GetCEApi().EconomyLog(EconomyLogCategories.MapComplete); // affiche les stats de cet objet en .csv
+	//GetCEApi().EconomyLog("SewingKit"); // affiche les stats de cet objet en .csv
+	GetCEApi().EconomyMap(EconomyLogCategories.MapComplete); // affiche les lieux de spawn de cet objet en .tga
+	
+	// player creation
+	vector spawnPos = "5120 0 5120";
+	Entity playerEnt = GetGame().CreatePlayer(NULL, "SurvivorF_Eva", spawnPos, 0, "NONE");
+	PlayerBase player = (PlayerBase) playerEnt;
+	GetGame().SelectPlayer(NULL, player);
 };
