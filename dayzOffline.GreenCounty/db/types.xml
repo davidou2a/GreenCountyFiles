@@ -1544,10 +1544,10 @@
         <category name="food"/>
     </type>
     <type name="AirborneMask">
-        <nominal>14</nominal>
+        <nominal>7</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9115,10 +9115,10 @@
         <category name="containers"/>
     </type>
     <type name="GP5GasMask">
-        <nominal>14</nominal>
+        <nominal>7</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>4</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -9186,10 +9186,10 @@
         <category name="tools"/>
     </type>
     <type name="GasMask">
-        <nominal>14</nominal>
+        <nominal>7</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>10</min>
+        <min>4</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -9199,10 +9199,10 @@
         <usage name="Underground"/>
     </type>
     <type name="GasMask_Filter">
-        <nominal>30</nominal>
+        <nominal>20</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>25</min>
+        <min>15</min>
         <quantmin>20</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
@@ -15428,21 +15428,17 @@
         <usage name="Underground"/>
     </type>
     <type name="NBCBootsWhite">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="clothes"/>
-        <tag name="floor"/>
-        <tag name="ground"/>
-        <tag name="shelves"/>
         <usage name="Firefighter"/>
         <usage name="Medic"/>
-        <usage name="Military"/>
     </type>
     <type name="NBCBootsYellow">
         <nominal>0</nominal>
@@ -15459,21 +15455,17 @@
         <usage name="Firefighter"/>
     </type>
     <type name="NBCGlovesGray">
-        <nominal>8</nominal>
+        <nominal>7</nominal>
         <lifetime>14400</lifetime>
         <restock>3600</restock>
-        <min>4</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="clothes"/>
-        <tag name="floor"/>
-        <tag name="ground"/>
-        <tag name="shelves"/>
         <usage name="Firefighter"/>
         <usage name="Medic"/>
-        <usage name="Military"/>
     </type>
     <type name="NBCGlovesYellow">
         <nominal>0</nominal>
@@ -15502,21 +15494,17 @@
         <usage name="Underground"/>
     </type>
     <type name="NBCHoodWhite">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="clothes"/>
-        <tag name="floor"/>
-        <tag name="ground"/>
-        <tag name="shelves"/>
         <usage name="Firefighter"/>
         <usage name="Medic"/>
-        <usage name="Military"/>
     </type>
     <type name="NBCHoodYellow">
         <nominal>0</nominal>
@@ -15545,21 +15533,17 @@
         <usage name="Underground"/>
     </type>
     <type name="NBCJacketWhite">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="clothes"/>
-        <tag name="floor"/>
-        <tag name="ground"/>
-        <tag name="shelves"/>
         <usage name="Firefighter"/>
         <usage name="Medic"/>
-        <usage name="Military"/>
     </type>
     <type name="NBCJacketYellow">
         <nominal>0</nominal>
@@ -15588,21 +15572,17 @@
         <usage name="Underground"/>
     </type>
     <type name="NBCPantsWhite">
-        <nominal>8</nominal>
+        <nominal>4</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
-        <min>4</min>
+        <min>2</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="clothes"/>
-        <tag name="floor"/>
-        <tag name="ground"/>
-        <tag name="shelves"/>
         <usage name="Firefighter"/>
         <usage name="Medic"/>
-        <usage name="Military"/>
     </type>
     <type name="NBCPantsYellow">
         <nominal>0</nominal>

@@ -15437,12 +15437,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="clothes"/>
-        <tag name="floor"/>
-        <tag name="ground"/>
-        <tag name="shelves"/>
         <usage name="Firefighter"/>
         <usage name="Medic"/>
-        <usage name="Military"/>
     </type>
     <type name="NBCBootsYellow">
         <nominal>0</nominal>
@@ -15468,12 +15464,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="clothes"/>
-        <tag name="floor"/>
-        <tag name="ground"/>
-        <tag name="shelves"/>
         <usage name="Firefighter"/>
         <usage name="Medic"/>
-        <usage name="Military"/>
     </type>
     <type name="NBCGlovesYellow">
         <nominal>0</nominal>
@@ -15511,12 +15503,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="clothes"/>
-        <tag name="floor"/>
-        <tag name="ground"/>
-        <tag name="shelves"/>
         <usage name="Firefighter"/>
         <usage name="Medic"/>
-        <usage name="Military"/>
     </type>
     <type name="NBCHoodYellow">
         <nominal>0</nominal>
@@ -15554,12 +15542,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="clothes"/>
-        <tag name="floor"/>
-        <tag name="ground"/>
-        <tag name="shelves"/>
         <usage name="Firefighter"/>
         <usage name="Medic"/>
-        <usage name="Military"/>
     </type>
     <type name="NBCJacketYellow">
         <nominal>0</nominal>
@@ -15597,12 +15581,8 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="1"/>
         <category name="clothes"/>
-        <tag name="floor"/>
-        <tag name="ground"/>
-        <tag name="shelves"/>
         <usage name="Firefighter"/>
         <usage name="Medic"/>
-        <usage name="Military"/>
     </type>
     <type name="NBCPantsYellow">
         <nominal>0</nominal>

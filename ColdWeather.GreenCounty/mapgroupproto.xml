@@ -329,10 +329,9 @@
 		</container>
 	</group>
 	<group name="Land_GC_Wreck_CH47_DE" lootmax="4">
-		<usage name="Military" />
-		<usage name="Chinook" />		
-		<container name="militaryCrate" lootmax="1">
-			<category name="milcrate" />
+		<usage name="Military" />		
+		<container name="lootRamp" lootmax="1">
+			<category name="weapons" />
 			<point pos="6.095266 0.889659 -0.083722" range="3" height="3" /> 
 		</container>
 		<container name="lootSeats" lootmax="3">

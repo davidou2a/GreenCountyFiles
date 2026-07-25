@@ -17,7 +17,6 @@
         <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="2220" z="6110" r="50"/>
         <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="2796.67" z="5766.67" r="50"/>
         <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="2663.33" z="5370" r="50"/>
-        <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="3366.67" z="5400" r="50"/>
         <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="3696.67" z="5303.33" r="50"/>
         <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="1263.33" z="6993.33" r="50"/>
         <zone name="Zone_fox" smin="0" smax="0" dmin="0" dmax="2" x="1050" z="7413.33" r="50"/>
