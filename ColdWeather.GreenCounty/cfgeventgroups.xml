@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <eventgroupdef>
+	<!-- Chinhook CH-47 -->
+	<group name="CH47_Crestwood">
+		<child type="GC_MilitaryCrate" spawnsecondary="false" x="0" z="0" a="-48.677" y="0"/>
+		<child type="Land_GC_Wreck_CH47_DE" deloot="1" lootmax="3" lootmin="1" x="1.98975" z="-8.7627" a="0" y="-0.0624847"/>
+	</group>
+	<group name="CH47_Deweese">
+		<child type="GC_MilitaryCrate" spawnsecondary="false" x="0" z="0" a="85.4033" y="0"/>
+		<child type="Land_GC_Wreck_CH47_DE" deloot="1" lootmax="3" lootmin="1" x="-6.24634" z="-3.22461" a="37.7465" y="-0.0624847"/>
+	</group>
+	<group name="CH47_Louisville">
+		<child type="GC_MilitaryCrate" spawnsecondary="false" x="0" z="0" a="0" y="0"/>
+		<child type="Land_GC_Wreck_CH47_DE" deloot="1" lootmax="3" lootmin="1" x="-7.43701" z="0.736816" a="117.757" y="-0.0624237"/>
+	</group>
+	<group name="CH47_Flatwoods">
+		<child type="Land_GC_Wreck_CH47_DE" deloot="1" lootmax="3" lootmin="1" x="0" z="0" a="-120.842" y="0"/>
+		<child type="GC_MilitaryCrate" spawnsecondary="false" x="-6.87012" z="-7.40771" a="0" y="0.0625916"/>
+	</group>
+	<group name="CH47_Airstrip">
+		<child type="GC_MilitaryCrate" spawnsecondary="false"  x="0" z="0" a="-132.186" y="0"/>
+		<child type="Land_GC_Wreck_CH47_DE" deloot="1" lootmax="3" lootmin="1" x="8.73975" z="0.963867" a="-80.0109" y="-0.0625"/>
+	</group>
 	<!-- Biolab Corpse -->
     <group name="BiolabCorpse">
         <child type="StaticObj_FrozenScientist_DE" spawnsecondary="false" x="0.0" z="0.0" a="0"/>
