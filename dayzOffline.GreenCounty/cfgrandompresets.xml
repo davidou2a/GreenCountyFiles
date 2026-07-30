@@ -515,8 +515,6 @@
 		</cargo>
 		
 		<!--Xmas GiftBoxes-->
-		<!--Xmas GiftBoxes-->
-		
 		<cargo chance="1.0" name="Xmas_Clothes_Small">
 			<item name="ChristmasHeadband_Antlers" chance="0.0625" />
 			<item name="ChristmasHeadband_Trees" chance="0.0625" />
