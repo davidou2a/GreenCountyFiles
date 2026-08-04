@@ -1,0 +1,471 @@
+{
+    "Areas": [
+        { 	"AreaName": "Cutler", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 327.5, 0, 8380 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "PinesField", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 1645, 0, 9105 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "NWCave", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 3207.5, 0, 9762.5 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "PleasantHill", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 3540, 0, 9495 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "CreedmooreCastle", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 5222.5, 0, 9612.5 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "Altoona", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 8710, 0, 9002.5 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "NECave", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 10037.5, 0, 9245 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "Stappelton", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 5441.5, 0, 7145 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "DeersCove", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 4605.5, 0, 6831 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "Leaftown", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 8097.17, 0, 6294.33 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "SizemooreJail", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 2705.17, 0, 4994.33 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "Auberry", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 818.5, 0, 4444.33 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "ClydeGrove", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 3868.5, 0, 2907.67 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "HollyPondWChurch", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 2181.83, 0, 1204.33 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "CovingtonHeights", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 5741.833, 0, 1894.33 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "EastLake", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 7331.83, 0, 3094.33 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "GreenHeights", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 4565.17, 0, 611 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "BowersValley", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 6711.83, 0, 407.667 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		},
+        { 	"AreaName": "EastCave", 
+			"Type": "SpookyArea23", 
+			"TriggerType": "SpookyTrigger23",
+			"Data": { 
+				"Pos": [ 10101.8, 0, 1717.67 ],
+				"Radius": 100,
+				"PosHeight": 30,
+				"NegHeight": 10,
+				"InnerRingCount": 2,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "",
+				"TinyPartName": "",
+				"PPERequesterType": "PPERequester_SpookyAreaTint"
+			}
+		}
+    ],
+
+	"SafePositions":[
+		[8224, 9710],
+		[8975, 6866],
+		[5431, 2215],
+		[11323, 4446],
+		[11610, 664],
+		[7732, 2834],
+		[1229, 9794],
+		[6245, 8033],
+		[3186, 2284],
+		[5588, 5527],
+		[643, 5536],
+		[7729, 5177],
+		[8161, 8922],
+		[5721, 4182],
+		[2077, 11340],
+		[9208, 4227],
+		[4398, 6366],
+		[9985, 8497],
+		[3068, 6620],
+		[5993, 6372],
+		[9093, 2129],
+		[10296, 2359],
+		[4379, 4650],
+		[7973, 10476],
+		[10099, 3659],
+		[3449, 11703],
+		[2402, 5420]
+	]
+}

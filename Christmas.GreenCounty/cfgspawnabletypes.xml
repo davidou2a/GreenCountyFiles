@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>	
+	<type name="ZmbM_Santa">
+		<attachments preset="SantaHat" />
+	</type>
+</spawnabletypes>
