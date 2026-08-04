@@ -331,7 +331,7 @@
 	<group name="Land_GC_Wreck_CH47_DE" lootmax="4">
 		<usage name="Military" />		
 		<container name="lootRamp" lootmax="1">
-			<category name="weapons" />
+			<category name="containers" />
 			<point pos="6.095266 0.889659 -0.083722" range="3" height="3" /> 
 		</container>
 		<container name="lootSeats" lootmax="3">
@@ -434,7 +434,7 @@
 			<point pos="-0.791734 -0.497987 -0.661419" range="0.3" height="0.4" />
 		</container>
 	</group>
-	<group name="Land_GC_Cardboards_Pallet1" lootmax="4">		
+	<group name="Land_GC_Cardboards_Pallet1" lootmax="1">		
 		<container name="lootBox" lootmax="4">
 			<category name="food" />
 			<point pos="0.153169 1.010000 0.288177" range="0.25" height="0.25" /> 
@@ -443,7 +443,7 @@
 			<point pos="-0.231219 1.010000 0.259287" range="0.25" height="0.25" /> 
 		</container>
 	</group>
-	<group name="Land_GC_Cardboards_Pallet1_DE" lootmax="4">		
+	<group name="Land_GC_Cardboards_Pallet1_DE" lootmax="1">		
 		<container name="lootBox" lootmax="4">
 			<category name="food" />
 			<point pos="0.153169 1.010000 0.288177" range="0.25" height="0.25" /> 
@@ -452,7 +452,7 @@
 			<point pos="-0.231219 1.010000 0.259287" range="0.25" height="0.25" /> 
 		</container>
 	</group>
-	<group name="Land_GC_Cardboards_Pallet2" lootmax="3">
+	<group name="Land_GC_Cardboards_Pallet2" lootmax="1">
 		<usage name="Military" />
 		<container name="lootWeapons" lootmax="1">
 			<category name="weapons" />
@@ -471,7 +471,7 @@
 			<point pos="-0.314 1.010000 0.021" range="0.2" height="0.2" /> 
 		</container>
 	</group>
-	<group name="Land_GC_Cardboards_Pallet2_DE" lootmax="3">
+	<group name="Land_GC_Cardboards_Pallet2_DE" lootmax="1">
 		<usage name="Military" />
 		<container name="lootWeapons" lootmax="1">
 			<category name="weapons" />
@@ -490,7 +490,7 @@
 			<point pos="-0.314 1.010000 0.021" range="0.2" height="0.2" /> 
 		</container>
 	</group>
-	<group name="Land_GC_Cardboards_Pallet3" lootmax="3">
+	<group name="Land_GC_Cardboards_Pallet3" lootmax="1">
 		<usage name="Medic" />		
 		<container name="lootBig" lootmax="1">
 			<category name="containers" />
@@ -507,7 +507,7 @@
 			<point pos="-0.314 1.010000 0.021" range="0.2" height="0.2" /> 
 		</container>
 	</group>
-	<group name="Land_GC_Cardboards_Pallet3_DE" lootmax="4">
+	<group name="Land_GC_Cardboards_Pallet3_DE" lootmax="1">
 		<usage name="Medic" />		
 		<container name="lootBig" lootmax="1">
 			<category name="containers" />
