@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<territory-type>
+    <territory color="4278190080">
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="8095" z="6292.5" r="60"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="5426.25" z="7141.25" r="60"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="4613.33" z="6836.67" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="5226.67" z="9616.67" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="8603.33" z="8910" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="8720" z="9016.67" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="10036.7" z="9250" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="7316.67" z="3096.67" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="10110" z="1726.67" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="6693.33" z="393.333" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="4563.33" z="603.333" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="5763.33" z="1900" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="2180" z="1206.67" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="3873.33" z="2900" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="2676.67" z="5033.33" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="2726.67" z="4943.33" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="806.667" z="4446.67" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="326.667" z="8390" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="1650" z="9116.67" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="3513.33" z="9486.67" r="100"/>
+        <zone name="InfectedBonfire" smin="0" smax="0" dmin="4" dmax="6" x="3213.33" z="9766.67" r="100"/>
+    </territory>
+</territory-type>
