@@ -2,11 +2,11 @@
 <playerspawnpoints>
 	<fresh>
         <spawn_params>
-            <min_dist_infected>30</min_dist_infected>
-            <max_dist_infected>70</max_dist_infected>
-            <min_dist_player>65</min_dist_player>
-            <max_dist_player>150</max_dist_player>
-            <min_dist_static>0</min_dist_static>
+            <min_dist_infected>20</min_dist_infected>
+            <max_dist_infected>50</max_dist_infected>
+            <min_dist_player>20</min_dist_player>
+            <max_dist_player>50</max_dist_player>
+            <min_dist_static>1</min_dist_static>
             <max_dist_static>2</max_dist_static>
         </spawn_params>
         <generator_params>
@@ -21,7 +21,7 @@
         <group_params>
             <enablegroups>true</enablegroups>
             <groups_as_regular>true</groups_as_regular>
-            <lifetime>60</lifetime>
+            <lifetime>90</lifetime>
             <counter>1</counter>
         </group_params>
 		<generator_posbubbles>
@@ -109,17 +109,17 @@
 
 	<hop>
         <spawn_params>
-            <min_dist_infected>30.0</min_dist_infected>
-            <max_dist_infected>70.0</max_dist_infected>
-            <min_dist_player>25.0</min_dist_player>
-            <max_dist_player>70.0</max_dist_player>
-            <min_dist_static>0.5</min_dist_static>
-            <max_dist_static>2.0</max_dist_static>
+            <min_dist_infected>20</min_dist_infected>
+            <max_dist_infected>50</max_dist_infected>
+            <min_dist_player>20</min_dist_player>
+            <max_dist_player>50</max_dist_player>
+            <min_dist_static>1</min_dist_static>
+            <max_dist_static>2</max_dist_static>
         </spawn_params>
         <generator_params>
             <grid_density>4</grid_density>
-            <grid_width>150</grid_width>
-            <grid_height>150</grid_height>
+            <grid_width>200</grid_width>
+            <grid_height>200</grid_height>
             <min_dist_static>0</min_dist_static>
             <max_dist_static>2</max_dist_static>
             <min_steepness>-45</min_steepness>
@@ -128,7 +128,7 @@
         <group_params>
             <enablegroups>true</enablegroups>
             <groups_as_regular>true</groups_as_regular>
-            <lifetime>60</lifetime>
+            <lifetime>90</lifetime>
             <counter>1</counter>
         </group_params>
 		<generator_posbubbles>
@@ -216,17 +216,17 @@
 
 	<travel>
         <spawn_params>
-            <min_dist_infected>30.0</min_dist_infected>
-            <max_dist_infected>70.0</max_dist_infected>
-            <min_dist_player>25.0</min_dist_player>
-            <max_dist_player>70.0</max_dist_player>
-            <min_dist_static>0.5</min_dist_static>
-            <max_dist_static>2.0</max_dist_static>
+            <min_dist_infected>20</min_dist_infected>
+            <max_dist_infected>50</max_dist_infected>
+            <min_dist_player>20</min_dist_player>
+            <max_dist_player>50</max_dist_player>
+            <min_dist_static>1</min_dist_static>
+            <max_dist_static>2</max_dist_static>
         </spawn_params>
-       <generator_params>
+        <generator_params>
             <grid_density>4</grid_density>
-            <grid_width>150</grid_width>
-            <grid_height>150</grid_height>
+            <grid_width>200</grid_width>
+            <grid_height>200</grid_height>
             <min_dist_static>0</min_dist_static>
             <max_dist_static>2</max_dist_static>
             <min_steepness>-45</min_steepness>
@@ -235,7 +235,7 @@
         <group_params>
             <enablegroups>true</enablegroups>
             <groups_as_regular>true</groups_as_regular>
-            <lifetime>60</lifetime>
+            <lifetime>90</lifetime>
             <counter>1</counter>
         </group_params>
 		<generator_posbubbles>
