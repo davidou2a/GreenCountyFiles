@@ -1780,11 +1780,6 @@
         <attachments preset="headtorches" />
         <attachments preset="OfficerHatArmy" />
     </type>
-    <type name="ZmbM_usSoldier_Heavy_Woodland">
-        <cargo preset="foodArmy" />
-        <attachments preset="HeavyArmorArmy" />
-        <attachments preset="HeavyHelmetArmy" />
-    </type>
     <type name="ZmbF_usSoldier_Heavy_Desert">
         <cargo preset="foodArmy" />
         <attachments preset="HeavyArmorArmy" />
@@ -1804,11 +1799,6 @@
             <item name="MedicalScrubsHat_Green" chance="1.0" />
         </attachments>
         <cargo preset="foodArmy" />
-    </type>
-    <type name="ZmbM_usSoldier_Heavy_Woodland">
-        <cargo preset="foodArmy" />
-        <attachments preset="HeavyArmorArmy" />
-        <attachments preset="HeavyHelmetArmy" />
     </type>
     <!--City-->
     <type name="ZmbF_Clerk_Normal_Blue">

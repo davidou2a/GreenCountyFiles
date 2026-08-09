@@ -59,6 +59,7 @@
 			<export name="CaninaBush2" shape="dz\plants_bliss\bush\b_rosaCanina_2s_summer.p3d" />
 			<export name="SambucusBush1" shape="dz\plants_bliss\bush\b_sambucusNigra_1s_summer.p3d" />
 			<export name="SambucusBush2" shape="dz\plants_bliss\bush\b_sambucusNigra_2s_summer.p3d" />
+			<export name="VillageLamps" shape="dz\structures_bliss\residential\Misc\Lamp_Harbour.p3d" />
 		</clusters>
 <!--Groups -->
 <!-- Apple -->
