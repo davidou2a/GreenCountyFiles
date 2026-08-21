@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <eventgroupdef>
+	<!-- Trains -->
+	<group name="CivTrain_S_GreenHeights">
+		<child type="StaticObj_Wreck_Train_742_Red_DE" deloot="1" lootmax="3" lootmin="1" x="0" z="0" a="0.937441" y="0"/>
+		<child type="StaticObj_Wreck_Train_Wagon_Tanker_DE" deloot="1" lootmax="3" lootmin="1" x="-0.470703" z="-12.2592" a="2.00569" y="-0.684662"/>
+		<child type="StaticObj_Train_Wagon_Flat_Industrial_Planks_DE" deloot="1" lootmax="3" lootmin="1" x="-2.08447" z="-50.9857" a="14.2489" y="-3.58389"/>
+		<child type="Land_Train_Wagon_Box_DE" deloot="1" lootmax="3" lootmin="1" x="-0.598145" z="-23.9648" a="0.894307" y="-1.15527"/>
+		<child type="Land_Container_1Aoh_DE" deloot="1" lootmax="3" lootmin="1" x="-4.85791" z="-48.617" a="52.0227" y="-2.18124"/>
+		<child type="Land_Train_Wagon_Box_DE" deloot="1" lootmax="3" lootmin="1" x="-0.726563" z="-36.0658" a="0.518435" y="-1.492"/>
+		<child type="Land_Container_1Bo_DE" deloot="1" lootmax="3" lootmin="1" x="-7.56787" z="-45.1513" a="-82.6342" y="-2.86496"/>
+	</group>
 	<!-- Chinhook CH-47 -->
 	<group name="CH47_Crestwood">
 		<child type="GC_MilitaryCrate" spawnsecondary="false" x="0" z="0" a="-48.677" y="0"/>
