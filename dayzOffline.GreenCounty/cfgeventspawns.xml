@@ -732,6 +732,14 @@
 		<pos x="8065.39" z="1809.45" a="1.04237"/>
 		<pos x="8745.97" z="1888.45" a="-163.758"/>
 	</event>
+	<event name="VehicleMotorbike">
+		<pos x="8157.02" z="1871.01" a="16.8843"/>
+		<pos x="8734.44" z="1815.15" a="64.8837"/>
+		<pos x="7919.57" z="1516.57" a="-59.1444"/>
+		<pos x="8401" z="2091" a="1.26965"/>
+		<pos x="8065.39" z="1809.45" a="1.04237"/>
+		<pos x="8745.97" z="1888.45" a="-163.758"/>
+	</event>
     <!--<event name="VehicleTransitBus" />-->
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />

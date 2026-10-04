@@ -206,8 +206,9 @@
         <cargo preset="ammoArmy" />
         <attachments preset="bagsArmy" />
         <attachments preset="vestsArmy" />
-        <attachments chance="0.5">
-            <item name="GC_BoonieHat_Marpat" chance="1.0" />
+        <attachments chance="0.75">
+            <item name="GC_BoonieHat_Marpat" chance="0.5" />
+            <item name="MilitaryCap_Woodland" chance="0.5" />
         </attachments>
     </type>
     <type name="ZmbM_usSoldier_Officer_Woodland">
