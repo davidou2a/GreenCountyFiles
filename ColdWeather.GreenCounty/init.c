@@ -7,7 +7,7 @@ void main()
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
-	int reset_month = 8, reset_day = 10;
+	int reset_month = 7, reset_day = 17;
 	GetGame().GetWorld().GetDate(year, month, day, hour, minute);
 
 	if ((month == reset_month) && (day < reset_day))
@@ -66,9 +66,6 @@ class CustomMission: MissionServer
 			
 			itemEnt = itemClothing.GetInventory().CreateInInventory( "BandageDressing" );
 			player.SetQuickBarEntityShortcut(itemEnt, 2);
-			
-			itemEnt = itemClothing.GetInventory().CreateInInventory( "Apple" );
-			itemEnt = itemClothing.GetInventory().CreateInInventory( "ChernarusMap" );
 
 			string chemlightArray[] = { "Chemlight_White", "Chemlight_Yellow", "Chemlight_Green", "Chemlight_Red" };
 			int rndIndex = Math.RandomInt( 0, 4 );
@@ -88,4 +85,4 @@ class CustomMission: MissionServer
 Mission CreateCustomMission(string path)
 {
 	return new CustomMission();
-};
+}
