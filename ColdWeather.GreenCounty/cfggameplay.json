@@ -81,7 +81,10 @@
 		{
 			"disablePerformRoofCheck": false,
 			"disableIsCollidingCheck": false,
-			"disableDistanceCheck": false
+			"disableDistanceCheck": false,
+			"disableItemFalling": false,
+			"disableDropAttachmentsOnFall": false,
+			"disableRefundMaterialsOnFall": false
 		}
 	},
 	"UIData":

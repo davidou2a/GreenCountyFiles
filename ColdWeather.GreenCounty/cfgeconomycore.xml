@@ -38,4 +38,10 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
+	
+	<ce folder="GreenCounty_db">
+		<file name="types.xml" type="types" />
+		<file name="events.xml" type="events" />
+		<file name="cfgspawnabletypes.xml" type="spawnabletypes" />
+	</ce>
 </economycore>
