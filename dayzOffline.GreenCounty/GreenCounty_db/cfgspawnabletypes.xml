@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<spawnabletypes>
+    <type name="GC_Sherpa7R_Backpack_Green">
+        <damage min="0.1" max="0.6" />
+        <cargo preset="foodVillage" />
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+        <cargo preset="mixVillage" />
+        <attachments chance="0.50">
+            <item name="Hatchet" chance="0.50" />
+            <item name="Rope" chance="0.65" />
+        </attachments>
+        <attachments chance="0.90">
+            <item name="Chemlight_Blue" chance="0.25" />
+            <item name="Chemlight_Green" chance="0.25" />
+            <item name="Chemlight_Red" chance="0.25" />
+            <item name="Chemlight_White" chance="0.25" />
+            <item name="Chemlight_Yellow" chance="0.25" />
+        </attachments>
+        <attachments chance="0.75">
+            <item name="PersonalRadio" chance="1.0" />
+        </attachments>
+    </type>
+    <type name="GC_Sherpa7R_Backpack_Blue">
+        <damage min="0.1" max="0.6" />
+        <cargo preset="foodVillage" />
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+        <cargo preset="mixVillage" />
+        <attachments chance="0.50">
+            <item name="Hatchet" chance="0.50" />
+            <item name="Rope" chance="0.65" />
+        </attachments>
+        <attachments chance="0.90">
+            <item name="Chemlight_Blue" chance="0.25" />
+            <item name="Chemlight_Green" chance="0.25" />
+            <item name="Chemlight_Red" chance="0.25" />
+            <item name="Chemlight_White" chance="0.25" />
+            <item name="Chemlight_Yellow" chance="0.25" />
+        </attachments>
+        <attachments chance="0.75">
+            <item name="PersonalRadio" chance="1.0" />
+        </attachments>
+    </type>
+    <type name="GC_Sherpa7R_Backpack_Wine">
+        <damage min="0.1" max="0.6" />
+        <cargo preset="foodVillage" />
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+        <cargo preset="mixVillage" />
+        <attachments chance="0.50">
+            <item name="Hatchet" chance="0.50" />
+            <item name="Rope" chance="0.65" />
+        </attachments>
+        <attachments chance="0.90">
+            <item name="Chemlight_Blue" chance="0.25" />
+            <item name="Chemlight_Green" chance="0.25" />
+            <item name="Chemlight_Red" chance="0.25" />
+            <item name="Chemlight_White" chance="0.25" />
+            <item name="Chemlight_Yellow" chance="0.25" />
+        </attachments>
+        <attachments chance="0.75">
+            <item name="PersonalRadio" chance="1.0" />
+        </attachments>
+    </type>
+    <type name="GC_Sherpa7R_Backpack_Sand">
+        <damage min="0.1" max="0.6" />
+        <cargo preset="foodVillage" />
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+        <cargo preset="mixVillage" />
+        <attachments chance="0.50">
+            <item name="Hatchet" chance="0.50" />
+            <item name="Rope" chance="0.65" />
+        </attachments>
+        <attachments chance="0.90">
+            <item name="Chemlight_Blue" chance="0.25" />
+            <item name="Chemlight_Green" chance="0.25" />
+            <item name="Chemlight_Red" chance="0.25" />
+            <item name="Chemlight_White" chance="0.25" />
+            <item name="Chemlight_Yellow" chance="0.25" />
+        </attachments>
+        <attachments chance="0.75">
+            <item name="PersonalRadio" chance="1.0" />
+        </attachments>
+    </type>
+    <type name="GC_Sherpa7R_Backpack_CamoGreen">
+        <damage min="0.1" max="0.6" />
+        <cargo preset="foodVillage" />
+        <cargo preset="foodVillage" />
+        <cargo preset="foodVillage" />
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+        <cargo preset="mixVillage" />
+        <cargo preset="mixVillage" />
+        <cargo preset="mixVillage" />
+        <attachments chance="0.50">
+            <item name="Hatchet" chance="0.50" />
+            <item name="Rope" chance="0.65" />
+        </attachments>
+        <attachments chance="0.90">
+            <item name="Chemlight_Blue" chance="0.25" />
+            <item name="Chemlight_Green" chance="0.25" />
+            <item name="Chemlight_Red" chance="0.25" />
+            <item name="Chemlight_White" chance="0.25" />
+            <item name="Chemlight_Yellow" chance="0.25" />
+        </attachments>
+        <attachments chance="0.75">
+            <item name="PersonalRadio" chance="1.0" />
+        </attachments>
+    </type>
+    <type name="GC_Sherpa7R_Backpack_CamoBlue">
+        <damage min="0.1" max="0.6" />
+        <cargo preset="foodVillage" />
+        <cargo preset="foodVillage" />
+        <cargo preset="foodVillage" />
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+        <cargo preset="mixVillage" />
+        <cargo preset="mixVillage" />
+        <cargo preset="mixVillage" />
+        <attachments chance="0.50">
+            <item name="Hatchet" chance="0.50" />
+            <item name="Rope" chance="0.65" />
+        </attachments>
+        <attachments chance="0.90">
+            <item name="Chemlight_Blue" chance="0.25" />
+            <item name="Chemlight_Green" chance="0.25" />
+            <item name="Chemlight_Red" chance="0.25" />
+            <item name="Chemlight_White" chance="0.25" />
+            <item name="Chemlight_Yellow" chance="0.25" />
+        </attachments>
+        <attachments chance="0.75">
+            <item name="PersonalRadio" chance="1.0" />
+        </attachments>
+    </type>
+    <type name="GC_Sherpa7R_Backpack_CamoWine">
+        <damage min="0.1" max="0.6" />
+        <cargo preset="foodVillage" />
+        <cargo preset="foodVillage" />
+        <cargo preset="foodVillage" />
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+        <cargo preset="mixVillage" />
+        <cargo preset="mixVillage" />
+        <cargo preset="mixVillage" />
+        <attachments chance="0.50">
+            <item name="Hatchet" chance="0.50" />
+            <item name="Rope" chance="0.65" />
+        </attachments>
+        <attachments chance="0.90">
+            <item name="Chemlight_Blue" chance="0.25" />
+            <item name="Chemlight_Green" chance="0.25" />
+            <item name="Chemlight_Red" chance="0.25" />
+            <item name="Chemlight_White" chance="0.25" />
+            <item name="Chemlight_Yellow" chance="0.25" />
+        </attachments>
+        <attachments chance="0.75">
+            <item name="PersonalRadio" chance="1.0" />
+        </attachments>
+    </type>
+    <type name="GC_Sherpa7R_Backpack_CamoSand">
+        <damage min="0.1" max="0.6" />
+        <cargo preset="foodVillage" />
+        <cargo preset="foodVillage" />
+        <cargo preset="foodVillage" />
+        <cargo preset="foodVillage" />
+        <cargo preset="mixVillage" />
+        <cargo preset="mixVillage" />
+        <cargo preset="mixVillage" />
+        <cargo preset="mixVillage" />
+        <attachments chance="0.50">
+            <item name="Hatchet" chance="0.50" />
+            <item name="Rope" chance="0.65" />
+        </attachments>
+        <attachments chance="0.90">
+            <item name="Chemlight_Blue" chance="0.25" />
+            <item name="Chemlight_Green" chance="0.25" />
+            <item name="Chemlight_Red" chance="0.25" />
+            <item name="Chemlight_White" chance="0.25" />
+            <item name="Chemlight_Yellow" chance="0.25" />
+        </attachments>
+        <attachments chance="0.75">
+            <item name="PersonalRadio" chance="1.0" />
+        </attachments>
+    </type>
+    <type name="ScientificBriefcase">
+        <damage min="0.0" max="0.0" />
+        <cargo chance="1.0">
+            <item name="PunchedCard" />
+        </cargo>
+        <cargo chance="1.0">
+            <item name="GC_Clipboard_BioLab_01" />
+        </cargo>
+        <hoarder />
+    </type>
+    <type name="ZmbM_NBC_White">
+        <cargo preset="ContaminatedCargo" />
+        <cargo chance="0.03">
+            <item name="AntiChemInjector" chance="1.0" />
+        </cargo>        
+		<cargo chance="0.1">
+            <item name="ScientificBriefcaseKeys" chance="1.0" />
+        </cargo>
+    </type>
+    <type name="ZmbM_usSoldier_normal_Woodland">
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+        <attachments preset="bagsArmy" />
+        <attachments preset="vestsArmy" />
+        <attachments chance="0.75">
+            <item name="GC_BoonieHat_Marpat" chance="0.5" />
+            <item name="MilitaryCap_Woodland" chance="0.5" />
+        </attachments>
+    </type>
+    <type name="ZmbM_usSoldier_Officer_Woodland">
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+        <attachments preset="bagsArmy" />
+        <attachments preset="vestsArmy" />
+        <attachments chance="1.0">
+            <item name="MilitaryBeret_NZ" chance="0.5" />
+            <item name="MilitaryBeret_Red" chance="0.5" />
+        </attachments>
+    </type>
+    <type name="ZmbM_usSoldier_Officer_Woodland_Convoy">
+        <attachments chance="1.0">
+            <item name="MilitaryBeret_NZ" chance="0.5" />
+            <item name="MilitaryBeret_Red" chance="0.5" />
+        </attachments>
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+        <attachments preset="bagsArmy" />
+        <attachments preset="vestsArmy" />
+    </type>
+    <type name="ZmbM_usSoldier_Heavy_Woodland">
+        <attachments preset="bagsArmy" />
+        <attachments preset="HeavyArmorArmy" />
+        <attachments chance="1.0">
+            <item name="BallisticHelmet_Woodland" chance="1.0" />
+        </attachments>
+        <cargo preset="foodArmy" />
+        <cargo preset="ammoArmy" />
+        <cargo preset="ammoArmy" />
+        <cargo chance="0.1">
+            <item name="GC_MilitaryCrateKeys" />
+        </cargo>
+    </type>
+</spawnabletypes>

@@ -1,0 +1,9 @@
+The GreenCounty_db folder contains a selection of elements specific to Green County 
+that were originally located in the db folder. This makes it easier for me to update 
+the mission files, which are partly based on those from Livonia.
+
+Do not delete this folder, as doing so may break certain game mechanics and the 
+economy of Green County. These files are called in cfgeconomycore.xml file.
+
+Further information on this process:
+https://community.bistudio.com/wiki/DayZ:Central_Economy_mission_files_modding 
